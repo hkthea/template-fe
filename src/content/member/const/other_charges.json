@@ -1,0 +1,70 @@
+[
+    {
+      "code": "AD",
+      "desc": "AWB FEE DOM"
+    },
+    {
+      "code": "AW",
+      "desc": "AWB FEE INTL"
+    },
+    {
+      "code": "BF",
+      "desc": "FHL Consolidation Fee"
+    },
+    {
+      "code": "CH",
+      "desc": "CLEARANCE AND HANDLING"
+    },
+    {
+      "code": "FE",
+      "desc": "KADE DOMESTIK"
+    },
+    {
+      "code": "FI",
+      "desc": "GROUND HANDLING FEE"
+    },
+    {
+      "code": "LG",
+      "desc": "HANDLING AVI"
+    },
+    {
+      "code": "MC",
+      "desc": "MISCELLANEOUS CHARGE"
+    },
+    {
+      "code": "MD",
+      "desc": "TRUCKING DESTINATION"
+    },
+    {
+      "code": "MS",
+      "desc": "CARGO SERVICE CHARGE"
+    },
+    {
+      "code": "MY",
+      "desc": "FUEL SURCHARGE"
+    },
+    {
+      "code": "PA",
+      "desc": "PERISHABLE HANDLING"
+    },
+    {
+      "code": "RA",
+      "desc": "DGR FEE"
+    },
+    {
+      "code": "SC",
+      "desc": "SECURITY CHARGE"
+    },
+    {
+      "code": "SO",
+      "desc": "WAREHOUSE CHARGE"
+    },
+    {
+      "code": "ST",
+      "desc": "HANDLING TO SUB"
+    },
+    {
+      "code": "TR",
+      "desc": "TRANSITMENT FEE"
+    }
+  ]

@@ -1,0 +1,342 @@
+[
+  {
+    "shc": "GEN",
+    "desc": "General Cargo"
+  },
+  {
+    "shc": "PER",
+    "desc": "Perishable Cargo"
+  },
+  {
+    "shc": "PES",
+    "desc": "Fish/Seafood"
+  },
+  {
+    "shc": "ACT",
+    "desc": "Active Temperatur Controlled System"
+  },
+  {
+    "shc": "AOG",
+    "desc": "Aircraft on Ground"
+  },
+  {
+    "shc": "ATT",
+    "desc": "Goods Attached to Air WayBill"
+  },
+  {
+    "shc": "AVI",
+    "desc": "Live Animal"
+  },
+  {
+    "shc": "BIG",
+    "desc": "Outsized"
+  },
+  {
+    "shc": "BUP",
+    "desc": "Bulk Unitization Programme, Shipper/Consignee Handled Unit"
+  },
+  {
+    "shc": "CAO",
+    "desc": "Cargo Aircraft Only"
+  },
+  {
+    "shc": "CAO",
+    "desc": "Cargo Aircraft Only"
+  },
+  {
+    "shc": "CAT",
+    "desc": "Cargo Attendant Accompanying Shipment"
+  },
+  {
+    "shc": "COL",
+    "desc": "Cool Goods"
+  },
+  {
+    "shc": "COM",
+    "desc": "Company Mail"
+  },
+  {
+    "shc": "DGD",
+    "desc": "Shipper's Declaration for Dangerous Goods"
+  },
+  {
+    "shc": "DIP",
+    "desc": "Diplomatic Mail"
+  },
+  {
+    "shc": "EAT",
+    "desc": "Foodstuffs"
+  },
+  {
+    "shc": "EAW",
+    "desc": "e-Freight Consignment with No Accompanying Shipment"
+  },
+  {
+    "shc": "FIL",
+    "desc": "Undeveloped/Unexposed Film"
+  },
+  {
+    "shc": "FRI",
+    "desc": "Frozen Goods Subject to Veterinary/Phytosanitary Inspection"
+  },
+  {
+    "shc": "FRO",
+    "desc": "Frozen Goods"
+  },
+  {
+    "shc": "GOG",
+    "desc": "Hanging Garment"
+  },
+  {
+    "shc": "HEA",
+    "desc": "Heavy Cargo, 150 kg, and over per piece"
+  },
+  {
+    "shc": "HEG",
+    "desc": "Hatching Eggs"
+  },
+  {
+    "shc": "HUM",
+    "desc": "Human Remains in Coffins"
+  },
+  {
+    "shc": "ICE",
+    "desc": "Carbon Dioxide, Solid (Dry Ice)"
+  },
+  {
+    "shc": "IMP",
+    "desc": "Interline Message Procedure"
+  },
+  {
+    "shc": "LHO",
+    "desc": "Living Human Organs/Blood"
+  },
+  {
+    "shc": "LIC",
+    "desc": "License Required"
+  },
+  {
+    "shc": "MAG",
+    "desc": "Magnetized Material"
+  },
+  {
+    "shc": "MLS",
+    "desc": "Mail"
+  },
+  {
+    "shc": "MUW",
+    "desc": "Munitions of War"
+  },
+  {
+    "shc": "NWP",
+    "desc": "Newspaper, Magazines"
+  },
+  {
+    "shc": "OBX",
+    "desc": "Obnoxious Cargo"
+  },
+  {
+    "shc": "OHG",
+    "desc": "Overhang Item"
+  },
+  {
+    "shc": "PAC",
+    "desc": "Passenger and Cargo"
+  },
+  {
+    "shc": "PEA",
+    "desc": "Hunting Trophies, Skin, Hide, and All Articles made from or"
+  },
+  {
+    "shc": "PEF",
+    "desc": "Flowers"
+  },
+  {
+    "shc": "PEM",
+    "desc": "Meat"
+  },
+  {
+    "shc": "PEP",
+    "desc": "Fruits and Vegetables"
+  }, 
+  {
+    "shc": "PIL",
+    "desc": "Pharmaceuticals"
+  },
+  {
+    "shc": "QRT",
+    "desc": "Quick Ramp Transfer"
+  },
+  {
+    "shc": "RAC",
+    "desc": "Reserved Air Cargo"
+  },
+  {
+    "shc": "RCL",
+    "desc": "Cryogenic Liquids"
+  },
+  {
+    "shc": "RCM",
+    "desc": "Corrosive"
+  },
+  {
+    "shc": "RCX",
+    "desc": "Explosives 1.3C"
+  },
+  {
+    "shc": "RDS",
+    "desc": "Biological Substance, Category B (UN 3373)"
+  },
+  {
+    "shc": "RDS",
+    "desc": "Biological Substance, Category B (UN 3373)"
+  },
+  {
+    "shc": "REQ",
+    "desc": "Excepted Quantities of Dangerous Goods"
+  },
+  {
+    "shc": "REQ",
+    "desc": "Excepted Quantities of Dangerous Goods"
+  },
+  {
+    "shc": "REX",
+    "desc": "To be Reserved for Normally Forbidden Explosives Divisions"
+  },
+  {
+    "shc": "RRE",
+    "desc": "Excepted Quantities of Radioactive Material"
+  },
+  {
+    "shc": "SAL",
+    "desc": "Surface Mail"
+  },
+  {
+    "shc": "SHL",
+    "desc": "Save Human Life"
+  },
+  {
+    "shc": "SPF",
+    "desc": "Laboratory Animals"
+  },
+  {
+    "shc": "SUR",
+    "desc": "Surface Transportation"
+  },
+  {
+    "shc": "SWP",
+    "desc": "Sporting Weapons"
+  },
+  {
+    "shc": "VAL",
+    "desc": "Valuable Cargo"
+  },
+  {
+    "shc": "VOL",
+    "desc": "Volume"
+  },
+  {
+    "shc": "VUN",
+    "desc": "Vulnerable Cargo"
+  },
+  {
+    "shc": "WET",
+    "desc": "Shipments of Wet Material not packed in Watertight Containers"
+  },
+  {
+    "shc": "XPS",
+    "desc": "Priority Small Package"
+  },
+  {
+    "shc": "RFG",
+    "desc": "Flammable Gas"
+  },
+  {
+    "shc": "RFL",
+    "desc": "Flammable Liquids"
+  },
+  {
+    "shc": "RFS",
+    "desc": "Flammable Solid"
+  },
+  {
+    "shc": "RFW",
+    "desc": "Dangerous When Wet"
+  },
+  {
+    "shc": "RGX",
+    "desc": "Explosives 1.3G"
+  },
+  {
+    "shc": "RIS",
+    "desc": "Infectious Substance (UN 2814 or UN 2900)"
+  },
+  {
+    "shc": "RMD",
+    "desc": "Miscellaneous Dangerous Goods"
+  },
+  {
+    "shc": "RNG",
+    "desc": "Non-Flammable, Non-Toxic Gas"
+  },
+  {
+    "shc": "ROP",
+    "desc": "Organic Peroxide"
+  },
+  {
+    "shc": "ROX",
+    "desc": "Oxidizer"
+  },
+  {
+    "shc": "RPB",
+    "desc": "Toxic Substance"
+  },
+  {
+    "shc": "RPG",
+    "desc": "Toxis Gas"
+  },
+  {
+    "shc": "RRE",
+    "desc": "Excepted Quantities of Radioactive Material"
+  },
+  {
+    "shc": "RRW",
+    "desc": "Radioactive Material, Category I-White"
+  },
+  {
+    "shc": "RRY",
+    "desc": "Radioactive Material, Category II and III-Yellow"
+  },
+  {
+    "shc": "RSB",
+    "desc": "Polymeric Beads"
+  },
+  {
+    "shc": "RSC",
+    "desc": "Spontaneously Combustible"
+  },
+  {
+    "shc": "RXB",
+    "desc": "Explosives 1.4B"
+  },
+  {
+    "shc": "RXC",
+    "desc": "Explosives 1.4C"
+  },
+  {
+    "shc": "RXD",
+    "desc": "Explosives 1.4D"
+  },
+  {
+    "shc": "RXE",
+    "desc": "Explosives 1.4E"
+  },
+  {
+    "shc": "RXG",
+    "desc": "Explosives 1.4G"
+  },
+  {
+    "shc": "RXS",
+    "desc": "Explosives 1.4S"
+  }
+]

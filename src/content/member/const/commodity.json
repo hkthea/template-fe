@@ -1,0 +1,9658 @@
+[
+    {
+      "code": 10001,
+      "description": "GENERAL CARGO"
+    },
+    {
+      "code": 0,
+      "description": "ITEM IS USED TO LOAD PROPORTIONALS FOR ITEMS"
+    },
+    {
+      "code": 2,
+      "description": "FRUIT (DRY/ FRESH)"
+    },
+    {
+      "code": 3,
+      "description": "BEVERAGES"
+    },
+    {
+      "code": 3,
+      "description": "SPICES"
+    },
+    {
+      "code": 3,
+      "description": "FOODSTUFFS (EXCLUDING CAVIAR/ HATCHING EGGS)"
+    },
+    {
+      "code": 6,
+      "description": "BEVERAGES"
+    },
+    {
+      "code": 6,
+      "description": "SPICES"
+    },
+    {
+      "code": 6,
+      "description": "FOODSTUFFS"
+    },
+    {
+      "code": 7,
+      "description": "VEGETABLES"
+    },
+    {
+      "code": 7,
+      "description": "FRUIT"
+    },
+    {
+      "code": 8,
+      "description": "VEGETABLES - FRESH -"
+    },
+    {
+      "code": 8,
+      "description": "FRUIT"
+    },
+    {
+      "code": 9,
+      "description": "BEVERAGES"
+    },
+    {
+      "code": 9,
+      "description": "SPICES"
+    },
+    {
+      "code": 9,
+      "description": "FOODSTUFFS (EXCLUDING STRAWBERRIES)"
+    },
+    {
+      "code": 10,
+      "description": "INFANT FOOD"
+    },
+    {
+      "code": 11,
+      "description": "BEVERAGES - DESTINED TO EMBASSIES/ CONSULATES/LEGATIONS -"
+    },
+    {
+      "code": 11,
+      "description": "FOODSTUFFS"
+    },
+    {
+      "code": 12,
+      "description": "BEVERAGES"
+    },
+    {
+      "code": 12,
+      "description": "SPICES"
+    },
+    {
+      "code": 12,
+      "description": "FOODSTUFFS (EXCLUDING MEAT/ FISH/ SEAFOOD)"
+    },
+    {
+      "code": 14,
+      "description": "FRUITS AND VEGETABLES EXCL. BANANAS"
+    },
+    {
+      "code": 16,
+      "description": "VEGETABLES"
+    },
+    {
+      "code": 16,
+      "description": "FRUIT (EXCLUDING STRAWBERRIES)"
+    },
+    {
+      "code": 17,
+      "description": "EARTH NUTS"
+    },
+    {
+      "code": 17,
+      "description": "TUBERS"
+    },
+    {
+      "code": 18,
+      "description": "MARACUYA"
+    },
+    {
+      "code": 18,
+      "description": "ASPARAGUS"
+    },
+    {
+      "code": 20,
+      "description": "NUTS"
+    },
+    {
+      "code": 23,
+      "description": "EGGPLANTS"
+    },
+    {
+      "code": 23,
+      "description": "HOT PEPPERS"
+    },
+    {
+      "code": 24,
+      "description": "CHAYOTE"
+    },
+    {
+      "code": 24,
+      "description": "TAMARIND"
+    },
+    {
+      "code": 24,
+      "description": "MELONS"
+    },
+    {
+      "code": 24,
+      "description": "PAPAYA"
+    },
+    {
+      "code": 24,
+      "description": "PINEAPPLES"
+    },
+    {
+      "code": 24,
+      "description": "AVOCADOS"
+    },
+    {
+      "code": 25,
+      "description": "PINEAPPLES"
+    },
+    {
+      "code": 25,
+      "description": "AVOCADOS"
+    },
+    {
+      "code": 27,
+      "description": "UCHUVAS"
+    },
+    {
+      "code": 27,
+      "description": "PINEAPPLES"
+    },
+    {
+      "code": 27,
+      "description": "MELONS"
+    },
+    {
+      "code": 27,
+      "description": "MANGOES"
+    },
+    {
+      "code": 29,
+      "description": "PERSIMMONS AND CITRUS FRUITS"
+    },
+    {
+      "code": 29,
+      "description": "MELONS"
+    },
+    {
+      "code": 30,
+      "description": "CORN AND CAPSICUMS"
+    },
+    {
+      "code": 30,
+      "description": "BEANS"
+    },
+    {
+      "code": 37,
+      "description": "KOLA NUTS"
+    },
+    {
+      "code": 55,
+      "description": "CANDY"
+    },
+    {
+      "code": 56,
+      "description": "CHOCOLATE MANUFACTURES"
+    },
+    {
+      "code": 59,
+      "description": "WAFER BISCUITS"
+    },
+    {
+      "code": 59,
+      "description": "CANDIES"
+    },
+    {
+      "code": 59,
+      "description": "CHOCOLATE MANUFACTURES"
+    },
+    {
+      "code": 60,
+      "description": "DESSERTS"
+    },
+    {
+      "code": 60,
+      "description": "CONFECTIONARY"
+    },
+    {
+      "code": 70,
+      "description": "CHEWING-GUM"
+    },
+    {
+      "code": 75,
+      "description": "HONEY"
+    },
+    {
+      "code": 110,
+      "description": "BEVERAGES"
+    },
+    {
+      "code": 113,
+      "description": "MINERAL WATER"
+    },
+    {
+      "code": 129,
+      "description": "BEERS"
+    },
+    {
+      "code": 129,
+      "description": "WINES"
+    },
+    {
+      "code": 129,
+      "description": "LIQUORS"
+    },
+    {
+      "code": 129,
+      "description": "SPIRITS"
+    },
+    {
+      "code": 130,
+      "description": "WINES"
+    },
+    {
+      "code": 180,
+      "description": "COFFEE"
+    },
+    {
+      "code": 183,
+      "description": "COFFEE (ROASTED/ GROUND)"
+    },
+    {
+      "code": 185,
+      "description": "TEA"
+    },
+    {
+      "code": 186,
+      "description": "TEA (INSTANT)"
+    },
+    {
+      "code": 190,
+      "description": "FLAVOURS"
+    },
+    {
+      "code": 190,
+      "description": "SYRUPS"
+    },
+    {
+      "code": 190,
+      "description": "BEVERAGES"
+    },
+    {
+      "code": 192,
+      "description": "FRUIT JUICES"
+    },
+    {
+      "code": 194,
+      "description": "FLAVOURING COMPOUNDS"
+    },
+    {
+      "code": 194,
+      "description": "EXTRACTS"
+    },
+    {
+      "code": 200,
+      "description": "EGGS"
+    },
+    {
+      "code": 200,
+      "description": "DAIRY PRODUCTS"
+    },
+    {
+      "code": 201,
+      "description": "DAIRY PRODUCTS (EXCLUDING EGGS)"
+    },
+    {
+      "code": 203,
+      "description": "MILK (FRESH)"
+    },
+    {
+      "code": 210,
+      "description": "BUTTER"
+    },
+    {
+      "code": 220,
+      "description": "CHEESE"
+    },
+    {
+      "code": 230,
+      "description": "EGGS"
+    },
+    {
+      "code": 246,
+      "description": "FROZEN CONFECTION"
+    },
+    {
+      "code": 246,
+      "description": "ICE CREAM"
+    },
+    {
+      "code": 300,
+      "description": "SEAFOOD"
+    },
+    {
+      "code": 300,
+      "description": "FISH (EDIBLE)"
+    },
+    {
+      "code": 301,
+      "description": "SEAFOOD (EXCLUDING CAVIAR)"
+    },
+    {
+      "code": 301,
+      "description": "FISH (EDIBLE)"
+    },
+    {
+      "code": 302,
+      "description": "SEAFOOD"
+    },
+    {
+      "code": 304,
+      "description": "SEA URCHIN / PROCESSED"
+    },
+    {
+      "code": 305,
+      "description": "SEA URCHIN"
+    },
+    {
+      "code": 306,
+      "description": "FISH PRODUCTS"
+    },
+    {
+      "code": 306,
+      "description": "FISH"
+    },
+    {
+      "code": 307,
+      "description": "FISH (PROCESSED)"
+    },
+    {
+      "code": 308,
+      "description": "FISH (SMOKED)"
+    },
+    {
+      "code": 309,
+      "description": "SHELLFISH"
+    },
+    {
+      "code": 310,
+      "description": "SCALLOPS"
+    },
+    {
+      "code": 310,
+      "description": "OYSTERS"
+    },
+    {
+      "code": 310,
+      "description": "CLAMS"
+    },
+    {
+      "code": 311,
+      "description": "COCKLES"
+    },
+    {
+      "code": 314,
+      "description": "ABALONE"
+    },
+    {
+      "code": 315,
+      "description": "LOBSTERS"
+    },
+    {
+      "code": 315,
+      "description": "CRAWFISH"
+    },
+    {
+      "code": 315,
+      "description": "CRABS"
+    },
+    {
+      "code": 316,
+      "description": "CRABS"
+    },
+    {
+      "code": 318,
+      "description": "TILAPIA"
+    },
+    {
+      "code": 319,
+      "description": "MAHI MAHI"
+    },
+    {
+      "code": 320,
+      "description": "EEL"
+    },
+    {
+      "code": 323,
+      "description": "TUNA (FRESH)"
+    },
+    {
+      "code": 324,
+      "description": "FISH (EDIBLE/EXCLUDING LOBSTERS/ SCALLOPS)"
+    },
+    {
+      "code": 326,
+      "description": "FISH (EDIBLE)"
+    },
+    {
+      "code": 330,
+      "description": "FISH ROE"
+    },
+    {
+      "code": 334,
+      "description": "FISH GUT (DRIED)"
+    },
+    {
+      "code": 335,
+      "description": "FROGS"
+    },
+    {
+      "code": 340,
+      "description": "SALMON"
+    },
+    {
+      "code": 355,
+      "description": "SNAPPER"
+    },
+    {
+      "code": 356,
+      "description": "SHRIMPS - EDIBLE -"
+    },
+    {
+      "code": 356,
+      "description": "CRABS"
+    },
+    {
+      "code": 356,
+      "description": "FISH"
+    },
+    {
+      "code": 370,
+      "description": "SHARK FINS"
+    },
+    {
+      "code": 380,
+      "description": "PRAWNS"
+    },
+    {
+      "code": 380,
+      "description": "SHRIMPS"
+    },
+    {
+      "code": 382,
+      "description": "SHRIMPS AND/OR PRAWNS"
+    },
+    {
+      "code": 384,
+      "description": "LOBSTERS"
+    },
+    {
+      "code": 384,
+      "description": "PRAWNS"
+    },
+    {
+      "code": 384,
+      "description": "SHRIMPS"
+    },
+    {
+      "code": 385,
+      "description": "TURTLES"
+    },
+    {
+      "code": 386,
+      "description": "LOBSTERS"
+    },
+    {
+      "code": 400,
+      "description": "MELONS"
+    },
+    {
+      "code": 400,
+      "description": "BERRIES"
+    },
+    {
+      "code": 401,
+      "description": "BERRIES"
+    },
+    {
+      "code": 410,
+      "description": "FRUIT (EXCLUDING MELONS)"
+    },
+    {
+      "code": 413,
+      "description": "FRUIT(FRESH)"
+    },
+    {
+      "code": 420,
+      "description": "BANANAS"
+    },
+    {
+      "code": 422,
+      "description": "LEMONS"
+    },
+    {
+      "code": 422,
+      "description": "LIMES"
+    },
+    {
+      "code": 445,
+      "description": "GRAPES"
+    },
+    {
+      "code": 456,
+      "description": "KIWIFRUIT"
+    },
+    {
+      "code": 460,
+      "description": "MANGOES"
+    },
+    {
+      "code": 461,
+      "description": "DATES"
+    },
+    {
+      "code": 462,
+      "description": "OLIVES"
+    },
+    {
+      "code": 477,
+      "description": "CHERRIES"
+    },
+    {
+      "code": 485,
+      "description": "PINEAPPLES"
+    },
+    {
+      "code": 486,
+      "description": "PAPAYAS"
+    },
+    {
+      "code": 487,
+      "description": "PINEAPPLES"
+    },
+    {
+      "code": 487,
+      "description": "PAPAYAS"
+    },
+    {
+      "code": 494,
+      "description": "RASPBERRIES"
+    },
+    {
+      "code": 495,
+      "description": "STRAWBERRIES"
+    },
+    {
+      "code": 497,
+      "description": "INDIAN SWEETMEATS"
+    },
+    {
+      "code": 509,
+      "description": "FLOUR"
+    },
+    {
+      "code": 510,
+      "description": "BAKERY PRODUCTS"
+    },
+    {
+      "code": 514,
+      "description": "PASTRY DOUGH"
+    },
+    {
+      "code": 515,
+      "description": "BREAD"
+    },
+    {
+      "code": 521,
+      "description": "FRUIT CAKES"
+    },
+    {
+      "code": 552,
+      "description": "CEREAL FOODS (READY TO EAT)"
+    },
+    {
+      "code": 600,
+      "description": "INCL. SLAUGHTERED POULTRY AND GAME"
+    },
+    {
+      "code": 600,
+      "description": "MEAT"
+    },
+    {
+      "code": 601,
+      "description": "MEAT (FRESH OR FROZEN)"
+    },
+    {
+      "code": 602,
+      "description": "FRANKFURTERS"
+    },
+    {
+      "code": 602,
+      "description": "BOLOGNA"
+    },
+    {
+      "code": 602,
+      "description": "SAUSAGES"
+    },
+    {
+      "code": 602,
+      "description": "MEAT"
+    },
+    {
+      "code": 603,
+      "description": "SEAFOOD"
+    },
+    {
+      "code": 603,
+      "description": "MEAT"
+    },
+    {
+      "code": 605,
+      "description": "'MEAT (EXCLUDING SLAUGHTERED POULTRY/ GAME)"
+    },
+    {
+      "code": 606,
+      "description": "PATE DE FOIE GRAS"
+    },
+    {
+      "code": 630,
+      "description": "MUTTON"
+    },
+    {
+      "code": 630,
+      "description": "LAMB"
+    },
+    {
+      "code": 640,
+      "description": "GAME"
+    },
+    {
+      "code": 640,
+      "description": "POULTRY"
+    },
+    {
+      "code": 645,
+      "description": "LIVER (RAW)"
+    },
+    {
+      "code": 650,
+      "description": "MEAT FRESH FROZEN INCLUDING HORSE MEAT AND POULTRY"
+    },
+    {
+      "code": 651,
+      "description": "CHICKEN - CHILLED OR FROZEN -"
+    },
+    {
+      "code": 651,
+      "description": "PORK"
+    },
+    {
+      "code": 655,
+      "description": "BACON"
+    },
+    {
+      "code": 670,
+      "description": "HORSE MEAT"
+    },
+    {
+      "code": 700,
+      "description": "SPICES"
+    },
+    {
+      "code": 700,
+      "description": "ROOTS"
+    },
+    {
+      "code": 702,
+      "description": "SPICE EXTRACTS EXCLUDING SAFFRON"
+    },
+    {
+      "code": 702,
+      "description": "SPICES"
+    },
+    {
+      "code": 728,
+      "description": "CARDAMOM"
+    },
+    {
+      "code": 737,
+      "description": "ASAFOETIDA"
+    },
+    {
+      "code": 750,
+      "description": "BIRDEYE CHILLIES (DRIED)"
+    },
+    {
+      "code": 751,
+      "description": "GINGER"
+    },
+    {
+      "code": 800,
+      "description": "VEGETABLES"
+    },
+    {
+      "code": 801,
+      "description": "ARTICHOKES"
+    },
+    {
+      "code": 802,
+      "description": "BROCCOLI"
+    },
+    {
+      "code": 803,
+      "description": "LETTUCE"
+    },
+    {
+      "code": 805,
+      "description": "ASPARAGUS"
+    },
+    {
+      "code": 807,
+      "description": "PLANTAINS"
+    },
+    {
+      "code": 807,
+      "description": "COCOYAMS"
+    },
+    {
+      "code": 807,
+      "description": "YAMS"
+    },
+    {
+      "code": 810,
+      "description": "BEANS"
+    },
+    {
+      "code": 838,
+      "description": "CELERY"
+    },
+    {
+      "code": 838,
+      "description": "ENDIVES"
+    },
+    {
+      "code": 850,
+      "description": "MUSHROOM SPAWN"
+    },
+    {
+      "code": 850,
+      "description": "MUSHROOMS"
+    },
+    {
+      "code": 866,
+      "description": "TAROS"
+    },
+    {
+      "code": 880,
+      "description": "TOMATOES"
+    },
+    {
+      "code": 885,
+      "description": "SOUPS"
+    },
+    {
+      "code": 898,
+      "description": "YEAST - INACTIVE"
+    },
+    {
+      "code": 899,
+      "description": "YEAST"
+    },
+    {
+      "code": 901,
+      "description": "COOKING FAT"
+    },
+    {
+      "code": 902,
+      "description": "STRONG SMELL FRUIT"
+    },
+    {
+      "code": 986,
+      "description": "VITAMINS FOR ANIMAL FOOD"
+    },
+    {
+      "code": 1000,
+      "description": "LIVESTOCK"
+    },
+    {
+      "code": 1001,
+      "description": "AND OTHER ANIMALS WITH ADVANCE APPROVAL OF CARRIER."
+    },
+    {
+      "code": 1001,
+      "description": "SMALL DOMESTIC BIRDS"
+    },
+    {
+      "code": 1001,
+      "description": "BABY TURKEYS AND DUCKLINGS"
+    },
+    {
+      "code": 1001,
+      "description": "BABY CHICKS"
+    },
+    {
+      "code": 1001,
+      "description": "CATS"
+    },
+    {
+      "code": 1001,
+      "description": "SPECIFICALLY DOGS"
+    },
+    {
+      "code": 1001,
+      "description": "LIVE ANIMALS"
+    },
+    {
+      "code": 1002,
+      "description": "LIVE ANIMALS COLD BLOODED"
+    },
+    {
+      "code": 1021,
+      "description": "GREYHOUNDS"
+    },
+    {
+      "code": 1022,
+      "description": "DEER"
+    },
+    {
+      "code": 1024,
+      "description": "FISH FOOD"
+    },
+    {
+      "code": 1024,
+      "description": "WEED"
+    },
+    {
+      "code": 1024,
+      "description": "CORAL"
+    },
+    {
+      "code": 1024,
+      "description": "'FISH (LIVE/ INEDIBLE)"
+    },
+    {
+      "code": 1026,
+      "description": "INEDIBLE"
+    },
+    {
+      "code": 1026,
+      "description": "LIVE"
+    },
+    {
+      "code": 1026,
+      "description": "FISH"
+    },
+    {
+      "code": 1040,
+      "description": "HARES"
+    },
+    {
+      "code": 1043,
+      "description": "FRESH FRUIT"
+    },
+    {
+      "code": 1050,
+      "description": "HORSES"
+    },
+    {
+      "code": 1051,
+      "description": "'HORSE(S)/STALL (NOT EXCEEDING 3 HORSES)"
+    },
+    {
+      "code": 1052,
+      "description": "SHEEP"
+    },
+    {
+      "code": 1053,
+      "description": "CATTLE"
+    },
+    {
+      "code": 1054,
+      "description": "GOATS"
+    },
+    {
+      "code": 1059,
+      "description": "TUBIFEX WORMS"
+    },
+    {
+      "code": 1061,
+      "description": "BEES"
+    },
+    {
+      "code": 1072,
+      "description": "TURTLES"
+    },
+    {
+      "code": 1074,
+      "description": "PIGS"
+    },
+    {
+      "code": 1080,
+      "description": "POULTRY"
+    },
+    {
+      "code": 1081,
+      "description": "BABY POULTRY"
+    },
+    {
+      "code": 1082,
+      "description": "HATCHING EGGS"
+    },
+    {
+      "code": 1084,
+      "description": "TURKEY HATCHING EGGS"
+    },
+    {
+      "code": 1091,
+      "description": "SNAILS"
+    },
+    {
+      "code": 1093,
+      "description": "WORMS"
+    },
+    {
+      "code": 1100,
+      "description": "SKINS EXCLUDING WEARING APPAREL"
+    },
+    {
+      "code": 1100,
+      "description": "HIDES"
+    },
+    {
+      "code": 1100,
+      "description": "FURS"
+    },
+    {
+      "code": 1101,
+      "description": "NUTRIA/REPTILE SKINS"
+    },
+    {
+      "code": 1101,
+      "description": "SKINS - UNDRESSED - FURS EXCLUDING MANUFACTURES"
+    },
+    {
+      "code": 1101,
+      "description": "HIDES"
+    },
+    {
+      "code": 1103,
+      "description": "SKINS"
+    },
+    {
+      "code": 1103,
+      "description": "FUR WEARING APPAREL"
+    },
+    {
+      "code": 1103,
+      "description": "FURS"
+    },
+    {
+      "code": 1111,
+      "description": "GPCTD"
+    },
+    {
+      "code": 1112,
+      "description": "GPDTD"
+    },
+    {
+      "code": 1125,
+      "description": "GOAT SKINS EXCLUDING WEARING APPAREL"
+    },
+    {
+      "code": 1125,
+      "description": "SHEEP SKINS"
+    },
+    {
+      "code": 1125,
+      "description": "KID SKINS"
+    },
+    {
+      "code": 1125,
+      "description": "LAMB SKINS"
+    },
+    {
+      "code": 1150,
+      "description": "FUR SCRAPS"
+    },
+    {
+      "code": 1164,
+      "description": "GOAT SKINS"
+    },
+    {
+      "code": 1164,
+      "description": "SHEEP SKINS"
+    },
+    {
+      "code": 1164,
+      "description": "CATTLE HIDES"
+    },
+    {
+      "code": 1188,
+      "description": "ASTRAKHAN SKINS"
+    },
+    {
+      "code": 1188,
+      "description": "CARACUL"
+    },
+    {
+      "code": 1190,
+      "description": "REPTILE SKINS"
+    },
+    {
+      "code": 1194,
+      "description": "'CROCODILE SKINS (WET/SALTED)"
+    },
+    {
+      "code": 1195,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 1195,
+      "description": "SKINS EXCLUDING MINK"
+    },
+    {
+      "code": 1195,
+      "description": "HIDES"
+    },
+    {
+      "code": 1195,
+      "description": "FURS"
+    },
+    {
+      "code": 1196,
+      "description": "NUTRIA SKINS"
+    },
+    {
+      "code": 1198,
+      "description": "HIDES AND SKINS - EXCLUDING FURS AND PELTS"
+    },
+    {
+      "code": 1198,
+      "description": "LEATHER"
+    },
+    {
+      "code": 1200,
+      "description": "LEATHER PRODUCTS EXCLUDING WEARING APPAREL"
+    },
+    {
+      "code": 1200,
+      "description": "LEATHER"
+    },
+    {
+      "code": 1201,
+      "description": "LEATHER PRODUCTS"
+    },
+    {
+      "code": 1201,
+      "description": "LEATHER"
+    },
+    {
+      "code": 1204,
+      "description": "'LEATHER (TANNED/ DYED/ FINISHED/ SEMIFINISHED/ CUT TO SHAPE)"
+    },
+    {
+      "code": 1205,
+      "description": "LEATHER (UNMANUFACTURED)"
+    },
+    {
+      "code": 1206,
+      "description": "SHOE LEATHER (ALONE OR TOGETHER WITH OTHER SHOE MANUFACTURING MATERIALS)"
+    },
+    {
+      "code": 1207,
+      "description": "FURS"
+    },
+    {
+      "code": 1207,
+      "description": "SKINS EXCLUDING WEARING APPAREL"
+    },
+    {
+      "code": 1207,
+      "description": "HIDES"
+    },
+    {
+      "code": 1207,
+      "description": "LEATHER"
+    },
+    {
+      "code": 1210,
+      "description": "LEATHER PRODUCTS EXCLUDING SPORTING GOODS"
+    },
+    {
+      "code": 1210,
+      "description": "LEATHER"
+    },
+    {
+      "code": 1211,
+      "description": "PROCESSED -"
+    },
+    {
+      "code": 1211,
+      "description": "SKINS - TANNED"
+    },
+    {
+      "code": 1211,
+      "description": "HIDES"
+    },
+    {
+      "code": 1211,
+      "description": "LEATHER"
+    },
+    {
+      "code": 1213,
+      "description": "'SKINS - UNDRESSED/INCLUDING SEMIFINISHED MANUFACTURES -"
+    },
+    {
+      "code": 1213,
+      "description": "HIDES"
+    },
+    {
+      "code": 1213,
+      "description": "FURS"
+    },
+    {
+      "code": 1214,
+      "description": "INCLUDING FINISHED PRODUCTS AND ARTICLES MADE FROM THESE MATERIALS"
+    },
+    {
+      "code": 1214,
+      "description": "SYNTHETIC LEATHER CUT TO SHAPE"
+    },
+    {
+      "code": 1214,
+      "description": "TANNED AND/OR PROCESSED LEATHER"
+    },
+    {
+      "code": 1215,
+      "description": "SKINS - INCLUDING PRODUCTS THEREOF -"
+    },
+    {
+      "code": 1215,
+      "description": "HIDES"
+    },
+    {
+      "code": 1231,
+      "description": "PURSES"
+    },
+    {
+      "code": 1231,
+      "description": "WALLETS"
+    },
+    {
+      "code": 1231,
+      "description": "POCKETBOOKS"
+    },
+    {
+      "code": 1231,
+      "description": "HANDBAGS"
+    },
+    {
+      "code": 1234,
+      "description": "BELTS - MADE OF LEATHER -"
+    },
+    {
+      "code": 1234,
+      "description": "HANDBAGS"
+    },
+    {
+      "code": 1237,
+      "description": "LEATHER (EXCLUDING NUTRIA SKINS/REPTILE SKINS/ MANUFACTURES)"
+    },
+    {
+      "code": 1238,
+      "description": "SADDLERY - MADE OF LEATHER -"
+    },
+    {
+      "code": 1238,
+      "description": "HARNESS"
+    },
+    {
+      "code": 1238,
+      "description": "WALLETS"
+    },
+    {
+      "code": 1238,
+      "description": "PURSES"
+    },
+    {
+      "code": 1238,
+      "description": "POCHETTES"
+    },
+    {
+      "code": 1238,
+      "description": "ATTACHE CASES"
+    },
+    {
+      "code": 1238,
+      "description": "SUITCASES"
+    },
+    {
+      "code": 1238,
+      "description": "HANDBAGS"
+    },
+    {
+      "code": 1238,
+      "description": "BILLFOLDS"
+    },
+    {
+      "code": 1238,
+      "description": "BELTS"
+    },
+    {
+      "code": 1238,
+      "description": "BALLS"
+    },
+    {
+      "code": 1238,
+      "description": "BAGS"
+    },
+    {
+      "code": 1251,
+      "description": "RUGS - MADE OF HIDE OR SHEEPSKIN -"
+    },
+    {
+      "code": 1251,
+      "description": "CAR SEAT COVERS"
+    },
+    {
+      "code": 1295,
+      "description": "LEATHER BAGS"
+    },
+    {
+      "code": 1295,
+      "description": "FLASK KITS"
+    },
+    {
+      "code": 1295,
+      "description": "DRINKING KITS"
+    },
+    {
+      "code": 1295,
+      "description": "BRUSH SETS"
+    },
+    {
+      "code": 1295,
+      "description": "SEWING KITS"
+    },
+    {
+      "code": 1295,
+      "description": "TOILET KITS"
+    },
+    {
+      "code": 1295,
+      "description": "SHOESHINE KITS"
+    },
+    {
+      "code": 1295,
+      "description": "MAKE-UP KITS"
+    },
+    {
+      "code": 1295,
+      "description": "MANICURE SETS"
+    },
+    {
+      "code": 1295,
+      "description": "FASTENERS -"
+    },
+    {
+      "code": 1295,
+      "description": "CLASPS"
+    },
+    {
+      "code": 1295,
+      "description": "WATCHBANDS/WATCH STRAPS - MADE PARTLY OF LEATHER/INCLUDING FRAMES"
+    },
+    {
+      "code": 1295,
+      "description": "WALLETS"
+    },
+    {
+      "code": 1295,
+      "description": "PURSES"
+    },
+    {
+      "code": 1295,
+      "description": "CASES"
+    },
+    {
+      "code": 1295,
+      "description": "BRUSHES"
+    },
+    {
+      "code": 1295,
+      "description": "BILLFOLDS"
+    },
+    {
+      "code": 1295,
+      "description": "BELTS"
+    },
+    {
+      "code": 1295,
+      "description": "BAGS"
+    },
+    {
+      "code": 1352,
+      "description": "GUM ARABIC"
+    },
+    {
+      "code": 1353,
+      "description": "FRANKINCENSE AND GUMS"
+    },
+    {
+      "code": 1400,
+      "description": "TUBERS"
+    },
+    {
+      "code": 1400,
+      "description": "SEEDS"
+    },
+    {
+      "code": 1400,
+      "description": "FLOWERS"
+    },
+    {
+      "code": 1400,
+      "description": "BULBS"
+    },
+    {
+      "code": 1400,
+      "description": "NURSERY STOCK"
+    },
+    {
+      "code": 1400,
+      "description": "FLORAL STOCK"
+    },
+    {
+      "code": 1401,
+      "description": "FLOWERS"
+    },
+    {
+      "code": 1401,
+      "description": "PLANTS"
+    },
+    {
+      "code": 1401,
+      "description": "SEEDS"
+    },
+    {
+      "code": 1401,
+      "description": "BULBS"
+    },
+    {
+      "code": 1401,
+      "description": "NURSERY STOCK"
+    },
+    {
+      "code": 1401,
+      "description": "FLORAL STOCK"
+    },
+    {
+      "code": 1402,
+      "description": "TUBERS"
+    },
+    {
+      "code": 1402,
+      "description": "SEEDS"
+    },
+    {
+      "code": 1402,
+      "description": "NURSERY STOCK - EXCLUDING CUT FLOWERS - BULBS"
+    },
+    {
+      "code": 1402,
+      "description": "FLORAL STOCK"
+    },
+    {
+      "code": 1403,
+      "description": "CUTTINGS"
+    },
+    {
+      "code": 1403,
+      "description": "FOLIAGE"
+    },
+    {
+      "code": 1403,
+      "description": "CUT FLOWERS"
+    },
+    {
+      "code": 1409,
+      "description": "TUBERS"
+    },
+    {
+      "code": 1409,
+      "description": "BULBS"
+    },
+    {
+      "code": 1411,
+      "description": "ROSE PETALS"
+    },
+    {
+      "code": 1420,
+      "description": "FLOWERS"
+    },
+    {
+      "code": 1421,
+      "description": "INCLUDING MIMOSA"
+    },
+    {
+      "code": 1421,
+      "description": "FOLIAGE"
+    },
+    {
+      "code": 1421,
+      "description": "CUT FLOWERS"
+    },
+    {
+      "code": 1429,
+      "description": "ORCHIDS"
+    },
+    {
+      "code": 1430,
+      "description": "CUT FLOWERS (EXCLUDING ORCHIDS)"
+    },
+    {
+      "code": 1436,
+      "description": "GLADIOLI"
+    },
+    {
+      "code": 1436,
+      "description": "CHRYSANTHEMUM CUTTINGS"
+    },
+    {
+      "code": 1436,
+      "description": "CARNATION CUTTINGS"
+    },
+    {
+      "code": 1471,
+      "description": "FERN"
+    },
+    {
+      "code": 1472,
+      "description": "YUCA CUTTINGS"
+    },
+    {
+      "code": 1475,
+      "description": "PLANTS"
+    },
+    {
+      "code": 1476,
+      "description": "PLANTS (EXCLUDING ORCHIDS)"
+    },
+    {
+      "code": 1477,
+      "description": "TROPICAL PLANTS (EXCLUDING CUT FLOWERS)"
+    },
+    {
+      "code": 1479,
+      "description": "PLANTS"
+    },
+    {
+      "code": 1479,
+      "description": "SEEDS"
+    },
+    {
+      "code": 1480,
+      "description": "SEEDS"
+    },
+    {
+      "code": 1480,
+      "description": "TROPICAL PLANTS"
+    },
+    {
+      "code": 1485,
+      "description": "SEEDS"
+    },
+    {
+      "code": 1499,
+      "description": "PLANTS"
+    },
+    {
+      "code": 1499,
+      "description": "FLOWERS"
+    },
+    {
+      "code": 1500,
+      "description": "LEAVES - INCLUDING PRODUCTS THEREOF -"
+    },
+    {
+      "code": 1500,
+      "description": "HERBS"
+    },
+    {
+      "code": 1503,
+      "description": "HENNA (DRIED)"
+    },
+    {
+      "code": 1526,
+      "description": "PEPPER STEMS"
+    },
+    {
+      "code": 1535,
+      "description": "BETEL LEAVES"
+    },
+    {
+      "code": 1550,
+      "description": "TOBACCO PRODUCTS"
+    },
+    {
+      "code": 1550,
+      "description": "TOBACCO"
+    },
+    {
+      "code": 1563,
+      "description": "'CIGARS AND/OR TOBACCO"
+    },
+    {
+      "code": 1563,
+      "description": "CIGARETTES"
+    },
+    {
+      "code": 1565,
+      "description": "MANUFACTURED"
+    },
+    {
+      "code": 1565,
+      "description": "TOBACCO AND/OR TOBACCO PRODUCTS"
+    },
+    {
+      "code": 1700,
+      "description": "OILS (ANIMAL/ VEGETABLE)"
+    },
+    {
+      "code": 1701,
+      "description": "OLIVE OIL"
+    },
+    {
+      "code": 1716,
+      "description": "ESSENTIAL OILS"
+    },
+    {
+      "code": 1728,
+      "description": "OIL COMPOUNDS (FOR PAINT)"
+    },
+    {
+      "code": 1900,
+      "description": "BIRD NEST"
+    },
+    {
+      "code": 1904,
+      "description": "BEESWAX"
+    },
+    {
+      "code": 1915,
+      "description": "BRISTLES"
+    },
+    {
+      "code": 1923,
+      "description": "STOMACH (DRIED)"
+    },
+    {
+      "code": 1925,
+      "description": "CASINGS (MADE OF ANIMAL INTESTINES/ GUT)"
+    },
+    {
+      "code": 1931,
+      "description": "GLANDS (ANIMAL)"
+    },
+    {
+      "code": 1950,
+      "description": "FEATHER TRIMMINGS"
+    },
+    {
+      "code": 1950,
+      "description": "FEATHERS"
+    },
+    {
+      "code": 1951,
+      "description": "FEATHERS (OSTRICH)"
+    },
+    {
+      "code": 1970,
+      "description": "SHELLS"
+    },
+    {
+      "code": 1970,
+      "description": "SEA-FLORA"
+    },
+    {
+      "code": 1980,
+      "description": "SPONGES (NATURAL)"
+    },
+    {
+      "code": 1981,
+      "description": "SPONGES (ARTIFICIAL)"
+    },
+    {
+      "code": 1983,
+      "description": "CORAL"
+    },
+    {
+      "code": 1993,
+      "description": "ANIMAL HUNTING TROPHIES (EXCLUDING IVORY)"
+    },
+    {
+      "code": 2001,
+      "description": "TEXTILE MANUFACTURES"
+    },
+    {
+      "code": 2001,
+      "description": "FIBRES"
+    },
+    {
+      "code": 2001,
+      "description": "THREAD"
+    },
+    {
+      "code": 2001,
+      "description": "YARN"
+    },
+    {
+      "code": 2002,
+      "description": "FIBRES"
+    },
+    {
+      "code": 2002,
+      "description": "THREAD"
+    },
+    {
+      "code": 2002,
+      "description": "YARN"
+    },
+    {
+      "code": 2020,
+      "description": "THREAD"
+    },
+    {
+      "code": 2020,
+      "description": "YARN"
+    },
+    {
+      "code": 2020,
+      "description": "COTTON"
+    },
+    {
+      "code": 2090,
+      "description": "THREAD"
+    },
+    {
+      "code": 2090,
+      "description": "YARN"
+    },
+    {
+      "code": 2090,
+      "description": "WOOL"
+    },
+    {
+      "code": 2102,
+      "description": "CLOTH (NOT FURTHER PROCESSED OR MANUFACTURED/ EXCLUSIVELY IN BALES/ BOLTS/ PIECES)"
+    },
+    {
+      "code": 2104,
+      "description": "VISCOSE CLOTH (NOT FURTHER PROCESSED OR MANUFACTURED/EXCLUSIVELY IN BALES/ BOLTS/ PIECES)"
+    },
+    {
+      "code": 2144,
+      "description": "PLASTIC COATED FABRICS (NOT FURTHER PROCESSED OR MANUFACTURED/EXCLUSIVELY IN BALES/ BOLTS/ PIECES)"
+    },
+    {
+      "code": 2162,
+      "description": "PIECE GOODS (MADE OF NYLON)"
+    },
+    {
+      "code": 2183,
+      "description": "BATIK TEXTILES"
+    },
+    {
+      "code": 2189,
+      "description": "HANDMADE"
+    },
+    {
+      "code": 2189,
+      "description": "SLIPPERS"
+    },
+    {
+      "code": 2189,
+      "description": "HATS"
+    },
+    {
+      "code": 2189,
+      "description": "OVERCOATS"
+    },
+    {
+      "code": 2189,
+      "description": "SHEEP SKIN COATS"
+    },
+    {
+      "code": 2192,
+      "description": "BRAIDS"
+    },
+    {
+      "code": 2192,
+      "description": "CARPETING"
+    },
+    {
+      "code": 2192,
+      "description": "CURTAINS"
+    },
+    {
+      "code": 2192,
+      "description": "TABLE LINEN"
+    },
+    {
+      "code": 2192,
+      "description": "BLANKETS"
+    },
+    {
+      "code": 2192,
+      "description": "PILLOW CASES"
+    },
+    {
+      "code": 2192,
+      "description": "PIECES -B: BED SHEETS"
+    },
+    {
+      "code": 2192,
+      "description": "BOLTS"
+    },
+    {
+      "code": 2192,
+      "description": "LACE NOT FURTHER PROCESSED OR MANUFACTURED/ EXCLUSIVELY IN BALES"
+    },
+    {
+      "code": 2192,
+      "description": "TULLE"
+    },
+    {
+      "code": 2192,
+      "description": "EMBROIDERIES"
+    },
+    {
+      "code": 2192,
+      "description": "NEEDLEWORK"
+    },
+    {
+      "code": 2192,
+      "description": "DRAWNWORK"
+    },
+    {
+      "code": 2192,
+      "description": "CLOTH TEXTILE FABRICS"
+    },
+    {
+      "code": 2192,
+      "description": "FIBRES"
+    },
+    {
+      "code": 2192,
+      "description": "THREAD"
+    },
+    {
+      "code": 2192,
+      "description": "A YARN"
+    },
+    {
+      "code": 2194,
+      "description": "LEATHER MANUFACTURES"
+    },
+    {
+      "code": 2194,
+      "description": "WEARING APPAREL EXCLUDING FOOTWEAR"
+    },
+    {
+      "code": 2194,
+      "description": "TEXTILE MANUFACTURES"
+    },
+    {
+      "code": 2194,
+      "description": "THREAD"
+    },
+    {
+      "code": 2194,
+      "description": "YARN"
+    },
+    {
+      "code": 2195,
+      "description": "TEXTILE MANUFACTURES"
+    },
+    {
+      "code": 2195,
+      "description": "PIECES -B: WEARING APPAREL"
+    },
+    {
+      "code": 2195,
+      "description": "BOLTS"
+    },
+    {
+      "code": 2195,
+      "description": "CLOTH - NOT FURTHER PROCESSED OR MANUFACTURED/EXCLUSIVELY IN BALES"
+    },
+    {
+      "code": 2195,
+      "description": "FIBRES"
+    },
+    {
+      "code": 2195,
+      "description": "THREAD"
+    },
+    {
+      "code": 2195,
+      "description": "A: YARN"
+    },
+    {
+      "code": 2197,
+      "description": "PIECES -"
+    },
+    {
+      "code": 2197,
+      "description": "BOLTS"
+    },
+    {
+      "code": 2197,
+      "description": "'CLOTH - NOT FURTHER PROCESSED OR MANUFACTURED/EXCLUSIVELY IN BALES"
+    },
+    {
+      "code": 2197,
+      "description": "FIBRES"
+    },
+    {
+      "code": 2197,
+      "description": "THREAD"
+    },
+    {
+      "code": 2197,
+      "description": "YARN"
+    },
+    {
+      "code": 2198,
+      "description": "B: TEXTILE MANUFACTURES (EXCLUDING WEARING APPAREL)"
+    },
+    {
+      "code": 2198,
+      "description": "TEXTILES"
+    },
+    {
+      "code": 2198,
+      "description": "FIBRES"
+    },
+    {
+      "code": 2198,
+      "description": "THREAD"
+    },
+    {
+      "code": 2199,
+      "description": "B: TEXTILE MANUFACTURES C: WEARING APPAREL"
+    },
+    {
+      "code": 2199,
+      "description": "TEXTILES"
+    },
+    {
+      "code": 2199,
+      "description": "FIBRES"
+    },
+    {
+      "code": 2199,
+      "description": "THREAD"
+    },
+    {
+      "code": 2200,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 2203,
+      "description": "WEARING APPAREL (EXCLUDING UMBRELLAS/ BILLFOLDS/ PURSES/ CARRYING CASES/ HANDBAGS/ COSTUME JEWELRY/ JEWELRY/ CANES/ WATCHES)"
+    },
+    {
+      "code": 2204,
+      "description": "CLOTHING AND WEARING APPAREL EXCLUDING LEATHER MANUFACTURES"
+    },
+    {
+      "code": 2205,
+      "description": "SEW-ON-BUTTONS B: ELECTRIC ATTACHING MACHINE"
+    },
+    {
+      "code": 2205,
+      "description": "SOCKETS"
+    },
+    {
+      "code": 2205,
+      "description": "DYES"
+    },
+    {
+      "code": 2205,
+      "description": "POST CAPS"
+    },
+    {
+      "code": 2205,
+      "description": "STUDS"
+    },
+    {
+      "code": 2205,
+      "description": "BUCKLES"
+    },
+    {
+      "code": 2205,
+      "description": "RIVETS"
+    },
+    {
+      "code": 2205,
+      "description": "PRESS FASTENERS"
+    },
+    {
+      "code": 2205,
+      "description": "A: EYELETS"
+    },
+    {
+      "code": 2206,
+      "description": "WATCHES"
+    },
+    {
+      "code": 2206,
+      "description": "JEWELRY"
+    },
+    {
+      "code": 2206,
+      "description": "COSTUME JEWELRY"
+    },
+    {
+      "code": 2206,
+      "description": "UMBRELLAS"
+    },
+    {
+      "code": 2206,
+      "description": "CANES"
+    },
+    {
+      "code": 2206,
+      "description": "PURSES"
+    },
+    {
+      "code": 2206,
+      "description": "HANDBAGS"
+    },
+    {
+      "code": 2206,
+      "description": "CASES"
+    },
+    {
+      "code": 2206,
+      "description": "BILLFOLDS"
+    },
+    {
+      "code": 2206,
+      "description": "SKINS"
+    },
+    {
+      "code": 2206,
+      "description": "ZIP-FASTENERS EXCLUDING FURS"
+    },
+    {
+      "code": 2206,
+      "description": "BUCKLES"
+    },
+    {
+      "code": 2206,
+      "description": "BUTTONS"
+    },
+    {
+      "code": 2206,
+      "description": "SNAPS"
+    },
+    {
+      "code": 2206,
+      "description": "HOOKS"
+    },
+    {
+      "code": 2206,
+      "description": "SHOE LACES"
+    },
+    {
+      "code": 2206,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 2207,
+      "description": "WATCHES"
+    },
+    {
+      "code": 2207,
+      "description": "JEWELRY"
+    },
+    {
+      "code": 2207,
+      "description": "COSTUME JEWELRY"
+    },
+    {
+      "code": 2207,
+      "description": "UMBRELLAS"
+    },
+    {
+      "code": 2207,
+      "description": "CANES"
+    },
+    {
+      "code": 2207,
+      "description": "PURSES"
+    },
+    {
+      "code": 2207,
+      "description": "HANDBAGS"
+    },
+    {
+      "code": 2207,
+      "description": "CASES"
+    },
+    {
+      "code": 2207,
+      "description": "BILLFOLDS"
+    },
+    {
+      "code": 2207,
+      "description": "SKINS"
+    },
+    {
+      "code": 2207,
+      "description": "FURS"
+    },
+    {
+      "code": 2207,
+      "description": "ZIP-FASTENERS EXCLUDING FOOTWEAR"
+    },
+    {
+      "code": 2207,
+      "description": "BUCKLES"
+    },
+    {
+      "code": 2207,
+      "description": "BUTTONS"
+    },
+    {
+      "code": 2207,
+      "description": "SNAPS"
+    },
+    {
+      "code": 2207,
+      "description": "HOOKS"
+    },
+    {
+      "code": 2207,
+      "description": "SHOE LACES"
+    },
+    {
+      "code": 2207,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 2211,
+      "description": "TEXTILE MANUFACTURES"
+    },
+    {
+      "code": 2211,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 2211,
+      "description": "PIECES -"
+    },
+    {
+      "code": 2211,
+      "description": "BOLTS"
+    },
+    {
+      "code": 2211,
+      "description": "'FIBRES - NOT FURTHER PROCESSED OR MANUFACTURED/EXCLUSIVELY IN BALES"
+    },
+    {
+      "code": 2211,
+      "description": "THREAD"
+    },
+    {
+      "code": 2211,
+      "description": "YARN"
+    },
+    {
+      "code": 2214,
+      "description": "SHIRTS"
+    },
+    {
+      "code": 2214,
+      "description": "TROUSERS"
+    },
+    {
+      "code": 2215,
+      "description": "SEMI-FINISHED CLOTHING -INCLUDING DRESSMAKING SUPPLIES"
+    },
+    {
+      "code": 2215,
+      "description": "LADIES CUT DRESSES"
+    },
+    {
+      "code": 2215,
+      "description": "CLOTH"
+    },
+    {
+      "code": 2218,
+      "description": "DRESSES (LADIES/ FINISHED)"
+    },
+    {
+      "code": 2222,
+      "description": "TERRY ARTICLES"
+    },
+    {
+      "code": 2222,
+      "description": "TERRY CLOTH"
+    },
+    {
+      "code": 2234,
+      "description": "WEARING APPAREL (FUR/LEATHER)"
+    },
+    {
+      "code": 2243,
+      "description": "TROUSERS - MADE OF LEATHER -"
+    },
+    {
+      "code": 2243,
+      "description": "WAISTCOATS"
+    },
+    {
+      "code": 2243,
+      "description": "SHIRTS"
+    },
+    {
+      "code": 2243,
+      "description": "SKIRTS"
+    },
+    {
+      "code": 2243,
+      "description": "JACKETS"
+    },
+    {
+      "code": 2243,
+      "description": "OVERCOATS"
+    },
+    {
+      "code": 2292,
+      "description": "WAISTCOATS - MADE OF COTTON -"
+    },
+    {
+      "code": 2292,
+      "description": "TROUSERS"
+    },
+    {
+      "code": 2292,
+      "description": "SKIRTS"
+    },
+    {
+      "code": 2292,
+      "description": "JEANS"
+    },
+    {
+      "code": 2292,
+      "description": "JACKETS"
+    },
+    {
+      "code": 2292,
+      "description": "BLOUSES"
+    },
+    {
+      "code": 2306,
+      "description": "BRASSIERES"
+    },
+    {
+      "code": 2306,
+      "description": "GIRDLES"
+    },
+    {
+      "code": 2306,
+      "description": "CORSETS"
+    },
+    {
+      "code": 2309,
+      "description": "CHILDRENS WEARING APPAREL"
+    },
+    {
+      "code": 2311,
+      "description": "TEXTILE MANUFACTURES - ON HANGERS -"
+    },
+    {
+      "code": 2311,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 2332,
+      "description": "MITTENS"
+    },
+    {
+      "code": 2332,
+      "description": "GLOVES"
+    },
+    {
+      "code": 2350,
+      "description": "HATS"
+    },
+    {
+      "code": 2360,
+      "description": "SOCKS"
+    },
+    {
+      "code": 2360,
+      "description": "PEDS"
+    },
+    {
+      "code": 2360,
+      "description": "ANKLETS"
+    },
+    {
+      "code": 2360,
+      "description": "STOCKINGS"
+    },
+    {
+      "code": 2367,
+      "description": "PANTYHOSE"
+    },
+    {
+      "code": 2367,
+      "description": "HOSE"
+    },
+    {
+      "code": 2408,
+      "description": "UNDERWEAR"
+    },
+    {
+      "code": 2408,
+      "description": "BLOUSES"
+    },
+    {
+      "code": 2408,
+      "description": "SHIRTS"
+    },
+    {
+      "code": 2415,
+      "description": "SHOES"
+    },
+    {
+      "code": 2420,
+      "description": "SLIPPERS"
+    },
+    {
+      "code": 2420,
+      "description": "SHOES"
+    },
+    {
+      "code": 2426,
+      "description": "'SOLES (FOR SHOES/ SLIPPERS)"
+    },
+    {
+      "code": 2451,
+      "description": "WOOLLEN KNITTED SWEATERS AND DRESSES"
+    },
+    {
+      "code": 2452,
+      "description": "CARDIGANS"
+    },
+    {
+      "code": 2452,
+      "description": "PULLOVERS"
+    },
+    {
+      "code": 2455,
+      "description": "WEARING APPAREL (KNITTED)"
+    },
+    {
+      "code": 2461,
+      "description": "BODY SUPPORTING GARMENTS"
+    },
+    {
+      "code": 2461,
+      "description": "SWIMWEAR"
+    },
+    {
+      "code": 2461,
+      "description": "UNDERWEAR"
+    },
+    {
+      "code": 2500,
+      "description": "LACE"
+    },
+    {
+      "code": 2500,
+      "description": "EMBROIDERIES"
+    },
+    {
+      "code": 2500,
+      "description": "NEEDLEWORK"
+    },
+    {
+      "code": 2500,
+      "description": "DRAWNWORK"
+    },
+    {
+      "code": 2600,
+      "description": "'TEXTILE ARTICLES (FINISHED/EXCLUDING WEARING APPAREL)"
+    },
+    {
+      "code": 2627,
+      "description": "GAS MANTLES"
+    },
+    {
+      "code": 2700,
+      "description": "HAIR MANUFACTURES"
+    },
+    {
+      "code": 2700,
+      "description": "HAIR"
+    },
+    {
+      "code": 2741,
+      "description": "FALSE EYELASHES"
+    },
+    {
+      "code": 2741,
+      "description": "SWITCHES"
+    },
+    {
+      "code": 2741,
+      "description": "WIGS"
+    },
+    {
+      "code": 2741,
+      "description": "TOUPEES"
+    },
+    {
+      "code": 2811,
+      "description": "TOWELS"
+    },
+    {
+      "code": 2811,
+      "description": "MOSQUITO NETS"
+    },
+    {
+      "code": 2811,
+      "description": "PILLOW-CASES"
+    },
+    {
+      "code": 2811,
+      "description": "BEDSPREADS"
+    },
+    {
+      "code": 2811,
+      "description": "BED SHEETS"
+    },
+    {
+      "code": 2811,
+      "description": "BLANKETS"
+    },
+    {
+      "code": 2865,
+      "description": "RUGS"
+    },
+    {
+      "code": 2865,
+      "description": "CARPETS"
+    },
+    {
+      "code": 2920,
+      "description": "CANVAS ARTICLES"
+    },
+    {
+      "code": 2949,
+      "description": "CLOTH SLEEPING BAGS"
+    },
+    {
+      "code": 2949,
+      "description": "CLOTH BLANKETS"
+    },
+    {
+      "code": 3002,
+      "description": "PLATINUM ALLOYS"
+    },
+    {
+      "code": 3002,
+      "description": "PLATINUM"
+    },
+    {
+      "code": 3002,
+      "description": "CASTINGS EXCLUDING GOLD"
+    },
+    {
+      "code": 3002,
+      "description": "CIRCLES"
+    },
+    {
+      "code": 3002,
+      "description": "TUBE"
+    },
+    {
+      "code": 3002,
+      "description": "ROD"
+    },
+    {
+      "code": 3002,
+      "description": "WIRE"
+    },
+    {
+      "code": 3002,
+      "description": "SPONGE"
+    },
+    {
+      "code": 3002,
+      "description": "POWDER"
+    },
+    {
+      "code": 3002,
+      "description": "FOIL"
+    },
+    {
+      "code": 3002,
+      "description": "SHEET"
+    },
+    {
+      "code": 3002,
+      "description": "METAL GRAIN (SEMI-FINISHED)"
+    },
+    {
+      "code": 3002,
+      "description": "METAL INGOTS"
+    },
+    {
+      "code": 3004,
+      "description": "WIRE CLOTH"
+    },
+    {
+      "code": 3011,
+      "description": "MATTE"
+    },
+    {
+      "code": 3011,
+      "description": "PLATINOID MINERAL CONCENTRATES"
+    },
+    {
+      "code": 3015,
+      "description": "'SILVER (IN GRAIN/ SHEET/ FOIL/ POWDER/ SPONGE/ WIRE/ ROD/ TUBE/ CIRCLES/ CASTINGS)"
+    },
+    {
+      "code": 3015,
+      "description": "SILVER SPECIE -SEMI-FINISHED -"
+    },
+    {
+      "code": 3015,
+      "description": "SILVER INGOTS"
+    },
+    {
+      "code": 3015,
+      "description": "SILVER BULLION"
+    },
+    {
+      "code": 3025,
+      "description": "'METAL WARES (EXCLUDING GOLD/ PLATINUM/ PLATINUM MATERIALS)"
+    },
+    {
+      "code": 3030,
+      "description": "COPPER MANUFACTURES"
+    },
+    {
+      "code": 3032,
+      "description": "COPPER (IN SLABS/ SEMI-FINISHED PRODUCTS/ PLATES/ SHEETS/ WIRE/ ROD/ TUBE/ CIRCLES/ CASTINGS)"
+    },
+    {
+      "code": 3034,
+      "description": "COPPER ORE"
+    },
+    {
+      "code": 3038,
+      "description": "COPPER CABLE"
+    },
+    {
+      "code": 3038,
+      "description": "COPPER WIRE"
+    },
+    {
+      "code": 3050,
+      "description": "BRASS MANUFACTURES"
+    },
+    {
+      "code": 3060,
+      "description": "ALUMINUM MANUFACTURES"
+    },
+    {
+      "code": 3075,
+      "description": "ALUMINUM ALLOYS -"
+    },
+    {
+      "code": 3075,
+      "description": "STEEL SCREEN MESH - MADE OF ALUMINUM"
+    },
+    {
+      "code": 3075,
+      "description": "SCREEN"
+    },
+    {
+      "code": 3075,
+      "description": "MESH"
+    },
+    {
+      "code": 3075,
+      "description": "BARS"
+    },
+    {
+      "code": 3075,
+      "description": "WIRE"
+    },
+    {
+      "code": 3075,
+      "description": "RODS"
+    },
+    {
+      "code": 3075,
+      "description": "TUBES"
+    },
+    {
+      "code": 3075,
+      "description": "PLATES"
+    },
+    {
+      "code": 3075,
+      "description": "FOIL"
+    },
+    {
+      "code": 3075,
+      "description": "SHEETS"
+    },
+    {
+      "code": 3075,
+      "description": "HONEYCOMB SHEETS"
+    },
+    {
+      "code": 3075,
+      "description": "EXTRUSIONS"
+    },
+    {
+      "code": 3100,
+      "description": "CUTLERY"
+    },
+    {
+      "code": 3101,
+      "description": "SPOONS EXCLUDING SILVERWARE"
+    },
+    {
+      "code": 3101,
+      "description": "FORKS"
+    },
+    {
+      "code": 3101,
+      "description": "CUTLERY"
+    },
+    {
+      "code": 3127,
+      "description": "RAZOR BLADES"
+    },
+    {
+      "code": 3127,
+      "description": "RAZORS"
+    },
+    {
+      "code": 3150,
+      "description": "BRONZEWARE"
+    },
+    {
+      "code": 3150,
+      "description": "TABLE FLATWARE"
+    },
+    {
+      "code": 3153,
+      "description": "MEDALS"
+    },
+    {
+      "code": 3153,
+      "description": "SHIELDS"
+    },
+    {
+      "code": 3153,
+      "description": "CUPS"
+    },
+    {
+      "code": 3153,
+      "description": "TROPHIES"
+    },
+    {
+      "code": 3153,
+      "description": "TABLEWARE"
+    },
+    {
+      "code": 3153,
+      "description": "ELECTROPLATED NICKEL SILVERWARE"
+    },
+    {
+      "code": 3206,
+      "description": "BASES USED FOR SPRINKLING EQUIPMENT"
+    },
+    {
+      "code": 3206,
+      "description": "PISTOL NOZZLES/CONNECTORS"
+    },
+    {
+      "code": 3206,
+      "description": "LAWN SPRINKLERS"
+    },
+    {
+      "code": 3236,
+      "description": "DRILL BITS"
+    },
+    {
+      "code": 3300,
+      "description": "HARDWARE"
+    },
+    {
+      "code": 3321,
+      "description": "FITTINGS EXCLUDING TOOLS"
+    },
+    {
+      "code": 3321,
+      "description": "FIXTURES"
+    },
+    {
+      "code": 3321,
+      "description": "BUILDING MATERIALS"
+    },
+    {
+      "code": 3341,
+      "description": "BATHROOM SHOWER SETS"
+    },
+    {
+      "code": 3400,
+      "description": "HOSPITAL UTENSILS"
+    },
+    {
+      "code": 3400,
+      "description": "KITCHEN UTENSILS"
+    },
+    {
+      "code": 3400,
+      "description": "TABLE UTENSILS"
+    },
+    {
+      "code": 3400,
+      "description": "HOUSEHOLD UTENSILS"
+    },
+    {
+      "code": 3404,
+      "description": "ELECTRIC EQUIPMENT"
+    },
+    {
+      "code": 3404,
+      "description": "KITCHEN UTENSILS - MADE OF STAINLESS STEEL -EXCLUDING MACHINERY"
+    },
+    {
+      "code": 3404,
+      "description": "TABLE UTENSILS"
+    },
+    {
+      "code": 3409,
+      "description": "EXCLUDING ELECTRIC EQUIPMENT"
+    },
+    {
+      "code": 3409,
+      "description": "VASES"
+    },
+    {
+      "code": 3409,
+      "description": "TABLE UTENSILS"
+    },
+    {
+      "code": 3409,
+      "description": "KITCHEN UTENSILS"
+    },
+    {
+      "code": 3411,
+      "description": "METAL KITCHENWARE"
+    },
+    {
+      "code": 3501,
+      "description": "HANDLES"
+    },
+    {
+      "code": 3501,
+      "description": "DOOR LOCKS"
+    },
+    {
+      "code": 3503,
+      "description": "PIPE FIXTURES"
+    },
+    {
+      "code": 3503,
+      "description": "PUMPING FIXTURES"
+    },
+    {
+      "code": 3504,
+      "description": "HARDWARE FOR FURNITURE"
+    },
+    {
+      "code": 3574,
+      "description": "PARTS FOR COOKERS"
+    },
+    {
+      "code": 3574,
+      "description": "PARTS FOR REFRIGERATORS"
+    },
+    {
+      "code": 3890,
+      "description": "COBALT"
+    },
+    {
+      "code": 3895,
+      "description": "ORE (EXCLUDING GOLD/ SILVER/ PLATINUM)"
+    },
+    {
+      "code": 3896,
+      "description": "SILVER ORE"
+    },
+    {
+      "code": 3900,
+      "description": "METAL PRODUCTS (MISCELLANEOUS)"
+    },
+    {
+      "code": 3963,
+      "description": "DYES"
+    },
+    {
+      "code": 3963,
+      "description": "MOULDS"
+    },
+    {
+      "code": 3969,
+      "description": "LOCKS"
+    },
+    {
+      "code": 3991,
+      "description": "PLATINUM METALS"
+    },
+    {
+      "code": 3991,
+      "description": "PLATINUM"
+    },
+    {
+      "code": 3991,
+      "description": "SILVER"
+    },
+    {
+      "code": 3991,
+      "description": "CIRCLES - MADE OF METAL -EXCLUDING GOLD"
+    },
+    {
+      "code": 3991,
+      "description": "RODS"
+    },
+    {
+      "code": 3991,
+      "description": "WIRE"
+    },
+    {
+      "code": 3991,
+      "description": "TUBINGS"
+    },
+    {
+      "code": 3991,
+      "description": "SHEETS"
+    },
+    {
+      "code": 3991,
+      "description": "RIVETS"
+    },
+    {
+      "code": 3991,
+      "description": "MESH"
+    },
+    {
+      "code": 3991,
+      "description": "CABLE"
+    },
+    {
+      "code": 4010,
+      "description": "SURFACE VEHICLES (EXCLUDING STEAMSHIP MACHINERY/ MOTORSHIP MACHINERY SPARE PARTS)"
+    },
+    {
+      "code": 4010,
+      "description": "TOOLS"
+    },
+    {
+      "code": 4010,
+      "description": "MACHINERY"
+    },
+    {
+      "code": 4010,
+      "description": "OFFICE MACHINERY - INCLUDING SUPPLIES -"
+    },
+    {
+      "code": 4010,
+      "description": "BUSINESS MACHINERY"
+    },
+    {
+      "code": 4105,
+      "description": "AIRCRAFT"
+    },
+    {
+      "code": 4107,
+      "description": "HELICOPTER SPARES"
+    },
+    {
+      "code": 4108,
+      "description": "AIRCRAFT PARTS (EXCLUDING AIRCRAFT ENGINES)"
+    },
+    {
+      "code": 4109,
+      "description": "'AIRCRAFT PARTS (EXCLUDING TAIL ASSEMBLIES/ STABILIZERS/ STABILATORS/ FUSELAGES/ WINGS)"
+    },
+    {
+      "code": 4109,
+      "description": "AIRCRAFT ENGINES"
+    },
+    {
+      "code": 4110,
+      "description": "'AIRCRAFT PARTS (EXCLUDING FUSELAGES/ WINGS)"
+    },
+    {
+      "code": 4110,
+      "description": "AIRCRAFT ENGINES"
+    },
+    {
+      "code": 4112,
+      "description": "WINGS"
+    },
+    {
+      "code": 4112,
+      "description": "FUSELAGES"
+    },
+    {
+      "code": 4112,
+      "description": "SUPPLIES"
+    },
+    {
+      "code": 4112,
+      "description": "MAINTENANCE TOOLS"
+    },
+    {
+      "code": 4112,
+      "description": "AIRCRAFT PARTS (INCLUDING ACCESSORIES) EXCLUDING OVERHAUL TOOLS"
+    },
+    {
+      "code": 4112,
+      "description": "AIRCRAFT ENGINES"
+    },
+    {
+      "code": 4119,
+      "description": "AIRCRAFT PARTS"
+    },
+    {
+      "code": 4123,
+      "description": "AIRCRAFT PARTS (INCLUDING ACCESSORIES)"
+    },
+    {
+      "code": 4181,
+      "description": "OUTBOARD MOTORS (INCLUDING ACCESSORIES)"
+    },
+    {
+      "code": 4200,
+      "description": "ASHTRAY"
+    },
+    {
+      "code": 4200,
+      "description": "MIRRORS"
+    },
+    {
+      "code": 4200,
+      "description": "WHEELCAPS"
+    },
+    {
+      "code": 4200,
+      "description": "FLASHING LIGHTS"
+    },
+    {
+      "code": 4200,
+      "description": "SPOTLAMPS"
+    },
+    {
+      "code": 4200,
+      "description": "VISORS"
+    },
+    {
+      "code": 4200,
+      "description": "SIRENS"
+    },
+    {
+      "code": 4200,
+      "description": "HORNS"
+    },
+    {
+      "code": 4200,
+      "description": "LAMPSHIELDS"
+    },
+    {
+      "code": 4200,
+      "description": "PARTS OF MOTOR SLEIGHS"
+    },
+    {
+      "code": 4200,
+      "description": "PARTS OF BICYCLES"
+    },
+    {
+      "code": 4200,
+      "description": "PARTS OF MOTORCYLES"
+    },
+    {
+      "code": 4200,
+      "description": "PARTS OF MOTORSCOOTERS"
+    },
+    {
+      "code": 4200,
+      "description": "PARTS OF AUTOMOBILES"
+    },
+    {
+      "code": 4200,
+      "description": "PARTS OF RAILWAY CARS"
+    },
+    {
+      "code": 4200,
+      "description": "PARTS OF AGRICULTURAL MACHINES"
+    },
+    {
+      "code": 4201,
+      "description": "SURFACE VEHICLES (EXCLUDING STEAMSHIP PARTS/ MOTORSHIP PARTS)"
+    },
+    {
+      "code": 4203,
+      "description": "RAILWAY CAR PARTS"
+    },
+    {
+      "code": 4203,
+      "description": "AGRICULTURAL MACHINE PARTS"
+    },
+    {
+      "code": 4203,
+      "description": "MOTORSHIP PARTS"
+    },
+    {
+      "code": 4203,
+      "description": "SURFACE VEHICLES (INCLUDING ACCESSORIES) EXCLUDING STEAMSHIP PARTS"
+    },
+    {
+      "code": 4206,
+      "description": "'SURFACE VEHICLE PARTS EXCLUDING STEAMSHIP AND/OR MOTORSHIP MACHINE PARTS"
+    },
+    {
+      "code": 4209,
+      "description": "MOTORSHIP PARTS"
+    },
+    {
+      "code": 4209,
+      "description": "SELF-PROPELLED AGRICULTURAL MACHINERY - INCLUDING ACCESSORIES -EXCLUDING STEAMSHIP PARTS"
+    },
+    {
+      "code": 4209,
+      "description": "SURFACE VEHICLES"
+    },
+    {
+      "code": 4211,
+      "description": "AUTOMOBILE REPAIR EQUIPMENT"
+    },
+    {
+      "code": 4211,
+      "description": "PARTS OF AUTOMOBILES (INCLUDING ACCESSORIES)"
+    },
+    {
+      "code": 4214,
+      "description": "AUTOMOBILES"
+    },
+    {
+      "code": 4228,
+      "description": "BICYCLES - BOXED -"
+    },
+    {
+      "code": 4228,
+      "description": "MOTORSCOOTERS"
+    },
+    {
+      "code": 4228,
+      "description": "MOTORCYCLES"
+    },
+    {
+      "code": 4232,
+      "description": "AGRICULTURAL MACHINES"
+    },
+    {
+      "code": 4232,
+      "description": "BICYCLES"
+    },
+    {
+      "code": 4232,
+      "description": "MOTORCYCLES"
+    },
+    {
+      "code": 4232,
+      "description": "MOTORSCOOTERS"
+    },
+    {
+      "code": 4232,
+      "description": "PARTS OF AUTOMOBILES (INCLUDING ACCESSORIES)"
+    },
+    {
+      "code": 4235,
+      "description": "MOTORSHIP PARTS"
+    },
+    {
+      "code": 4235,
+      "description": "PARTS OF SELF-PROPELLED AGRICULTURAL MACHINERY (INCLUDING ACCESSORIES) EXCLUDING STEAMSHIP PARTS"
+    },
+    {
+      "code": 4235,
+      "description": "PARTS OF SURFACE VEHICLES (INCLUDING ACCESSORIES)"
+    },
+    {
+      "code": 4235,
+      "description": "CYCLES"
+    },
+    {
+      "code": 4235,
+      "description": "MOTORCYCLES"
+    },
+    {
+      "code": 4235,
+      "description": "MOTORSCOOTERS"
+    },
+    {
+      "code": 4242,
+      "description": "AUTOMOBILE TEMPERATURE GAUGES"
+    },
+    {
+      "code": 4246,
+      "description": "BRAKE LININGS"
+    },
+    {
+      "code": 4248,
+      "description": "FANBELTS"
+    },
+    {
+      "code": 4266,
+      "description": "PARTS FOR SPORTING BOATS (INCLUDING ACCESSORIES)"
+    },
+    {
+      "code": 4291,
+      "description": "FILTERS FOR AGRICULTURAL MACHINES"
+    },
+    {
+      "code": 4300,
+      "description": "OFFICE MACHINERY"
+    },
+    {
+      "code": 4302,
+      "description": "SUPPLIES -"
+    },
+    {
+      "code": 4302,
+      "description": "-INCLUDING ACCESSORIES"
+    },
+    {
+      "code": 4302,
+      "description": "OFFICE MACHINERY"
+    },
+    {
+      "code": 4302,
+      "description": "DATA PROCESSING EQUIPMENT"
+    },
+    {
+      "code": 4303,
+      "description": "TYPEWRITERS"
+    },
+    {
+      "code": 4303,
+      "description": "MACHINES FOR DUPLICATING DOCUMENTS"
+    },
+    {
+      "code": 4303,
+      "description": "CALCULATING MACHINES"
+    },
+    {
+      "code": 4303,
+      "description": "ADDING MACHINES"
+    },
+    {
+      "code": 4303,
+      "description": "ANALOG COMPUTERS"
+    },
+    {
+      "code": 4303,
+      "description": "DIGITAL COMPUTERS - LAPTOP"
+    },
+    {
+      "code": 4303,
+      "description": "ELECTRONIC DATA STORAGE PROCESSING MACHINES"
+    },
+    {
+      "code": 4304,
+      "description": "PHOTO-TYPESETTING MACHINES"
+    },
+    {
+      "code": 4306,
+      "description": "COMPUTERS - INCLUDING ACCESSORIESAND PARTS THEREOF"
+    },
+    {
+      "code": 4309,
+      "description": "ANALOG COMPUTERS - INDIVIDUAL UNITS -"
+    },
+    {
+      "code": 4309,
+      "description": "DIGITAL COMPUTERS"
+    },
+    {
+      "code": 4309,
+      "description": "TYPEWRITERS EXCLUDING ELECTRONIC DATA STORAGE-PROCESSING MACHINES"
+    },
+    {
+      "code": 4309,
+      "description": "MACHINES FOR DUPLICATING DOCUMENTS"
+    },
+    {
+      "code": 4309,
+      "description": "CASH REGISTERS"
+    },
+    {
+      "code": 4309,
+      "description": "CALCULATING MACHINES"
+    },
+    {
+      "code": 4309,
+      "description": "ADDING MACHINES"
+    },
+    {
+      "code": 4311,
+      "description": "DOCUMENT/LETTER DUPLICATING MACHINES"
+    },
+    {
+      "code": 4311,
+      "description": "TYPEWRITING MACHINES"
+    },
+    {
+      "code": 4311,
+      "description": "COMPUTING MACHINES"
+    },
+    {
+      "code": 4311,
+      "description": "ADDING MACHINES"
+    },
+    {
+      "code": 4312,
+      "description": "TAPE -"
+    },
+    {
+      "code": 4312,
+      "description": "PUNCH CARDS"
+    },
+    {
+      "code": 4312,
+      "description": "ANALOG COMPUTERS -INCLUDING INDIVIDUAL UNITS"
+    },
+    {
+      "code": 4312,
+      "description": "DIGITAL COMPUTERS"
+    },
+    {
+      "code": 4312,
+      "description": "ELECTRONIC DATA STORAGE-PROCESSING MACHINES"
+    },
+    {
+      "code": 4312,
+      "description": "TYPEWRITERS"
+    },
+    {
+      "code": 4312,
+      "description": "MACHINES FOR DUPLICATING DOCUMENTS"
+    },
+    {
+      "code": 4312,
+      "description": "CASH REGISTERS"
+    },
+    {
+      "code": 4312,
+      "description": "CALCULATING MACHINES"
+    },
+    {
+      "code": 4312,
+      "description": "ADDING MACHINES"
+    },
+    {
+      "code": 4313,
+      "description": "COMPUTER DATA SHEETS"
+    },
+    {
+      "code": 4313,
+      "description": "COMPUTER PUNCH CARDS"
+    },
+    {
+      "code": 4314,
+      "description": "ELECTRONIC COMPONENTS (FABRICATED FOR ELECTRONIC COMPUTERS/ AUXILIARY MACHINES)"
+    },
+    {
+      "code": 4315,
+      "description": "MAGNETIC TAPES FOR DATA STORAGE"
+    },
+    {
+      "code": 4316,
+      "description": "TELETYPE"
+    },
+    {
+      "code": 4316,
+      "description": "CARD TO TAPE"
+    },
+    {
+      "code": 4316,
+      "description": "CONVERTERS (TAPE TO CARD"
+    },
+    {
+      "code": 4316,
+      "description": "CHECKING MACHINES (FOR PUNCHED CARDS)"
+    },
+    {
+      "code": 4316,
+      "description": "TAPE -CARD PUNCHING MACHINES"
+    },
+    {
+      "code": 4316,
+      "description": "DATA PROCESSING - ALL OPERATED IN CONJUCTION WITH PUNCHED CARDS"
+    },
+    {
+      "code": 4316,
+      "description": "CALCULATING"
+    },
+    {
+      "code": 4316,
+      "description": "BOOKKEEPING"
+    },
+    {
+      "code": 4316,
+      "description": "MACHINES FOR ACCOUNTING"
+    },
+    {
+      "code": 4316,
+      "description": "ELECTRONIC COMPUTERS"
+    },
+    {
+      "code": 4317,
+      "description": "ANALOG COMPUTERS -"
+    },
+    {
+      "code": 4317,
+      "description": "DIGITAL COMPUTERS"
+    },
+    {
+      "code": 4317,
+      "description": "DATA DISCS - FOR ELECTRONIC DATA STORAGE-PROCESSING MACHINES"
+    },
+    {
+      "code": 4317,
+      "description": "DATA SHEETS"
+    },
+    {
+      "code": 4317,
+      "description": "TAPE"
+    },
+    {
+      "code": 4317,
+      "description": "PUNCH CARDS"
+    },
+    {
+      "code": 4318,
+      "description": "'TYPEWRITERS (INCLUDING TYPEWRITER RIBBONS/ TYPEWRITER TAPES)"
+    },
+    {
+      "code": 4318,
+      "description": "MACHINES FOR DUPLICATING DOCUMENTS"
+    },
+    {
+      "code": 4318,
+      "description": "CASH REGISTERS"
+    },
+    {
+      "code": 4318,
+      "description": "CALCULATING MACHINES"
+    },
+    {
+      "code": 4318,
+      "description": "ADDING MACHINES"
+    },
+    {
+      "code": 4319,
+      "description": "TAPE"
+    },
+    {
+      "code": 4319,
+      "description": "ANALOG COMPUTERS - INDIVIDUAL UNITS - PUNCH CARDS"
+    },
+    {
+      "code": 4319,
+      "description": "DIGITAL COMPUTERS"
+    },
+    {
+      "code": 4319,
+      "description": "ELECTRONIC DATA STORAGE-PROCESSING MACHINES"
+    },
+    {
+      "code": 4321,
+      "description": "TYPEWRITERS"
+    },
+    {
+      "code": 4322,
+      "description": "PHOTOCOPYING MACHINES (INCLUDING ACCESSORIES/ SUPPLIES)"
+    },
+    {
+      "code": 4323,
+      "description": "ELECTRONIC PRODUCTS (INCLUDING COMPONENTS)"
+    },
+    {
+      "code": 4324,
+      "description": "PRINTER FOR PERSONAL COMPUTER"
+    },
+    {
+      "code": 4326,
+      "description": "TYPEWRITERS - INCLUDING OPERATION INSTRUCTIONS -"
+    },
+    {
+      "code": 4326,
+      "description": "MACHINES FOR DUPLICATING DOCUMENTS"
+    },
+    {
+      "code": 4326,
+      "description": "ELECTRONIC DATA STORAGE-PROCESSING MACHINES"
+    },
+    {
+      "code": 4326,
+      "description": "TAPES -"
+    },
+    {
+      "code": 4326,
+      "description": "DISC PACKS"
+    },
+    {
+      "code": 4326,
+      "description": "ANALOG COMPUTERS - INCLUDING PUNCH CARDS"
+    },
+    {
+      "code": 4326,
+      "description": "DIGITAL COMPUTERS"
+    },
+    {
+      "code": 4327,
+      "description": "OFFICE MACHINES (INCLUDING SUPPLIES)"
+    },
+    {
+      "code": 4329,
+      "description": "ELECTRONIC PRODUCTS"
+    },
+    {
+      "code": 4330,
+      "description": "WORD PROCESSORS"
+    },
+    {
+      "code": 4350,
+      "description": "PORTABLE ELECTRONIC CALCULATORS"
+    },
+    {
+      "code": 4350,
+      "description": "SOLID-STATE SEMI-CONDUCTOR DEVICES"
+    },
+    {
+      "code": 4350,
+      "description": "TRANSISTORS"
+    },
+    {
+      "code": 4350,
+      "description": "CAPACITORS"
+    },
+    {
+      "code": 4350,
+      "description": "CONDENSORS"
+    },
+    {
+      "code": 4350,
+      "description": "RELAYS"
+    },
+    {
+      "code": 4350,
+      "description": "INTEGRATED CIRCUITS"
+    },
+    {
+      "code": 4382,
+      "description": "TYPEWRITER RIBBONS"
+    },
+    {
+      "code": 4397,
+      "description": "GAS APPLIANCES"
+    },
+    {
+      "code": 4397,
+      "description": "ELECTRIC APPLIANCES"
+    },
+    {
+      "code": 4400,
+      "description": "ELECTRIC EQUIPMENT (EXCLUDING MACHINERY)"
+    },
+    {
+      "code": 4401,
+      "description": "ELECTRIC EQUIPMENT"
+    },
+    {
+      "code": 4402,
+      "description": "OFFICE MACHINERY"
+    },
+    {
+      "code": 4402,
+      "description": "ELECTRIC APPLIANCES EXCLUDING BUSINESS MACHINERY"
+    },
+    {
+      "code": 4402,
+      "description": "ELECTRIC EQUIPMENT"
+    },
+    {
+      "code": 4403,
+      "description": "'ELECTRONIC CONTROL PANELS (FOR RADAR STATIONS/ POWER PLANTS/ HEATING/COOLING INSTALLATIONS/ SOUND RECORDING STUDIOS)"
+    },
+    {
+      "code": 4404,
+      "description": "ELECTRICAL APPLIANCES"
+    },
+    {
+      "code": 4405,
+      "description": "BATTERIES"
+    },
+    {
+      "code": 4406,
+      "description": "BATTERIES IN EQUIPMENT"
+    },
+    {
+      "code": 4409,
+      "description": "ELECTRODES"
+    },
+    {
+      "code": 4410,
+      "description": "SIGNAL DEVICES"
+    },
+    {
+      "code": 4410,
+      "description": "COMMUNICATION DEVICES"
+    },
+    {
+      "code": 4411,
+      "description": "TAPE RECORDERS"
+    },
+    {
+      "code": 4411,
+      "description": "RECORD PLAYERS"
+    },
+    {
+      "code": 4411,
+      "description": "TELEVISIONS"
+    },
+    {
+      "code": 4411,
+      "description": "RADIOS"
+    },
+    {
+      "code": 4412,
+      "description": "OFFICE MACHINERY"
+    },
+    {
+      "code": 4412,
+      "description": "ELECTRIC APPLIANCES EXCLUDING COMPUTERS"
+    },
+    {
+      "code": 4412,
+      "description": "ELECTRIC EQUIPMENT"
+    },
+    {
+      "code": 4413,
+      "description": "AMPLIFIERS - INCLUDING ACCESSORIES -"
+    },
+    {
+      "code": 4413,
+      "description": "LOUDSPEAKERS"
+    },
+    {
+      "code": 4413,
+      "description": "TAPE RECORDERS"
+    },
+    {
+      "code": 4413,
+      "description": "RECORD PLAYERS"
+    },
+    {
+      "code": 4413,
+      "description": "TELEVISIONS"
+    },
+    {
+      "code": 4413,
+      "description": "RADIOS"
+    },
+    {
+      "code": 4414,
+      "description": "AMPLIFIERS - INCLUDING ACCESSORIES -"
+    },
+    {
+      "code": 4414,
+      "description": "RADIOS"
+    },
+    {
+      "code": 4414,
+      "description": "RECORD PLAYERS"
+    },
+    {
+      "code": 4414,
+      "description": "TAPE RECORDERS"
+    },
+    {
+      "code": 4414,
+      "description": "LOUD-SPEAKERS"
+    },
+    {
+      "code": 4415,
+      "description": "AERIALS"
+    },
+    {
+      "code": 4415,
+      "description": "RECORD PLAYERS"
+    },
+    {
+      "code": 4415,
+      "description": "TAPE RECORDERS"
+    },
+    {
+      "code": 4415,
+      "description": "RADIOS"
+    },
+    {
+      "code": 4416,
+      "description": "TELET"
+    },
+    {
+      "code": 4416,
+      "description": "TELEGRAPH APPARATUS"
+    },
+    {
+      "code": 4416,
+      "description": "TELEPHONE APPARATUS"
+    },
+    {
+      "code": 4416,
+      "description": "INSULATED WIRE"
+    },
+    {
+      "code": 4416,
+      "description": "ENAMELLED WIRE"
+    },
+    {
+      "code": 4416,
+      "description": "LIGHTING FIXTURES"
+    },
+    {
+      "code": 4416,
+      "description": "ELECTRICAPPLIANCES"
+    },
+    {
+      "code": 4416,
+      "description": "SOUND RECORDING SETS"
+    },
+    {
+      "code": 4416,
+      "description": "TELEVISIONS"
+    },
+    {
+      "code": 4416,
+      "description": "RADIOS"
+    },
+    {
+      "code": 4416,
+      "description": "RECORDING WIRE"
+    },
+    {
+      "code": 4416,
+      "description": "RECORDING TAPE"
+    },
+    {
+      "code": 4416,
+      "description": "RECORDS"
+    },
+    {
+      "code": 4416,
+      "description": "HEARING AIDS"
+    },
+    {
+      "code": 4416,
+      "description": "DICTATION MACHINES"
+    },
+    {
+      "code": 4416,
+      "description": "AUTOMOBILE RADIOS"
+    },
+    {
+      "code": 4417,
+      "description": "ELECTRIC HOUSEHOLD APPLIANCES"
+    },
+    {
+      "code": 4417,
+      "description": "RADIO-PHONOGRAPH SETS"
+    },
+    {
+      "code": 4417,
+      "description": "RADIO-TELEVISION SETS"
+    },
+    {
+      "code": 4417,
+      "description": "TELEVISIONS"
+    },
+    {
+      "code": 4417,
+      "description": "RADIOS"
+    },
+    {
+      "code": 4419,
+      "description": "RADIO-TELEPHONE EQUIPMENT -INCLUDING TESTING EQUIPMENT -"
+    },
+    {
+      "code": 4419,
+      "description": "TELEPHONE EQUIPMENT"
+    },
+    {
+      "code": 4420,
+      "description": "PHONOGRAPH SETS"
+    },
+    {
+      "code": 4420,
+      "description": "RADIO-TELEVISION SETS"
+    },
+    {
+      "code": 4420,
+      "description": "TELEVISIONS"
+    },
+    {
+      "code": 4420,
+      "description": "RADIOS"
+    },
+    {
+      "code": 4422,
+      "description": "'PARTS/COMPONENTS FOR THE MANUFACTURE OF TELECOMMUNICATION EQUIPMENT"
+    },
+    {
+      "code": 4423,
+      "description": "CONDENSERS"
+    },
+    {
+      "code": 4425,
+      "description": "LOUDSPEAKERS"
+    },
+    {
+      "code": 4426,
+      "description": "TELET"
+    },
+    {
+      "code": 4426,
+      "description": "TELEGRAPH APPARATUS"
+    },
+    {
+      "code": 4426,
+      "description": "TELEPHONE APPARATUS"
+    },
+    {
+      "code": 4426,
+      "description": "INSULATED WIRE"
+    },
+    {
+      "code": 4426,
+      "description": "ENAMELLED WIRE"
+    },
+    {
+      "code": 4426,
+      "description": "LIGHTING FIXTURES"
+    },
+    {
+      "code": 4426,
+      "description": "ELECTRICAPPLIANCES"
+    },
+    {
+      "code": 4426,
+      "description": "SOUND RECORDING SETS"
+    },
+    {
+      "code": 4426,
+      "description": "TELEVISIONS"
+    },
+    {
+      "code": 4426,
+      "description": "RADIOS"
+    },
+    {
+      "code": 4426,
+      "description": "RECORDING WIRE"
+    },
+    {
+      "code": 4426,
+      "description": "RECORDING TAPE"
+    },
+    {
+      "code": 4426,
+      "description": "RECORDS"
+    },
+    {
+      "code": 4426,
+      "description": "HEARING AIDS"
+    },
+    {
+      "code": 4426,
+      "description": "DICTATION MACHINES"
+    },
+    {
+      "code": 4426,
+      "description": "AUTOMOBILE RADIOS"
+    },
+    {
+      "code": 4427,
+      "description": "RADIO PARTS"
+    },
+    {
+      "code": 4427,
+      "description": "SOLID-STATE SEMI-CONDUCTOR DEVICES"
+    },
+    {
+      "code": 4427,
+      "description": "TRANSISTORS"
+    },
+    {
+      "code": 4427,
+      "description": "ELECTRONIC TUBES"
+    },
+    {
+      "code": 4428,
+      "description": "RELAYS"
+    },
+    {
+      "code": 4429,
+      "description": "RADIOS"
+    },
+    {
+      "code": 4429,
+      "description": "RHYTHM BOXES"
+    },
+    {
+      "code": 4429,
+      "description": "SPEAKERS"
+    },
+    {
+      "code": 4429,
+      "description": "AMPLIFIERS"
+    },
+    {
+      "code": 4430,
+      "description": "RHEOSTATS"
+    },
+    {
+      "code": 4430,
+      "description": "RESISTORS"
+    },
+    {
+      "code": 4430,
+      "description": "ELECTRIC CONDENSERS"
+    },
+    {
+      "code": 4431,
+      "description": "ELECTRIC SWITCHES"
+    },
+    {
+      "code": 4431,
+      "description": "RHEOSTATS"
+    },
+    {
+      "code": 4431,
+      "description": "RESISTORS"
+    },
+    {
+      "code": 4433,
+      "description": "TELEVISIONS -"
+    },
+    {
+      "code": 4433,
+      "description": "VALVES - FOR RADIOS"
+    },
+    {
+      "code": 4433,
+      "description": "TUBES"
+    },
+    {
+      "code": 4434,
+      "description": "SWITCHES"
+    },
+    {
+      "code": 4435,
+      "description": "SOLID-STATE SEMI-CONDUCTOR DEVICES"
+    },
+    {
+      "code": 4435,
+      "description": "TRANSISTORS"
+    },
+    {
+      "code": 4435,
+      "description": "ELECTRONIC TUBES"
+    },
+    {
+      "code": 4436,
+      "description": "ELECTRIC CONDENSERS"
+    },
+    {
+      "code": 4436,
+      "description": "TRANSISTORS"
+    },
+    {
+      "code": 4439,
+      "description": "TUNERS"
+    },
+    {
+      "code": 4439,
+      "description": "REGULATORS"
+    },
+    {
+      "code": 4439,
+      "description": "CAPACITORS"
+    },
+    {
+      "code": 4439,
+      "description": "TRANSISTORS"
+    },
+    {
+      "code": 4439,
+      "description": "RESISTORS"
+    },
+    {
+      "code": 4440,
+      "description": "SOLID-STATE SEMI-CONDUCTOR DEVICES"
+    },
+    {
+      "code": 4440,
+      "description": "TRANSISTORS"
+    },
+    {
+      "code": 4440,
+      "description": "ELECTRONIC TUBES"
+    },
+    {
+      "code": 4440,
+      "description": "RADIOS"
+    },
+    {
+      "code": 4442,
+      "description": "TELEVISIONS"
+    },
+    {
+      "code": 4443,
+      "description": "TELET"
+    },
+    {
+      "code": 4443,
+      "description": "TELEGRAPH APPARATUS"
+    },
+    {
+      "code": 4443,
+      "description": "TELEPHONE APPARATUS"
+    },
+    {
+      "code": 4443,
+      "description": "INSULATED WIRE"
+    },
+    {
+      "code": 4443,
+      "description": "ENAMELLED WIRE"
+    },
+    {
+      "code": 4443,
+      "description": "LIGHTING FIXTURES"
+    },
+    {
+      "code": 4443,
+      "description": "ELECTRICAPPLIANCES"
+    },
+    {
+      "code": 4443,
+      "description": "SOUND RECORDING SETS"
+    },
+    {
+      "code": 4443,
+      "description": "TELEVISIONS"
+    },
+    {
+      "code": 4443,
+      "description": "RADIOS"
+    },
+    {
+      "code": 4443,
+      "description": "RECORDING WIRE"
+    },
+    {
+      "code": 4443,
+      "description": "RECORDING TAPE"
+    },
+    {
+      "code": 4443,
+      "description": "RECORDS"
+    },
+    {
+      "code": 4443,
+      "description": "HEARING AIDS"
+    },
+    {
+      "code": 4443,
+      "description": "DICTATION MACHINES"
+    },
+    {
+      "code": 4443,
+      "description": "AUTOMOBILE RADIOS"
+    },
+    {
+      "code": 4444,
+      "description": "TRANSISTOR RADIOS"
+    },
+    {
+      "code": 4445,
+      "description": "TELETYPE APPARATUS"
+    },
+    {
+      "code": 4445,
+      "description": "TELEPHONE APPARATUS"
+    },
+    {
+      "code": 4445,
+      "description": "TELEGRAPH APPARATUS"
+    },
+    {
+      "code": 4446,
+      "description": "TRANSISTORS"
+    },
+    {
+      "code": 4446,
+      "description": "RESISTORS"
+    },
+    {
+      "code": 4446,
+      "description": "RELAYS"
+    },
+    {
+      "code": 4446,
+      "description": "CONDENSORS"
+    },
+    {
+      "code": 4446,
+      "description": "INTEGRATED CIRCUITS"
+    },
+    {
+      "code": 4447,
+      "description": "ELECTRON GUN WHICH IS COMPONENT OF TELEVISION RECEIVING TUBE MOUNT"
+    },
+    {
+      "code": 4449,
+      "description": "SMOKE DETECTORS"
+    },
+    {
+      "code": 4450,
+      "description": "HOUSEHOLD UTENSILS -ELECTRIC -"
+    },
+    {
+      "code": 4450,
+      "description": "HOUSEHOLD APPLIANCES"
+    },
+    {
+      "code": 4451,
+      "description": "COMPUTERS - FOR DOMESTIC USE ONLY"
+    },
+    {
+      "code": 4451,
+      "description": "VIDEO APPARATUS"
+    },
+    {
+      "code": 4451,
+      "description": "AUDIO APPARATUS"
+    },
+    {
+      "code": 4452,
+      "description": "ELECTRO EROSION MACHINERY"
+    },
+    {
+      "code": 4455,
+      "description": "TRANSFORMERS - ELECTRIC -"
+    },
+    {
+      "code": 4455,
+      "description": "SWITCHES"
+    },
+    {
+      "code": 4455,
+      "description": "SHUNTS"
+    },
+    {
+      "code": 4455,
+      "description": "CONDENSORS"
+    },
+    {
+      "code": 4455,
+      "description": "AUTOMATICALLY CONTROLLING"
+    },
+    {
+      "code": 4455,
+      "description": "ANALYSING"
+    },
+    {
+      "code": 4455,
+      "description": "CHECKING"
+    },
+    {
+      "code": 4455,
+      "description": "IMPLEMENTS FOR MEASURING"
+    },
+    {
+      "code": 4457,
+      "description": "PREMIUM SOUND BOXES"
+    },
+    {
+      "code": 4457,
+      "description": "GRAPHIC EQUALIZERS"
+    },
+    {
+      "code": 4457,
+      "description": "SPEED CONTROL AMPLIFIERS"
+    },
+    {
+      "code": 4457,
+      "description": "AUTOMOBILE RADIOS"
+    },
+    {
+      "code": 4458,
+      "description": "PARTS FOR TELEVISIONS"
+    },
+    {
+      "code": 4458,
+      "description": "PARTS FOR RECORD PLAYERS"
+    },
+    {
+      "code": 4458,
+      "description": "PARTS FOR RADIOS"
+    },
+    {
+      "code": 4459,
+      "description": "ELECTRONIC PARTS"
+    },
+    {
+      "code": 4461,
+      "description": "MECHANICAL RAZORS"
+    },
+    {
+      "code": 4461,
+      "description": "ELECTRIC RAZORS"
+    },
+    {
+      "code": 4465,
+      "description": "STOVES"
+    },
+    {
+      "code": 4465,
+      "description": "WASHING MACHINES"
+    },
+    {
+      "code": 4465,
+      "description": "CLOTHES DRIERS"
+    },
+    {
+      "code": 4465,
+      "description": "FREEZERS"
+    },
+    {
+      "code": 4465,
+      "description": "REFRIGERATORS"
+    },
+    {
+      "code": 4467,
+      "description": "SWITCH DOORS"
+    },
+    {
+      "code": 4467,
+      "description": "SELECTOR SWITCHES"
+    },
+    {
+      "code": 4467,
+      "description": "THERMOSTATS"
+    },
+    {
+      "code": 4470,
+      "description": "FLUORESCENT -"
+    },
+    {
+      "code": 4470,
+      "description": "TUBES - INCANDESCENT"
+    },
+    {
+      "code": 4470,
+      "description": "BULBS"
+    },
+    {
+      "code": 4470,
+      "description": "LAMPS"
+    },
+    {
+      "code": 4474,
+      "description": "HEATERS - ELECTRIC -"
+    },
+    {
+      "code": 4474,
+      "description": "FANS"
+    },
+    {
+      "code": 4475,
+      "description": "LIGHTING FITTINGS"
+    },
+    {
+      "code": 4475,
+      "description": "LIGHTING FIXTURES"
+    },
+    {
+      "code": 4476,
+      "description": "CHANDELIERS"
+    },
+    {
+      "code": 4476,
+      "description": "LAMP SHADES"
+    },
+    {
+      "code": 4476,
+      "description": "ELECTRIC LAMPS"
+    },
+    {
+      "code": 4477,
+      "description": "CABLES - ELECTRIC -"
+    },
+    {
+      "code": 4477,
+      "description": "WIRES"
+    },
+    {
+      "code": 4483,
+      "description": "AIR CONDITIONERS"
+    },
+    {
+      "code": 4490,
+      "description": "TELEPHONE LINES -"
+    },
+    {
+      "code": 4490,
+      "description": "TELEPHONE EXCHANGE RACK EQUIPMENT - FOR TELEPHONE EXCHANGE INSTALLATIONS"
+    },
+    {
+      "code": 4490,
+      "description": "TELEPHONE HAND SETS"
+    },
+    {
+      "code": 4490,
+      "description": "SWITCH SHELVES"
+    },
+    {
+      "code": 4490,
+      "description": "SWITCHBOARDS"
+    },
+    {
+      "code": 4490,
+      "description": "SELECTORS"
+    },
+    {
+      "code": 4490,
+      "description": "RELAYS"
+    },
+    {
+      "code": 4490,
+      "description": "RACKS"
+    },
+    {
+      "code": 4490,
+      "description": "FORMS"
+    },
+    {
+      "code": 4490,
+      "description": "CABLE CONNECTIONS"
+    },
+    {
+      "code": 4490,
+      "description": "CABLE-FORMS"
+    },
+    {
+      "code": 4490,
+      "description": "AUXILIARY UNITS"
+    },
+    {
+      "code": 4492,
+      "description": "'ELECTRIC EQUIPMENT (FOR TELETYPE/ TELEGRAPH/ TELEPHONE/ RADIO-TELEPHONE/ TELEVISION OR RADIO BROADCASTING/ RECORDING/EXCLUDING TELEVISION CAMERAS)"
+    },
+    {
+      "code": 4493,
+      "description": "'SWITCH/ DIVIDING BOARDS/BOXES ELECTRIC -"
+    },
+    {
+      "code": 4493,
+      "description": "'FIXED/FLEXIBLE RHEOSTATS (INCLUDING VOLT DIVIDER BUT EXCLUDING HEATING RHEOSTATS)"
+    },
+    {
+      "code": 4493,
+      "description": "DEVIATING-AND-CONNECTINGBOXES"
+    },
+    {
+      "code": 4493,
+      "description": "TERMINALS"
+    },
+    {
+      "code": 4493,
+      "description": "SOCKETS"
+    },
+    {
+      "code": 4493,
+      "description": "PLUGS"
+    },
+    {
+      "code": 4493,
+      "description": "EXCESS-VOLTAGE CONDUCTORS"
+    },
+    {
+      "code": 4493,
+      "description": "FUSES"
+    },
+    {
+      "code": 4493,
+      "description": "RELAYS"
+    },
+    {
+      "code": 4493,
+      "description": "SWITCHES"
+    },
+    {
+      "code": 4494,
+      "description": "CELLULAR PHONE (INSURANCE INCLUDED)"
+    },
+    {
+      "code": 4499,
+      "description": "MOTORSHIP MACHINERY PARTS"
+    },
+    {
+      "code": 4499,
+      "description": "TOOLS EXCLUDING STEAMSHIP MACHINERY PARTS"
+    },
+    {
+      "code": 4499,
+      "description": "MACHINERY"
+    },
+    {
+      "code": 4499,
+      "description": "ELECTRIC MACHINERY"
+    },
+    {
+      "code": 4499,
+      "description": "ELECTRIC APPLIANCES"
+    },
+    {
+      "code": 4504,
+      "description": "SEMI-CONDUCTORS"
+    },
+    {
+      "code": 4505,
+      "description": "PRINTED CIRCUITS"
+    },
+    {
+      "code": 4506,
+      "description": "TELEVISION TUNERS"
+    },
+    {
+      "code": 4515,
+      "description": "HYDRO-CARBON POWER PLANT EQUIPMENT -"
+    },
+    {
+      "code": 4515,
+      "description": "MECHANICAL MACHINERY -FOR NUCLEAR"
+    },
+    {
+      "code": 4515,
+      "description": "ELECTRIC MACHINERY"
+    },
+    {
+      "code": 4515,
+      "description": "VALVES"
+    },
+    {
+      "code": 4560,
+      "description": "TRANSFORMERS - ELECTRIC -"
+    },
+    {
+      "code": 4560,
+      "description": "GENERATORS"
+    },
+    {
+      "code": 4560,
+      "description": "MOTORS"
+    },
+    {
+      "code": 4600,
+      "description": "TURBINES"
+    },
+    {
+      "code": 4600,
+      "description": "ENGINES"
+    },
+    {
+      "code": 4609,
+      "description": "TURBINES"
+    },
+    {
+      "code": 4609,
+      "description": "INTERNAL COMBUSTION ENGINES"
+    },
+    {
+      "code": 4616,
+      "description": "PUMPSETS"
+    },
+    {
+      "code": 4616,
+      "description": "DIESEL ENGINES"
+    },
+    {
+      "code": 4700,
+      "description": "MOTORSHIP MACHINERY PARTS"
+    },
+    {
+      "code": 4700,
+      "description": "TOOLS EXCLUDING STEAMSHIP MACHINERY PARTS"
+    },
+    {
+      "code": 4700,
+      "description": "MACHINERY"
+    },
+    {
+      "code": 4701,
+      "description": "TOOLS"
+    },
+    {
+      "code": 4701,
+      "description": "ELECTRIC APPARATUS"
+    },
+    {
+      "code": 4701,
+      "description": "MACHINERY"
+    },
+    {
+      "code": 4702,
+      "description": "MOTORSHIP MACHINERY PARTS"
+    },
+    {
+      "code": 4702,
+      "description": "STEAMSHIP MACHINERY PARTS"
+    },
+    {
+      "code": 4702,
+      "description": "RETRIEVING"
+    },
+    {
+      "code": 4702,
+      "description": "CATAPULTING"
+    },
+    {
+      "code": 4702,
+      "description": "TOOLS EXCLUDING MACHINES FOR AIRCRAFT ARRESTING"
+    },
+    {
+      "code": 4702,
+      "description": "MACHINERY"
+    },
+    {
+      "code": 4703,
+      "description": "WELDIN"
+    },
+    {
+      "code": 4703,
+      "description": "RIVETING"
+    },
+    {
+      "code": 4703,
+      "description": "PACKAGING"
+    },
+    {
+      "code": 4703,
+      "description": "POSTAGE FRANKING"
+    },
+    {
+      "code": 4703,
+      "description": "PRINTING"
+    },
+    {
+      "code": 4703,
+      "description": "MOULDING"
+    },
+    {
+      "code": 4703,
+      "description": "DRILLING"
+    },
+    {
+      "code": 4703,
+      "description": "BINDING"
+    },
+    {
+      "code": 4703,
+      "description": "CUTTING POLISHING"
+    },
+    {
+      "code": 4703,
+      "description": "GRINDING"
+    },
+    {
+      "code": 4703,
+      "description": "TOBACCOS B: MACHINES FOR ABRADING"
+    },
+    {
+      "code": 4703,
+      "description": "BEVERAGES"
+    },
+    {
+      "code": 4703,
+      "description": "FOODS"
+    },
+    {
+      "code": 4703,
+      "description": "HIDES"
+    },
+    {
+      "code": 4703,
+      "description": "LEATHER"
+    },
+    {
+      "code": 4703,
+      "description": "STONE"
+    },
+    {
+      "code": 4703,
+      "description": "WOOD"
+    },
+    {
+      "code": 4703,
+      "description": "GLASS"
+    },
+    {
+      "code": 4703,
+      "description": "PLASTIC"
+    },
+    {
+      "code": 4703,
+      "description": "TEXTILES"
+    },
+    {
+      "code": 4703,
+      "description": "A: MACHINES FOR PROCESSING METAL"
+    },
+    {
+      "code": 4704,
+      "description": "AGRICULTURAL EQUIPMENT"
+    },
+    {
+      "code": 4708,
+      "description": "'MACHINES (FOR MANUFACTURING BOTTLES/ WASHING BOTTLES)"
+    },
+    {
+      "code": 4711,
+      "description": "MACHINE PARTS"
+    },
+    {
+      "code": 4718,
+      "description": "MOULDING DEVICES"
+    },
+    {
+      "code": 4720,
+      "description": "'MACHINERY (FOR CONSTRUCTING/ EXCAVATING/ CONVEYING)"
+    },
+    {
+      "code": 4741,
+      "description": "PARTS FOR GENERATORS"
+    },
+    {
+      "code": 4741,
+      "description": "PARTS FOR ROAD CONSTRUCTION MACHINERY"
+    },
+    {
+      "code": 4742,
+      "description": "MACHINERY (FOR OIL DRILLING/ OIL FIELD SERVICING/ DREDGING)"
+    },
+    {
+      "code": 4747,
+      "description": "MACHINERY (FOR CONSTRUCTING/ EARTH MOVING/ CONVEYING/ EXCAVATING/ MINING)"
+    },
+    {
+      "code": 4748,
+      "description": "DRILLING EQUIPMENT"
+    },
+    {
+      "code": 4750,
+      "description": "MINING EQUIPMENT"
+    },
+    {
+      "code": 4753,
+      "description": "SPRINKLER SYSTEMS"
+    },
+    {
+      "code": 4753,
+      "description": "PIPE FITTINGS"
+    },
+    {
+      "code": 4753,
+      "description": "PIPES"
+    },
+    {
+      "code": 4754,
+      "description": "PUMPS"
+    },
+    {
+      "code": 4754,
+      "description": "FILTERS"
+    },
+    {
+      "code": 4755,
+      "description": "PARTS FOR DYE FILTERS"
+    },
+    {
+      "code": 4757,
+      "description": "PLASTIC INJECTION MOULDING MACHINERY"
+    },
+    {
+      "code": 4780,
+      "description": "SHOE MACHINERY"
+    },
+    {
+      "code": 4780,
+      "description": "SEWING MACHINERY"
+    },
+    {
+      "code": 4780,
+      "description": "TEXTILE MACHINERY"
+    },
+    {
+      "code": 4789,
+      "description": "'SEWING MACHINES (INCLUDING ACCESSORIES/ SUPPLIES)"
+    },
+    {
+      "code": 4800,
+      "description": "TOOLS"
+    },
+    {
+      "code": 4803,
+      "description": "TAPS AND DIES"
+    },
+    {
+      "code": 4811,
+      "description": "MACHINE TOOLS"
+    },
+    {
+      "code": 4813,
+      "description": "CUTTING TOOLS"
+    },
+    {
+      "code": 4813,
+      "description": "ABRASIVE TOOLS"
+    },
+    {
+      "code": 4816,
+      "description": "ADJUSTABLE SPANNERS"
+    },
+    {
+      "code": 4816,
+      "description": "SHIFTING SPANNERS"
+    },
+    {
+      "code": 4816,
+      "description": "VICES"
+    },
+    {
+      "code": 4816,
+      "description": "PLIERS"
+    },
+    {
+      "code": 4816,
+      "description": "HAMMERS"
+    },
+    {
+      "code": 4816,
+      "description": "SCREWDRIVERS"
+    },
+    {
+      "code": 4816,
+      "description": "BUILDERS LEVELS"
+    },
+    {
+      "code": 4816,
+      "description": "PUNCHES"
+    },
+    {
+      "code": 4816,
+      "description": "HACKSAW BLADES"
+    },
+    {
+      "code": 4816,
+      "description": "TOOL BITS"
+    },
+    {
+      "code": 4816,
+      "description": "REAMERS"
+    },
+    {
+      "code": 4816,
+      "description": "MILLING CUTTERS"
+    },
+    {
+      "code": 4816,
+      "description": "MASONRY DRILLS"
+    },
+    {
+      "code": 4816,
+      "description": "TWIST DRILLS"
+    },
+    {
+      "code": 4819,
+      "description": "FIXED SAWS (HANDLED)"
+    },
+    {
+      "code": 4819,
+      "description": "WOODEN FILES(HANDLESS)"
+    },
+    {
+      "code": 4819,
+      "description": "GREASE GUNS"
+    },
+    {
+      "code": 4819,
+      "description": "UNIVERSAL FILLING GUIDES"
+    },
+    {
+      "code": 4902,
+      "description": "PIPE FITTINGS"
+    },
+    {
+      "code": 4902,
+      "description": "PIPES"
+    },
+    {
+      "code": 4911,
+      "description": "ROLLER BEARINGS"
+    },
+    {
+      "code": 4911,
+      "description": "BALL BEARINGS"
+    },
+    {
+      "code": 4954,
+      "description": "TOOLS"
+    },
+    {
+      "code": 4954,
+      "description": "HYDRAULIC EQUIPMENT"
+    },
+    {
+      "code": 4954,
+      "description": "PNEUMATIC EQUIPMENT"
+    },
+    {
+      "code": 4955,
+      "description": "AUTOMATIC DOOR CLOSERS"
+    },
+    {
+      "code": 4969,
+      "description": "PISTON RINGS"
+    },
+    {
+      "code": 4969,
+      "description": "PISTONS"
+    },
+    {
+      "code": 5050,
+      "description": "GRINDING WHEELS"
+    },
+    {
+      "code": 5050,
+      "description": "ABRASIVE PRODUCTS"
+    },
+    {
+      "code": 5050,
+      "description": "ABRASIVES"
+    },
+    {
+      "code": 5235,
+      "description": "'SANITARY ARTICLES (MADE OF POTTERY/ PORCELAIN)"
+    },
+    {
+      "code": 5295,
+      "description": "CERAMICS"
+    },
+    {
+      "code": 5295,
+      "description": "POTTERY"
+    },
+    {
+      "code": 5296,
+      "description": "OPTICAL GOODS"
+    },
+    {
+      "code": 5296,
+      "description": "ARTIFICIAL STONES"
+    },
+    {
+      "code": 5296,
+      "description": "GLASSWARE EXCLUDING PLASTER OBJECTS"
+    },
+    {
+      "code": 5296,
+      "description": "PORCELAIN"
+    },
+    {
+      "code": 5296,
+      "description": "CRYSTALWARE"
+    },
+    {
+      "code": 5296,
+      "description": "STONEWARE"
+    },
+    {
+      "code": 5296,
+      "description": "EARTHENWARE"
+    },
+    {
+      "code": 5296,
+      "description": "CHINAWARE"
+    },
+    {
+      "code": 5296,
+      "description": "POTTERY"
+    },
+    {
+      "code": 5296,
+      "description": "CERAMICS"
+    },
+    {
+      "code": 5297,
+      "description": "OPTICAL GOODS"
+    },
+    {
+      "code": 5297,
+      "description": "CRYSTALWARE (OF WHOLLY IRISH MANUFACTURE) EXCLUDING ARTIFICIAL STONES"
+    },
+    {
+      "code": 5297,
+      "description": "PORCELAIN"
+    },
+    {
+      "code": 5297,
+      "description": "EARTHENWARE"
+    },
+    {
+      "code": 5297,
+      "description": "CHINAWARE"
+    },
+    {
+      "code": 5297,
+      "description": "POTTERY"
+    },
+    {
+      "code": 5299,
+      "description": "OPTICAL GOODS"
+    },
+    {
+      "code": 5299,
+      "description": "GLASSWARE EXCLUDING ARTIFICIAL STONES"
+    },
+    {
+      "code": 5299,
+      "description": "PORCELAIN"
+    },
+    {
+      "code": 5299,
+      "description": "CRYSTALWARE"
+    },
+    {
+      "code": 5299,
+      "description": "STONEWARE"
+    },
+    {
+      "code": 5299,
+      "description": "EARTHENWARE"
+    },
+    {
+      "code": 5299,
+      "description": "CHINAWARE"
+    },
+    {
+      "code": 5299,
+      "description": "POTTERY"
+    },
+    {
+      "code": 5300,
+      "description": "GLASS PRODUCTS"
+    },
+    {
+      "code": 5300,
+      "description": "GLASS"
+    },
+    {
+      "code": 5351,
+      "description": "'GLASSWARE (INCLUDING GLASS LAMPSHADES/ ASSOCIATED ELECTRIC FIXTURES/ FITTINGS)"
+    },
+    {
+      "code": 5400,
+      "description": "MARBLE"
+    },
+    {
+      "code": 5406,
+      "description": "FIREPLACES (MARBLE)"
+    },
+    {
+      "code": 5500,
+      "description": "MICA PRODUCTS"
+    },
+    {
+      "code": 5500,
+      "description": "MICA"
+    },
+    {
+      "code": 5620,
+      "description": "OILS (REFINED)"
+    },
+    {
+      "code": 5700,
+      "description": "QUARTZ"
+    },
+    {
+      "code": 5710,
+      "description": "SEMI-PRECIOUS STONES - IN RAW FORM -"
+    },
+    {
+      "code": 5710,
+      "description": "QUARTZ"
+    },
+    {
+      "code": 5710,
+      "description": "SILICA"
+    },
+    {
+      "code": 5710,
+      "description": "MICA"
+    },
+    {
+      "code": 5710,
+      "description": "MALACHITE"
+    },
+    {
+      "code": 5710,
+      "description": "AMETHYST"
+    },
+    {
+      "code": 5750,
+      "description": "QUARTZ MANUFACTURES"
+    },
+    {
+      "code": 5821,
+      "description": "HANDICRAFT ENTIRELY OF ONYX"
+    },
+    {
+      "code": 5851,
+      "description": "SEMI-PRECIOUS STONES"
+    },
+    {
+      "code": 5858,
+      "description": "ORNAMENTAL ARTICLES ( MADE OF PLASTIC )"
+    },
+    {
+      "code": 5858,
+      "description": "'UNSTRUNG -IMITATION JEWELRY (MADE OF GLASS/ ARTIFICIAL STONES/ METAL/ PLASTIC/ WOOD)"
+    },
+    {
+      "code": 5858,
+      "description": "UNMOUNTED"
+    },
+    {
+      "code": 5858,
+      "description": "PLASTIC PEARLS - UNSET"
+    },
+    {
+      "code": 5858,
+      "description": "GLASS PEARLS"
+    },
+    {
+      "code": 5858,
+      "description": "GLASS STONES"
+    },
+    {
+      "code": 5858,
+      "description": "ARTIFICIAL STONES"
+    },
+    {
+      "code": 5900,
+      "description": "GRANITE SLABS"
+    },
+    {
+      "code": 5901,
+      "description": "GEOLOGICAL SAMPLES (EXCLUDING ORE)"
+    },
+    {
+      "code": 6000,
+      "description": "PHARMACEUTICALS"
+    },
+    {
+      "code": 6000,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 6001,
+      "description": "MEDICINES"
+    },
+    {
+      "code": 6001,
+      "description": "PHARMACEUTICALS"
+    },
+    {
+      "code": 6001,
+      "description": "DRUGS"
+    },
+    {
+      "code": 6001,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 6002,
+      "description": "PRINTED ADVERTIS"
+    },
+    {
+      "code": 6002,
+      "description": "PACKAGING"
+    },
+    {
+      "code": 6002,
+      "description": "ESSENTIAL OILS - ALONE OR TOGETHER WITH THEIR BOTTLES"
+    },
+    {
+      "code": 6002,
+      "description": "PERFUMES"
+    },
+    {
+      "code": 6002,
+      "description": "TOILET ARTICLES"
+    },
+    {
+      "code": 6002,
+      "description": "TOILET PREPARATIONS"
+    },
+    {
+      "code": 6002,
+      "description": "SOAPS"
+    },
+    {
+      "code": 6002,
+      "description": "COSMETICS"
+    },
+    {
+      "code": 6002,
+      "description": "MEDICINES"
+    },
+    {
+      "code": 6002,
+      "description": "PHARMACEUTICALS"
+    },
+    {
+      "code": 6002,
+      "description": "DRUGS"
+    },
+    {
+      "code": 6002,
+      "description": "VARNISHES"
+    },
+    {
+      "code": 6002,
+      "description": "PIGMENTS"
+    },
+    {
+      "code": 6002,
+      "description": "PAINTS"
+    },
+    {
+      "code": 6002,
+      "description": "INSECTICIDES"
+    },
+    {
+      "code": 6002,
+      "description": "FERTILIZERS"
+    },
+    {
+      "code": 6002,
+      "description": "DYES"
+    },
+    {
+      "code": 6002,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 6003,
+      "description": "PERFUMES -"
+    },
+    {
+      "code": 6003,
+      "description": "TOILET ARTICLES"
+    },
+    {
+      "code": 6003,
+      "description": "TOILET PREPARATIONS"
+    },
+    {
+      "code": 6003,
+      "description": "MEDICINES EXCLUDING COSMETICS"
+    },
+    {
+      "code": 6003,
+      "description": "PHARMACEUTICALS"
+    },
+    {
+      "code": 6003,
+      "description": "DRUGS"
+    },
+    {
+      "code": 6003,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 6004,
+      "description": "OTHER UNFINISHED FORMS -"
+    },
+    {
+      "code": 6004,
+      "description": "POWDER"
+    },
+    {
+      "code": 6004,
+      "description": "TUBINGS"
+    },
+    {
+      "code": 6004,
+      "description": "RODS"
+    },
+    {
+      "code": 6004,
+      "description": "SLABS"
+    },
+    {
+      "code": 6004,
+      "description": "PLASTIC - IN SHEETS"
+    },
+    {
+      "code": 6004,
+      "description": "RESINS"
+    },
+    {
+      "code": 6004,
+      "description": "GUMS"
+    },
+    {
+      "code": 6004,
+      "description": "ESSENTIAL OILS"
+    },
+    {
+      "code": 6004,
+      "description": "PERFUMES"
+    },
+    {
+      "code": 6004,
+      "description": "TOILET PREPARATIONS"
+    },
+    {
+      "code": 6004,
+      "description": "SOAPS"
+    },
+    {
+      "code": 6004,
+      "description": "COSMETICS"
+    },
+    {
+      "code": 6004,
+      "description": "MEDICINES"
+    },
+    {
+      "code": 6004,
+      "description": "PHARMACEUTICALS"
+    },
+    {
+      "code": 6004,
+      "description": "DRUGS"
+    },
+    {
+      "code": 6004,
+      "description": "VARNISHES"
+    },
+    {
+      "code": 6004,
+      "description": "PIGMENTS"
+    },
+    {
+      "code": 6004,
+      "description": "PAINTS"
+    },
+    {
+      "code": 6004,
+      "description": "INSECTICIDES"
+    },
+    {
+      "code": 6004,
+      "description": "FERTILIZERS"
+    },
+    {
+      "code": 6004,
+      "description": "DYES"
+    },
+    {
+      "code": 6005,
+      "description": "GRANULES -"
+    },
+    {
+      "code": 6005,
+      "description": "LIQUIDS"
+    },
+    {
+      "code": 6005,
+      "description": "POWDER"
+    },
+    {
+      "code": 6005,
+      "description": "TUBING"
+    },
+    {
+      "code": 6005,
+      "description": "RODS"
+    },
+    {
+      "code": 6005,
+      "description": "SLABS"
+    },
+    {
+      "code": 6005,
+      "description": "PLASTICS - IN SHEETS"
+    },
+    {
+      "code": 6005,
+      "description": "RESINS"
+    },
+    {
+      "code": 6005,
+      "description": "GUMS"
+    },
+    {
+      "code": 6005,
+      "description": "ESSENTIAL OILS"
+    },
+    {
+      "code": 6005,
+      "description": "VARNISHES"
+    },
+    {
+      "code": 6005,
+      "description": "PAINTS"
+    },
+    {
+      "code": 6005,
+      "description": "INSECTICIDES"
+    },
+    {
+      "code": 6005,
+      "description": "FERTILIZERS"
+    },
+    {
+      "code": 6005,
+      "description": "DYES"
+    },
+    {
+      "code": 6005,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 6006,
+      "description": ""
+    },
+    {
+      "code": 6006,
+      "description": "DYES INTERMEDIATE"
+    },
+    {
+      "code": 6006,
+      "description": "ANALINE COLOUR"
+    },
+    {
+      "code": 6006,
+      "description": "TOPANOL"
+    },
+    {
+      "code": 6006,
+      "description": "SAFFIL"
+    },
+    {
+      "code": 6006,
+      "description": "VYMURA"
+    },
+    {
+      "code": 6006,
+      "description": "NOVAMURA"
+    },
+    {
+      "code": 6006,
+      "description": "VICTREX"
+    },
+    {
+      "code": 6006,
+      "description": "PROPAFILM"
+    },
+    {
+      "code": 6006,
+      "description": "MELINEX"
+    },
+    {
+      "code": 6006,
+      "description": "BEXFILM"
+    },
+    {
+      "code": 6006,
+      "description": "INDERAL"
+    },
+    {
+      "code": 6006,
+      "description": "HIBITANE"
+    },
+    {
+      "code": 6006,
+      "description": "NOVADEX"
+    },
+    {
+      "code": 6006,
+      "description": "TENORIM"
+    },
+    {
+      "code": 6006,
+      "description": "ITS SUBSIDIARIES AND ASSOCIATE COMPANIES: ATROMID"
+    },
+    {
+      "code": 6006,
+      "description": "PRODUCTS OF ICI"
+    },
+    {
+      "code": 6006,
+      "description": "FOLLOWING PRODUCTS INCLUDING BRAND NAMES"
+    },
+    {
+      "code": 6007,
+      "description": "SANITARY TOWELS"
+    },
+    {
+      "code": 6007,
+      "description": "COTTON WOOL"
+    },
+    {
+      "code": 6007,
+      "description": "BANDAGES"
+    },
+    {
+      "code": 6007,
+      "description": "SURGICAL GAUZE"
+    },
+    {
+      "code": 6008,
+      "description": "VARNISHES"
+    },
+    {
+      "code": 6008,
+      "description": "PAINTS"
+    },
+    {
+      "code": 6008,
+      "description": "BANDAGES"
+    },
+    {
+      "code": 6008,
+      "description": "SURGICAL GAUZE"
+    },
+    {
+      "code": 6008,
+      "description": "MEDICINES"
+    },
+    {
+      "code": 6008,
+      "description": "PHARMACEUTICALS"
+    },
+    {
+      "code": 6008,
+      "description": "DRUGS"
+    },
+    {
+      "code": 6008,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 6009,
+      "description": "TOILET ARTICLES"
+    },
+    {
+      "code": 6009,
+      "description": "RUBBER -INCLUDING PLASTIC ARTICLES"
+    },
+    {
+      "code": 6009,
+      "description": "RESINS"
+    },
+    {
+      "code": 6009,
+      "description": "ESSENTIAL OILS"
+    },
+    {
+      "code": 6009,
+      "description": "PHARMACEUTICALS"
+    },
+    {
+      "code": 6009,
+      "description": "COSMETICS"
+    },
+    {
+      "code": 6009,
+      "description": "DRUGS"
+    },
+    {
+      "code": 6009,
+      "description": "CHEMICAL PRODUCTS"
+    },
+    {
+      "code": 6009,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 6010,
+      "description": "CHEMICAL REAGENTS"
+    },
+    {
+      "code": 6030,
+      "description": "POLYPROPYLENE GRANULES"
+    },
+    {
+      "code": 6030,
+      "description": "POLYPROPYLENE FILM (METALISED)"
+    },
+    {
+      "code": 6050,
+      "description": "TOILET WATER"
+    },
+    {
+      "code": 6050,
+      "description": "SOAP"
+    },
+    {
+      "code": 6050,
+      "description": "TOILET PREPARATIONS"
+    },
+    {
+      "code": 6050,
+      "description": "PERFUMES"
+    },
+    {
+      "code": 6050,
+      "description": "ESSENTIAL OILS"
+    },
+    {
+      "code": 6098,
+      "description": "VACCINES, PHARAMECEUTICALS"
+    },
+    {
+      "code": 6099,
+      "description": "VACCINES"
+    },
+    {
+      "code": 6100,
+      "description": "BIOLOGICALS"
+    },
+    {
+      "code": 6103,
+      "description": "ANTIBIOTICS"
+    },
+    {
+      "code": 6103,
+      "description": "VITAMINS"
+    },
+    {
+      "code": 6107,
+      "description": "BLOODPLASMA"
+    },
+    {
+      "code": 6107,
+      "description": "HAEMODERIVATIVES"
+    },
+    {
+      "code": 6108,
+      "description": "CORD BLOOD"
+    },
+    {
+      "code": 6109,
+      "description": "HUMAN BLOOD"
+    },
+    {
+      "code": 6110,
+      "description": "HUMAN PLASMA"
+    },
+    {
+      "code": 6110,
+      "description": "PLASTIC SURGICAL EQUIPMENT"
+    },
+    {
+      "code": 6112,
+      "description": "SPERM"
+    },
+    {
+      "code": 6200,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 6202,
+      "description": "MOSQUITO COILS"
+    },
+    {
+      "code": 6208,
+      "description": "XANTHOPHYLL CONCENTRATE"
+    },
+    {
+      "code": 6211,
+      "description": "DATURA EXTRACT"
+    },
+    {
+      "code": 6212,
+      "description": "DRY COCHINEALS"
+    },
+    {
+      "code": 6223,
+      "description": "DRY ICE"
+    },
+    {
+      "code": 6224,
+      "description": "TESTING EQUIPMENT (MADE OF GLASS)"
+    },
+    {
+      "code": 6224,
+      "description": "INDUSTRIAL CHEMICALS"
+    },
+    {
+      "code": 6226,
+      "description": "PRINTING INK"
+    },
+    {
+      "code": 6227,
+      "description": "PYRETHRUM EXTRACT"
+    },
+    {
+      "code": 6234,
+      "description": "ETHAMBUTOL POWDER"
+    },
+    {
+      "code": 6240,
+      "description": "INSECTICIDE"
+    },
+    {
+      "code": 6251,
+      "description": "VETERINARY MEDICINAL DIETARY ADDITIVE"
+    },
+    {
+      "code": 6271,
+      "description": "QUININE (ALKALOID)"
+    },
+    {
+      "code": 6425,
+      "description": "GINSENG ROOT"
+    },
+    {
+      "code": 6435,
+      "description": "OPIUM"
+    },
+    {
+      "code": 6495,
+      "description": "AIR FRESHENERS (IN AEROSOL SPRAY CANS/EXCLUDING PERFUMES)"
+    },
+    {
+      "code": 6495,
+      "description": "INSECTICIDES"
+    },
+    {
+      "code": 6495,
+      "description": "PHARMACEUTICALS"
+    },
+    {
+      "code": 6495,
+      "description": "MEDICINES"
+    },
+    {
+      "code": 6495,
+      "description": "DRUGS"
+    },
+    {
+      "code": 6500,
+      "description": "PHARMACEUTICALS"
+    },
+    {
+      "code": 6501,
+      "description": "PHARMACEUTICALS"
+    },
+    {
+      "code": 6501,
+      "description": "MEDICINES"
+    },
+    {
+      "code": 6502,
+      "description": "VETERINARY PHARMACEUTICALS"
+    },
+    {
+      "code": 6505,
+      "description": "EMPTY GELATINE CAPSULES FOR MEDICINES"
+    },
+    {
+      "code": 6511,
+      "description": "CADMIUM"
+    },
+    {
+      "code": 6511,
+      "description": "BISMUTH"
+    },
+    {
+      "code": 6600,
+      "description": "TOILET PREPARATIONS"
+    },
+    {
+      "code": 6600,
+      "description": "SOAPS"
+    },
+    {
+      "code": 6600,
+      "description": "COSMETICS"
+    },
+    {
+      "code": 6601,
+      "description": "PERFUMES"
+    },
+    {
+      "code": 6601,
+      "description": "TOILET ARTICLES"
+    },
+    {
+      "code": 6601,
+      "description": "TOILET PREPARATIONS"
+    },
+    {
+      "code": 6601,
+      "description": "COSMETICS"
+    },
+    {
+      "code": 6605,
+      "description": "ADVERTISING SETS -"
+    },
+    {
+      "code": 6605,
+      "description": "PRINTED ADVERTISING MATERIAL"
+    },
+    {
+      "code": 6605,
+      "description": "PACKAGING"
+    },
+    {
+      "code": 6605,
+      "description": "COSMETICS - ALONE OR TOGETHER WITH THEIR BOTTLES"
+    },
+    {
+      "code": 6605,
+      "description": "PERFUMES"
+    },
+    {
+      "code": 6605,
+      "description": "TOILET WATER"
+    },
+    {
+      "code": 6605,
+      "description": "TOILET ARTICLES"
+    },
+    {
+      "code": 6630,
+      "description": "PERFUMES"
+    },
+    {
+      "code": 6631,
+      "description": "TOILET WATER"
+    },
+    {
+      "code": 6631,
+      "description": "PERFUME"
+    },
+    {
+      "code": 6750,
+      "description": "VARNISHES"
+    },
+    {
+      "code": 6750,
+      "description": "PIGMENTS"
+    },
+    {
+      "code": 6750,
+      "description": "PAINTS"
+    },
+    {
+      "code": 6751,
+      "description": "INK PADS"
+    },
+    {
+      "code": 6751,
+      "description": "RUBBER STAMPS"
+    },
+    {
+      "code": 6751,
+      "description": "PRINTING LACQUERS"
+    },
+    {
+      "code": 6751,
+      "description": "PRINTING INK"
+    },
+    {
+      "code": 6801,
+      "description": "FIBREGLASS REINFORCING MATERIAL"
+    },
+    {
+      "code": 6801,
+      "description": "FIBREGLASS"
+    },
+    {
+      "code": 6805,
+      "description": "'PLASTIC MANUFACTURES (IN SHEETS/ SLABS/ RODS/ TUBES/ OTHER UNFINISHED FORMS)"
+    },
+    {
+      "code": 6805,
+      "description": "ARTIFICIAL RESINS"
+    },
+    {
+      "code": 6805,
+      "description": "ARTIFICIAL GUMS"
+    },
+    {
+      "code": 6806,
+      "description": "NATURAL RESINS"
+    },
+    {
+      "code": 6810,
+      "description": "PLASTIC ARTICLES"
+    },
+    {
+      "code": 6812,
+      "description": "INSULATING TUBINGS"
+    },
+    {
+      "code": 6817,
+      "description": "PLASTIC DOILIES"
+    },
+    {
+      "code": 6824,
+      "description": "TOYS"
+    },
+    {
+      "code": 6824,
+      "description": "DECORATIVE WARE"
+    },
+    {
+      "code": 6824,
+      "description": "TABLEWARE"
+    },
+    {
+      "code": 6824,
+      "description": "PLASTIC KITCHENWARE"
+    },
+    {
+      "code": 6827,
+      "description": "PLASTIC ARTICLES (FOR HOUSEHOLD USE)"
+    },
+    {
+      "code": 6847,
+      "description": "ROLLS (FOR WRAPPING)"
+    },
+    {
+      "code": 6847,
+      "description": "POLYETHYLENE BAGS"
+    },
+    {
+      "code": 6847,
+      "description": "CELLOPHANE"
+    },
+    {
+      "code": 6855,
+      "description": "PLASTIC CONTAINERS"
+    },
+    {
+      "code": 6857,
+      "description": "PLASTIC ARTICLES (USED IN ANIMAL HUSBANDRY)"
+    },
+    {
+      "code": 6900,
+      "description": "OTHER CLEANING MATERIALS"
+    },
+    {
+      "code": 6900,
+      "description": "SOAP POWDER"
+    },
+    {
+      "code": 6900,
+      "description": "SOAP FLAKES"
+    },
+    {
+      "code": 6900,
+      "description": "SOAPS"
+    },
+    {
+      "code": 6900,
+      "description": "DETERGENTS"
+    },
+    {
+      "code": 6901,
+      "description": "OTHER MATERIALS -"
+    },
+    {
+      "code": 6901,
+      "description": "GLASS"
+    },
+    {
+      "code": 6901,
+      "description": "METAL"
+    },
+    {
+      "code": 6901,
+      "description": "WOOD"
+    },
+    {
+      "code": 6901,
+      "description": "PRESERVING LEATHER"
+    },
+    {
+      "code": 6901,
+      "description": "PREPARATIONS - USED FOR POLISHING"
+    },
+    {
+      "code": 6901,
+      "description": "POWDERS"
+    },
+    {
+      "code": 6901,
+      "description": "PASTES"
+    },
+    {
+      "code": 6901,
+      "description": "POLISHES"
+    },
+    {
+      "code": 6902,
+      "description": "POLISHING PRODUCTS"
+    },
+    {
+      "code": 6902,
+      "description": "CLEANSING"
+    },
+    {
+      "code": 7001,
+      "description": "'PAPER (IN SHEETS/ ROLLS/EXCLUDING PRINTED MATTER/ PHOTOGRAPHIC PAPER)"
+    },
+    {
+      "code": 7003,
+      "description": "PHOTOGRAPHIC PAPER - CARDBOARD BOXES (EMPTY)"
+    },
+    {
+      "code": 7003,
+      "description": "'ROLLS/EXCLUDING PRINTED MATTER"
+    },
+    {
+      "code": 7003,
+      "description": "CARDBOARD - IN SHEETS"
+    },
+    {
+      "code": 7003,
+      "description": "PAPER"
+    },
+    {
+      "code": 7011,
+      "description": "SENSITIZED PAPER -EXCLUDING NEWSPAPERS"
+    },
+    {
+      "code": 7011,
+      "description": "PAPER - INCLUDING PHOTOGRAPHIC"
+    },
+    {
+      "code": 7011,
+      "description": "PRINTED MATTER"
+    },
+    {
+      "code": 7021,
+      "description": "PAPER PACKAGING MATERIAL"
+    },
+    {
+      "code": 7025,
+      "description": "PACKAGING MATERIAL"
+    },
+    {
+      "code": 7025,
+      "description": "TIPS"
+    },
+    {
+      "code": 7025,
+      "description": "FILTERS"
+    },
+    {
+      "code": 7025,
+      "description": "CIGARETTE PAPERS"
+    },
+    {
+      "code": 7026,
+      "description": "SECURITY PAPER"
+    },
+    {
+      "code": 7031,
+      "description": "SURFACE COATED PAPER (IN ROLLS/ SHEETS)"
+    },
+    {
+      "code": 7032,
+      "description": "CABLE INSULATION PAPER TAPE"
+    },
+    {
+      "code": 7039,
+      "description": "ADHESIVE TAPE DISPENSERS"
+    },
+    {
+      "code": 7039,
+      "description": "ADHESIVE TAPE"
+    },
+    {
+      "code": 7046,
+      "description": "PHOTOGRAPHIC SENSITIZED PAPER"
+    },
+    {
+      "code": 7067,
+      "description": "'LABELS (MADE OF PAPER/ METAL/ PLASTIC)"
+    },
+    {
+      "code": 7067,
+      "description": "TICKET ROLLS"
+    },
+    {
+      "code": 7067,
+      "description": "TICKETS"
+    },
+    {
+      "code": 7067,
+      "description": "CHECKS"
+    },
+    {
+      "code": 7067,
+      "description": "CARDS"
+    },
+    {
+      "code": 7090,
+      "description": "STATIONERY"
+    },
+    {
+      "code": 7100,
+      "description": "PRINTED MATTER"
+    },
+    {
+      "code": 7101,
+      "description": "PRESS PHOTOGRAPHS"
+    },
+    {
+      "code": 7101,
+      "description": "UNCANCELLED REVENUE STAMPS"
+    },
+    {
+      "code": 7101,
+      "description": "SHARE COUPONS"
+    },
+    {
+      "code": 7101,
+      "description": "SHARES"
+    },
+    {
+      "code": 7101,
+      "description": "SECURITIES"
+    },
+    {
+      "code": 7101,
+      "description": "LEGAL BANKNOTES"
+    },
+    {
+      "code": 7101,
+      "description": "PRINTED MATTER EXCLUDING POSTAGE STAMPS"
+    },
+    {
+      "code": 7101,
+      "description": "BOOKS"
+    },
+    {
+      "code": 7101,
+      "description": "PERIODICALS"
+    },
+    {
+      "code": 7101,
+      "description": "MAGAZINES"
+    },
+    {
+      "code": 7101,
+      "description": "NEWSPAPERS"
+    },
+    {
+      "code": 7102,
+      "description": "UNCANCELLED REVENUE STAMPS"
+    },
+    {
+      "code": 7102,
+      "description": "SHARE COUPONS"
+    },
+    {
+      "code": 7102,
+      "description": "SHARES"
+    },
+    {
+      "code": 7102,
+      "description": "SECURITIES"
+    },
+    {
+      "code": 7102,
+      "description": "LEGAL BANKNOTES"
+    },
+    {
+      "code": 7102,
+      "description": "PRINTED MATTER EXCLUDING POSTAGE STAMPS"
+    },
+    {
+      "code": 7102,
+      "description": "PERIODICALS"
+    },
+    {
+      "code": 7102,
+      "description": "MAGAZINES"
+    },
+    {
+      "code": 7102,
+      "description": "NEWSPAPERS"
+    },
+    {
+      "code": 7103,
+      "description": "CATALOGUES"
+    },
+    {
+      "code": 7103,
+      "description": "BOOKLETS AND PAMPHLETS"
+    },
+    {
+      "code": 7103,
+      "description": "BLUE AND WHITE PRINTS"
+    },
+    {
+      "code": 7103,
+      "description": "ANNUAL REPORTS"
+    },
+    {
+      "code": 7103,
+      "description": "PHONOGRAPH RECORD COVERS"
+    },
+    {
+      "code": 7103,
+      "description": "REPRODUCTIONS"
+    },
+    {
+      "code": 7103,
+      "description": "PRINTERS"
+    },
+    {
+      "code": 7103,
+      "description": "PRINTED MATTER CONSISTING OF ADVERTISING POSTCARDS"
+    },
+    {
+      "code": 7103,
+      "description": "GREETING CARDS"
+    },
+    {
+      "code": 7103,
+      "description": "POSTCARDS"
+    },
+    {
+      "code": 7103,
+      "description": "BOOKS"
+    },
+    {
+      "code": 7104,
+      "description": "PERIODICALS - PUBLISHED ONCE WEEKLY OR AT LONGER INTERVALS -"
+    },
+    {
+      "code": 7104,
+      "description": "MAGAZINES"
+    },
+    {
+      "code": 7105,
+      "description": "PAMPHLETS"
+    },
+    {
+      "code": 7105,
+      "description": "CATALOGUES"
+    },
+    {
+      "code": 7105,
+      "description": "BOOKS"
+    },
+    {
+      "code": 7106,
+      "description": "PERIODICALS - PUBLISHED ONCE WEEKLY OR AT LONGER INTERVALS - BOOKS EXCLUDING PHOTOGRAPHS"
+    },
+    {
+      "code": 7106,
+      "description": "MAGAZINES"
+    },
+    {
+      "code": 7107,
+      "description": "NEWSPAPERS (DAILY)"
+    },
+    {
+      "code": 7108,
+      "description": "ADMINISTRATIVE REPORTS"
+    },
+    {
+      "code": 7109,
+      "description": "NEWSPAPERS"
+    },
+    {
+      "code": 7110,
+      "description": "PERIODICALS"
+    },
+    {
+      "code": 7110,
+      "description": "MAGAZINES"
+    },
+    {
+      "code": 7110,
+      "description": "NEWSPAPERS"
+    },
+    {
+      "code": 7111,
+      "description": "FOOTBALL POOL COUPONS"
+    },
+    {
+      "code": 7112,
+      "description": "BOOKS"
+    },
+    {
+      "code": 7112,
+      "description": "PERIODICALS"
+    },
+    {
+      "code": 7112,
+      "description": "MAGAZINES"
+    },
+    {
+      "code": 7112,
+      "description": "NEWSPAPERS"
+    },
+    {
+      "code": 7113,
+      "description": "NEWSPAPERS - PUBLISHED ONCEWEEKLY OR AT LONGER INTERVALS -"
+    },
+    {
+      "code": 7113,
+      "description": "PERIODICALS"
+    },
+    {
+      "code": 7113,
+      "description": "MAGAZINES"
+    },
+    {
+      "code": 7115,
+      "description": "CATALOGUES"
+    },
+    {
+      "code": 7115,
+      "description": "MAGAZINES"
+    },
+    {
+      "code": 7115,
+      "description": "BOOKS"
+    },
+    {
+      "code": 7117,
+      "description": "PERIODICALS EXCLUDING NEWSPAPERS"
+    },
+    {
+      "code": 7117,
+      "description": "MAGAZINES"
+    },
+    {
+      "code": 7118,
+      "description": "CATALOGUES. BRAILLE TYPE EQUIPMENT AND TALKING BOOKS FOR THE BLIND."
+    },
+    {
+      "code": 7118,
+      "description": "BOOKS"
+    },
+    {
+      "code": 7118,
+      "description": "PERIODICALS"
+    },
+    {
+      "code": 7118,
+      "description": "MAGAZINES"
+    },
+    {
+      "code": 7118,
+      "description": "NEWSPAPERS"
+    },
+    {
+      "code": 7119,
+      "description": "BOOKS"
+    },
+    {
+      "code": 7120,
+      "description": "NEWSPAPERS AND MAGAZINES"
+    },
+    {
+      "code": 7122,
+      "description": "PRINTED MATTER (EXCLUDING NEWSPAPERS)"
+    },
+    {
+      "code": 7123,
+      "description": "RELIGIOUS BOOKS"
+    },
+    {
+      "code": 7126,
+      "description": "BOOK"
+    },
+    {
+      "code": 7126,
+      "description": "WHITE PRINTS"
+    },
+    {
+      "code": 7126,
+      "description": "BLUEPRINTS"
+    },
+    {
+      "code": 7126,
+      "description": "ANNUAL REPORTS"
+    },
+    {
+      "code": 7126,
+      "description": "PHONOGRAPH RECORD COVERS"
+    },
+    {
+      "code": 7126,
+      "description": "PICTURE REPRODUCTIONS"
+    },
+    {
+      "code": 7126,
+      "description": "TABLE DECORATIONS (MADE OF PAPER)"
+    },
+    {
+      "code": 7126,
+      "description": "ENVELOPES"
+    },
+    {
+      "code": 7126,
+      "description": "CREDIT CARD BLANKS"
+    },
+    {
+      "code": 7126,
+      "description": "ADVERTISING POSTERS"
+    },
+    {
+      "code": 7126,
+      "description": "PERIODICALS - PUBLISHED ONCE WEEKLY OR AT LONGER INTERVALS -"
+    },
+    {
+      "code": 7126,
+      "description": "MAGAZINES"
+    },
+    {
+      "code": 7127,
+      "description": "PAMP"
+    },
+    {
+      "code": 7127,
+      "description": "BOOKLETS"
+    },
+    {
+      "code": 7127,
+      "description": "WHITE PRINTS"
+    },
+    {
+      "code": 7127,
+      "description": "BLUEPRINTS"
+    },
+    {
+      "code": 7127,
+      "description": "ANNUAL REPORTS"
+    },
+    {
+      "code": 7127,
+      "description": "PHONOGRAPH RECORD COVERS"
+    },
+    {
+      "code": 7127,
+      "description": "PICTURE REPRODUCTIONS"
+    },
+    {
+      "code": 7127,
+      "description": "ADVERTISING POSTERS"
+    },
+    {
+      "code": 7127,
+      "description": "TABLE DECORATIONS (MADE OF PAPER)"
+    },
+    {
+      "code": 7127,
+      "description": "PAPER BAGS"
+    },
+    {
+      "code": 7127,
+      "description": "PAPER ENVELOPES"
+    },
+    {
+      "code": 7127,
+      "description": "CREDIT CARD BLANKS"
+    },
+    {
+      "code": 7127,
+      "description": "CALENDARS"
+    },
+    {
+      "code": 7127,
+      "description": "GREETING CARDS"
+    },
+    {
+      "code": 7127,
+      "description": "POSTCARDS"
+    },
+    {
+      "code": 7127,
+      "description": "BOOKS"
+    },
+    {
+      "code": 7128,
+      "description": "PHOTOGR"
+    },
+    {
+      "code": 7128,
+      "description": "PROSPECTUS EXCLUDING NEWSPAPERS"
+    },
+    {
+      "code": 7128,
+      "description": "MAPS"
+    },
+    {
+      "code": 7128,
+      "description": "INSTRUCTION MANUALS"
+    },
+    {
+      "code": 7128,
+      "description": "CATALOGUES"
+    },
+    {
+      "code": 7128,
+      "description": "PAMPHLETS"
+    },
+    {
+      "code": 7128,
+      "description": "BOOKLETS"
+    },
+    {
+      "code": 7128,
+      "description": "WHITE PRINTS"
+    },
+    {
+      "code": 7128,
+      "description": "BLUEPRINTS"
+    },
+    {
+      "code": 7128,
+      "description": "ANNUAL REPORTS"
+    },
+    {
+      "code": 7128,
+      "description": "CALENDARS"
+    },
+    {
+      "code": 7128,
+      "description": "GREETING CARDS"
+    },
+    {
+      "code": 7128,
+      "description": "POSTCARDS"
+    },
+    {
+      "code": 7128,
+      "description": "BOOKS"
+    },
+    {
+      "code": 7128,
+      "description": "PERIODICALS - PUBLISHED WEEKLY OR AT LONGER INTERVALS -"
+    },
+    {
+      "code": 7128,
+      "description": "MAGAZINES"
+    },
+    {
+      "code": 7129,
+      "description": "PHOTOGRAPHS"
+    },
+    {
+      "code": 7129,
+      "description": "PRINTED MATTER"
+    },
+    {
+      "code": 7129,
+      "description": "BOOKS"
+    },
+    {
+      "code": 7129,
+      "description": "PERIODICALS"
+    },
+    {
+      "code": 7129,
+      "description": "MAGAZINES"
+    },
+    {
+      "code": 7129,
+      "description": "NEWSPAPERS"
+    },
+    {
+      "code": 7159,
+      "description": "VISUAL TEACHING AIDS - FOR USE IN EDUCATIONAL INSTITUTIONS -"
+    },
+    {
+      "code": 7159,
+      "description": "INSTRUMENTS"
+    },
+    {
+      "code": 7159,
+      "description": "TEXTBOOKS"
+    },
+    {
+      "code": 7163,
+      "description": "RECORD COVERS"
+    },
+    {
+      "code": 7178,
+      "description": "PROMOTIONAL MATERIAL"
+    },
+    {
+      "code": 7178,
+      "description": "OFFICE STATIONERY"
+    },
+    {
+      "code": 7178,
+      "description": "CARDBOARD CARTONS (UNASSEMBLED)"
+    },
+    {
+      "code": 7178,
+      "description": "LABELS"
+    },
+    {
+      "code": 7179,
+      "description": "SELF-ADHESIVE LABELS"
+    },
+    {
+      "code": 7181,
+      "description": "CARDBOARD CARTONS (UNASSEMBLED)"
+    },
+    {
+      "code": 7181,
+      "description": "DISPENSERS"
+    },
+    {
+      "code": 7181,
+      "description": "ADHESIVE TAPE"
+    },
+    {
+      "code": 7181,
+      "description": "LABELS"
+    },
+    {
+      "code": 7381,
+      "description": "WILLOW ARTICLES (WOVEN)"
+    },
+    {
+      "code": 7382,
+      "description": "BASKETWARE"
+    },
+    {
+      "code": 7400,
+      "description": "RUBBER PRODUCTS"
+    },
+    {
+      "code": 7400,
+      "description": "RUBBER"
+    },
+    {
+      "code": 7415,
+      "description": "UNFINISHED FORMS - MADE OF RUBBER -"
+    },
+    {
+      "code": 7415,
+      "description": "SLABS"
+    },
+    {
+      "code": 7415,
+      "description": "SHEETS"
+    },
+    {
+      "code": 7415,
+      "description": "ROLLS"
+    },
+    {
+      "code": 7420,
+      "description": "RUBBER GOODS"
+    },
+    {
+      "code": 7425,
+      "description": "RUBBER BELTING"
+    },
+    {
+      "code": 7425,
+      "description": "RUBBER BELTS"
+    },
+    {
+      "code": 7437,
+      "description": "RUBBER BOOTS"
+    },
+    {
+      "code": 7448,
+      "description": "RUBBER SEALS"
+    },
+    {
+      "code": 7481,
+      "description": "RUBBER TUBES"
+    },
+    {
+      "code": 7481,
+      "description": "RUBBER TYRES"
+    },
+    {
+      "code": 7483,
+      "description": "SEALING RINGS (MADE OF ARTIFICIAL RUBBER)"
+    },
+    {
+      "code": 7500,
+      "description": "GRASS PRODUCTS"
+    },
+    {
+      "code": 7500,
+      "description": "STRAW PRODUCTS"
+    },
+    {
+      "code": 7600,
+      "description": "WOOD PRODUCTS"
+    },
+    {
+      "code": 7600,
+      "description": "WOOD"
+    },
+    {
+      "code": 7601,
+      "description": "VENEERWOOD"
+    },
+    {
+      "code": 7601,
+      "description": "PLYWOOD"
+    },
+    {
+      "code": 7608,
+      "description": "WOOD PARQUET FLOORING"
+    },
+    {
+      "code": 7620,
+      "description": "WOOD MANUFACTURES"
+    },
+    {
+      "code": 7625,
+      "description": "CURIOS MADE OF WOOD -"
+    },
+    {
+      "code": 7625,
+      "description": "ARTIFACTS"
+    },
+    {
+      "code": 7625,
+      "description": "FURNITURE COMPONENTS"
+    },
+    {
+      "code": 7625,
+      "description": "FURNITURE"
+    },
+    {
+      "code": 7627,
+      "description": "WOODEN FURNITURE (EXCLUDING OBJECTS OF ART)"
+    },
+    {
+      "code": 7628,
+      "description": "FURNITURE (EXCLUDING OBJECTS OF ART)"
+    },
+    {
+      "code": 7629,
+      "description": "WOODEN FURNITURE (NOT ASSEMBLED/EXCLUDING OBJECTS OF ART)"
+    },
+    {
+      "code": 7630,
+      "description": "WOODEN CABINETS (FOR RADIOS/ TELEVISIONS/ PHONOGRAPHS/ SEWING MACHINES)"
+    },
+    {
+      "code": 7631,
+      "description": "GAHARU WOOD"
+    },
+    {
+      "code": 8001,
+      "description": "CLOCKS"
+    },
+    {
+      "code": 8001,
+      "description": "PRECISION INSTRUMENTS EXCLUDING WATCHES"
+    },
+    {
+      "code": 8001,
+      "description": "SCIENTIFIC INSTRUMENTS"
+    },
+    {
+      "code": 8002,
+      "description": "CLOCKS"
+    },
+    {
+      "code": 8002,
+      "description": "WATCHES"
+    },
+    {
+      "code": 8002,
+      "description": "SURGICAL INSTRUMENTS"
+    },
+    {
+      "code": 8002,
+      "description": "DENTAL INSTRUMENTS"
+    },
+    {
+      "code": 8002,
+      "description": "PRECISION INSTRUMENTS"
+    },
+    {
+      "code": 8002,
+      "description": "SCIENTIFIC INSTRUMENTS"
+    },
+    {
+      "code": 8003,
+      "description": "CLOCKS EXCLUDI"
+    },
+    {
+      "code": 8003,
+      "description": "WATCHES"
+    },
+    {
+      "code": 8003,
+      "description": "PROJECTION EQUIPMENT"
+    },
+    {
+      "code": 8003,
+      "description": "PHOTOGRAPHIC EQUIPMENT (INCLUDING SUPPLIES)"
+    },
+    {
+      "code": 8003,
+      "description": "LENSES"
+    },
+    {
+      "code": 8003,
+      "description": "SUNGLASSES"
+    },
+    {
+      "code": 8003,
+      "description": "SPECTACLES"
+    },
+    {
+      "code": 8003,
+      "description": "BINOCULARS"
+    },
+    {
+      "code": 8003,
+      "description": "TELESCOPES"
+    },
+    {
+      "code": 8003,
+      "description": "MICROSCOPES"
+    },
+    {
+      "code": 8003,
+      "description": "ANALYSING SCALES"
+    },
+    {
+      "code": 8003,
+      "description": "DRAWING"
+    },
+    {
+      "code": 8003,
+      "description": "TESTING"
+    },
+    {
+      "code": 8003,
+      "description": "CALIBRATING"
+    },
+    {
+      "code": 8003,
+      "description": "MEASURING"
+    },
+    {
+      "code": 8003,
+      "description": "SURGERY"
+    },
+    {
+      "code": 8003,
+      "description": "INSTRUMENTS FOR DENTISTRY"
+    },
+    {
+      "code": 8100,
+      "description": "MEDICAL EQUIPMENT"
+    },
+    {
+      "code": 8100,
+      "description": "SURGICAL EQUIPMENT"
+    },
+    {
+      "code": 8100,
+      "description": "DENTAL EQUIPMENT"
+    },
+    {
+      "code": 8103,
+      "description": "SURGICAL BEDS"
+    },
+    {
+      "code": 8105,
+      "description": "SUPPLIES -"
+    },
+    {
+      "code": 8105,
+      "description": "MEDICAL INSTRUMENTS - INCLUDING APPARATUS"
+    },
+    {
+      "code": 8105,
+      "description": "SURGICAL INSTRUMENTS"
+    },
+    {
+      "code": 8105,
+      "description": "DENTAL INSTRUMENTS"
+    },
+    {
+      "code": 8112,
+      "description": "INJECTION INSTRUMENTS"
+    },
+    {
+      "code": 8114,
+      "description": "HYPODERMIC NEEDLES"
+    },
+    {
+      "code": 8167,
+      "description": "RUBBER ARTICLES - FOR HOSPITAL USE -"
+    },
+    {
+      "code": 8167,
+      "description": "PLASTIC ARTICLES"
+    },
+    {
+      "code": 8181,
+      "description": "MANUFACTURED FELDSPAR"
+    },
+    {
+      "code": 8181,
+      "description": "RAW MATERIALS (FOR ARTIFICIAL TEETH)"
+    },
+    {
+      "code": 8181,
+      "description": "ARTIFICIAL TEETH"
+    },
+    {
+      "code": 8183,
+      "description": "PROSTHESES"
+    },
+    {
+      "code": 8200,
+      "description": "CASSETTE TAPES"
+    },
+    {
+      "code": 8200,
+      "description": "PHONOGRAPH RECORDS"
+    },
+    {
+      "code": 8200,
+      "description": "PHONOGRAPHS"
+    },
+    {
+      "code": 8200,
+      "description": "MUSICAL INSTRUMENTS"
+    },
+    {
+      "code": 8206,
+      "description": "CLOCKS"
+    },
+    {
+      "code": 8206,
+      "description": "RECORDING TAPE EXCLUDING ANY COMBINATION WITH WATCHES"
+    },
+    {
+      "code": 8206,
+      "description": "PHONOGRAPH RECORDS"
+    },
+    {
+      "code": 8206,
+      "description": "PHONOGRAPHS"
+    },
+    {
+      "code": 8206,
+      "description": "MUSIC BOXES"
+    },
+    {
+      "code": 8206,
+      "description": "MUSICAL INSTRUMENTS"
+    },
+    {
+      "code": 8211,
+      "description": "SHEET MUSIC - INCLUDING ACCESSORIES -"
+    },
+    {
+      "code": 8211,
+      "description": "TAPE RECORDINGS"
+    },
+    {
+      "code": 8211,
+      "description": "PHONOGRAPH RECORDS"
+    },
+    {
+      "code": 8211,
+      "description": "MUSICAL INSTRUMENTS"
+    },
+    {
+      "code": 8277,
+      "description": "RECORDING WIRE"
+    },
+    {
+      "code": 8277,
+      "description": "RECORDING TAPE"
+    },
+    {
+      "code": 8277,
+      "description": "RECORDS"
+    },
+    {
+      "code": 8280,
+      "description": "RECORDING TAPE"
+    },
+    {
+      "code": 8280,
+      "description": "PHONOGRAPH RECORDS"
+    },
+    {
+      "code": 8281,
+      "description": "FILMS"
+    },
+    {
+      "code": 8281,
+      "description": "PHONOGRAPH RECORDS"
+    },
+    {
+      "code": 8281,
+      "description": "CASSETTES"
+    },
+    {
+      "code": 8281,
+      "description": "RECORDING TAPES"
+    },
+    {
+      "code": 8282,
+      "description": "PHONOGRAPH RECORDS"
+    },
+    {
+      "code": 8284,
+      "description": "VIDEO CASSETTES"
+    },
+    {
+      "code": 8285,
+      "description": "CASSETTE TAPES"
+    },
+    {
+      "code": 8303,
+      "description": "CONTACT LENSES"
+    },
+    {
+      "code": 8340,
+      "description": "PRISMS"
+    },
+    {
+      "code": 8340,
+      "description": "LENSES"
+    },
+    {
+      "code": 8370,
+      "description": "SUNGLASSES"
+    },
+    {
+      "code": 8370,
+      "description": "FRAMES"
+    },
+    {
+      "code": 8370,
+      "description": "LENSES"
+    },
+    {
+      "code": 8371,
+      "description": "SPECTACLE FRAMES"
+    },
+    {
+      "code": 8372,
+      "description": "SUNGLASSES - INCLUDING ACCESSORIES -"
+    },
+    {
+      "code": 8372,
+      "description": "SPECTACLES"
+    },
+    {
+      "code": 8380,
+      "description": "GOGGLES"
+    },
+    {
+      "code": 8380,
+      "description": "SUNGLASSES"
+    },
+    {
+      "code": 8382,
+      "description": "GOGGLES - INCLUDING SPECTACLE CASES WHEN SHIPPED WITH THE MAIN ARTICLE -"
+    },
+    {
+      "code": 8382,
+      "description": "SUNGLASSES"
+    },
+    {
+      "code": 8391,
+      "description": "35MM MOTION PICTURE FILM - EXPOSED -"
+    },
+    {
+      "code": 8391,
+      "description": "ACCESSORIES -EXCLUDING NEWSREEL"
+    },
+    {
+      "code": 8391,
+      "description": "PROJECTION EQUIPMENT - INCLUDING SUPPLIES"
+    },
+    {
+      "code": 8391,
+      "description": "PHOTOGRAPHIC EQUIPMENT"
+    },
+    {
+      "code": 8391,
+      "description": "OPTICAL GOODS"
+    },
+    {
+      "code": 8392,
+      "description": "PHOTOGRAPHS"
+    },
+    {
+      "code": 8392,
+      "description": "'MOTION PICTURE FILM (35MM/ LARGER DIMENSIONS) - EXPOSED -"
+    },
+    {
+      "code": 8392,
+      "description": "PROJECTION EQUIPMENT - INCLUDING SUPPLIES -EXCLUDING NEWSREEL FILM"
+    },
+    {
+      "code": 8392,
+      "description": "PHOTOGRAPHIC EQUIPMENT"
+    },
+    {
+      "code": 8392,
+      "description": "OPTICAL GOODS"
+    },
+    {
+      "code": 8393,
+      "description": "MOTION PICTURE FILM (35MM/ LARGER DIMENSIONS) - EXPOSED -"
+    },
+    {
+      "code": 8393,
+      "description": "PROJECTION EQUIPMENT - INCLUDING SUPPLIES - FILMS EXCLUDING NEWSREEL FILM"
+    },
+    {
+      "code": 8393,
+      "description": "PHOTOGRAPHIC EQUIPMENT"
+    },
+    {
+      "code": 8393,
+      "description": "OPTICAL GOODS"
+    },
+    {
+      "code": 8395,
+      "description": "35MM MOTION PICTURE FILM - EXPOSED -"
+    },
+    {
+      "code": 8395,
+      "description": "PROJECTION EQUIPMENT (INCLUDING SUPPLIES/ ACCESSORIES) EXCLUDING NEWSREEL"
+    },
+    {
+      "code": 8396,
+      "description": "35MM MOTION PICTURE FILM - EXPOSED -"
+    },
+    {
+      "code": 8396,
+      "description": "DEVELOPING FLUIDS EXCLUDING NEWSREEL"
+    },
+    {
+      "code": 8396,
+      "description": "PHOTOGRAPHIC PAPER"
+    },
+    {
+      "code": 8396,
+      "description": "PROJECTION INSTRUCTIONS"
+    },
+    {
+      "code": 8396,
+      "description": "PHOTOGRAPHIC INSTRUCTIONS"
+    },
+    {
+      "code": 8396,
+      "description": "TELESCOPES"
+    },
+    {
+      "code": 8396,
+      "description": "MICROSCOPES"
+    },
+    {
+      "code": 8396,
+      "description": "BINOCULARS"
+    },
+    {
+      "code": 8396,
+      "description": "SPECTACLES"
+    },
+    {
+      "code": 8398,
+      "description": "DISPLAY ADVERTISING - FOR MOTION PICTURE FILMS -"
+    },
+    {
+      "code": 8398,
+      "description": "PUBLICITY ARTICLES"
+    },
+    {
+      "code": 8398,
+      "description": "PROJECTION EQUIPMENT - INCLUDING SUPPLIES -"
+    },
+    {
+      "code": 8398,
+      "description": "PHOTOGRAPHIC EQUIPMENT"
+    },
+    {
+      "code": 8398,
+      "description": "OPTICAL GOODS"
+    },
+    {
+      "code": 8400,
+      "description": "ACCESSORIES -"
+    },
+    {
+      "code": 8400,
+      "description": "SUPPLIES"
+    },
+    {
+      "code": 8400,
+      "description": "PROJECTION INSTRUMENTS -INCLUDING APPARATUS"
+    },
+    {
+      "code": 8400,
+      "description": "PHOTOGRAPHIC INSTRUMENTS"
+    },
+    {
+      "code": 8401,
+      "description": "ACCESSORIES -"
+    },
+    {
+      "code": 8401,
+      "description": "SUPPLIES"
+    },
+    {
+      "code": 8401,
+      "description": "PROJECTIONINSTRUMENTS - INCLUDING APPARATUS"
+    },
+    {
+      "code": 8401,
+      "description": "PHOTOGRAPHIC INSTRUMENTS"
+    },
+    {
+      "code": 8401,
+      "description": "OPTICAL GOODS"
+    },
+    {
+      "code": 8405,
+      "description": "PHOTOGRAPHIC EQUIPMENT (INCLUDING ACCESSORIES)"
+    },
+    {
+      "code": 8420,
+      "description": "FILMS"
+    },
+    {
+      "code": 8423,
+      "description": "SENSITIVE PAPER"
+    },
+    {
+      "code": 8423,
+      "description": "FILMS (UNEXPOSED)"
+    },
+    {
+      "code": 8424,
+      "description": "ENTERTAINMENT ITEMS"
+    },
+    {
+      "code": 8425,
+      "description": "MOTION PICTURE FILMS"
+    },
+    {
+      "code": 8426,
+      "description": "MOTION PICTURE FILM (INCLUDING ADVERTISING MATERIAL)"
+    },
+    {
+      "code": 8430,
+      "description": "UNSENSITIZED FILM BASE -"
+    },
+    {
+      "code": 8430,
+      "description": "UNEXPOSED/INCLUDING PHOTOGRAPHIC CHEMICALS"
+    },
+    {
+      "code": 8430,
+      "description": "PHOTOGRAPHIC PAPER SENSITIZED"
+    },
+    {
+      "code": 8430,
+      "description": "PHOTOGRAPHIC FILMS"
+    },
+    {
+      "code": 8434,
+      "description": "UNRECORDED TAPES"
+    },
+    {
+      "code": 8434,
+      "description": "UNEXPOSED FILMS"
+    },
+    {
+      "code": 8440,
+      "description": "LENSES"
+    },
+    {
+      "code": 8549,
+      "description": "PROJECTION EQUIPM"
+    },
+    {
+      "code": 8549,
+      "description": "PHOTOGRAPHIC EQUIPMENT (INCLUDING SUPPLIES)"
+    },
+    {
+      "code": 8549,
+      "description": "LENSES"
+    },
+    {
+      "code": 8549,
+      "description": "SUNGLASSES"
+    },
+    {
+      "code": 8549,
+      "description": "SPECTACLES"
+    },
+    {
+      "code": 8549,
+      "description": "BINOCULARS"
+    },
+    {
+      "code": 8549,
+      "description": "TELESCOPES"
+    },
+    {
+      "code": 8549,
+      "description": "MICROSCOPES"
+    },
+    {
+      "code": 8549,
+      "description": "PULSE TRANSMITTING DEVICES"
+    },
+    {
+      "code": 8549,
+      "description": "ANALYSING SCALES"
+    },
+    {
+      "code": 8549,
+      "description": "DRAWING"
+    },
+    {
+      "code": 8549,
+      "description": "TESTING"
+    },
+    {
+      "code": 8549,
+      "description": "CALIBRATING"
+    },
+    {
+      "code": 8549,
+      "description": "MEASURING"
+    },
+    {
+      "code": 8549,
+      "description": "SURGERY"
+    },
+    {
+      "code": 8549,
+      "description": "INSTRUMENTS FOR DENTISTRY"
+    },
+    {
+      "code": 8550,
+      "description": "ELECTRONIC INSTRUMENTS/ EQUIPMENT (FOR SCIENTIFIC/ LABORATORY/ INDUSTRIAL USE/ RADIO BROADCASTING/ TELEVI"
+    },
+    {
+      "code": 8550,
+      "description": "IMPRESSION MATERIALS"
+    },
+    {
+      "code": 8550,
+      "description": "FILLING MATERIALS"
+    },
+    {
+      "code": 8550,
+      "description": "DENTAL BASE PLATES"
+    },
+    {
+      "code": 8550,
+      "description": "DRAWING"
+    },
+    {
+      "code": 8550,
+      "description": "TESTING"
+    },
+    {
+      "code": 8550,
+      "description": "CALIBRATING"
+    },
+    {
+      "code": 8550,
+      "description": "MEASURING"
+    },
+    {
+      "code": 8550,
+      "description": "SURGERY"
+    },
+    {
+      "code": 8550,
+      "description": "INSTRUMENTS/APPLIANCES FOR DENTISTRY"
+    },
+    {
+      "code": 8551,
+      "description": "AUTOMATIC CONTROLS (FOR MEASURING/REGULATING FLOW TEMPERATURE/ LEVEL/ HUMIDITY/ TIMED INTERVALS)"
+    },
+    {
+      "code": 8553,
+      "description": "SURGICAL INSTRUMENTS"
+    },
+    {
+      "code": 8553,
+      "description": "DENTAL INSTRUMENTS"
+    },
+    {
+      "code": 8553,
+      "description": "DIATHERMIC MACHINES"
+    },
+    {
+      "code": 8553,
+      "description": "OPERATING TABLES"
+    },
+    {
+      "code": 8553,
+      "description": "ELECTRO MEDICAL APPARATUS"
+    },
+    {
+      "code": 8575,
+      "description": "MEDICAL EQUIPMENT (INCLUDING SUPPLIES)"
+    },
+    {
+      "code": 8600,
+      "description": "SUPPLIES -"
+    },
+    {
+      "code": 8600,
+      "description": "LABORATORY INSTRUMENTS -INCLUDING APPARATUS"
+    },
+    {
+      "code": 8600,
+      "description": "SCIENTIFIC INSTRUMENTS"
+    },
+    {
+      "code": 8601,
+      "description": "LABORATORY INSTRUMENTS -INCLUDING APPARATUS -"
+    },
+    {
+      "code": 8601,
+      "description": "SCIENTIFIC INSTRUMENTS"
+    },
+    {
+      "code": 8603,
+      "description": "ELECTRONIC MEDICAL EQUIPMENT"
+    },
+    {
+      "code": 8610,
+      "description": "ANALYTICAL MEASURING INSTRUMENTS (FOR MEDICAL/ SCIENTIFIC PURPOSES)"
+    },
+    {
+      "code": 8909,
+      "description": "INSTRUMENTS (FOR REGULATING/ MEASURING/ TESTING)"
+    },
+    {
+      "code": 8911,
+      "description": "CLOCKS"
+    },
+    {
+      "code": 8911,
+      "description": "WATCHES"
+    },
+    {
+      "code": 8913,
+      "description": "WRIST WATCHES (WITH BANDS OR BRACELETS)"
+    },
+    {
+      "code": 8925,
+      "description": "WATCHES"
+    },
+    {
+      "code": 9001,
+      "description": "ARTICLES WHICH CONTAIN ONE OR MORE OF THE ARTICLES LISTED IN RESOLUTION 594"
+    },
+    {
+      "code": 9001,
+      "description": "CLOCKS"
+    },
+    {
+      "code": 9001,
+      "description": "WATCHES"
+    },
+    {
+      "code": 9001,
+      "description": "ANTIQUES"
+    },
+    {
+      "code": 9001,
+      "description": "BEADS EXCLUDING ORIGINAL WORKS OF ART"
+    },
+    {
+      "code": 9001,
+      "description": "GLASS STONES"
+    },
+    {
+      "code": 9001,
+      "description": "ARTIFICIAL STONES"
+    },
+    {
+      "code": 9001,
+      "description": "PERSONAL ORNAMENTS"
+    },
+    {
+      "code": 9001,
+      "description": "IMITATION JEWELRY"
+    },
+    {
+      "code": 9002,
+      "description": "VALUABLE CARGO AS PER RESO 012"
+    },
+    {
+      "code": 9006,
+      "description": "ARTICLES WHICH CONTAIN ONE OR MORE OF THE ARTICLES LISTED IN RESOLUTION 012."
+    },
+    {
+      "code": 9006,
+      "description": "CLOCKS"
+    },
+    {
+      "code": 9006,
+      "description": "ORNAMENTS EXCLUDING WATCHES"
+    },
+    {
+      "code": 9006,
+      "description": "NOVELTIES"
+    },
+    {
+      "code": 9006,
+      "description": "IMITATION JEWELRY"
+    },
+    {
+      "code": 9050,
+      "description": "EMPTY CONTAINERS"
+    },
+    {
+      "code": 9051,
+      "description": "EMPTY BEER KEGS"
+    },
+    {
+      "code": 9052,
+      "description": "EMPTY AMMONIA CYLINDERS"
+    },
+    {
+      "code": 9072,
+      "description": "EMPTY BOXES (MADE OF CARDBOARD/ NON-PRECIOUS METAL/FOR PACKAGING OF JEWELRY/ WATCHES/ CLOCKS)"
+    },
+    {
+      "code": 9078,
+      "description": "EMPTY METAL CANS"
+    },
+    {
+      "code": 9090,
+      "description": "HUMAN HAIR"
+    },
+    {
+      "code": 9091,
+      "description": "UNCREMATED."
+    },
+    {
+      "code": 9091,
+      "description": "HUMAN REMAINS"
+    },
+    {
+      "code": 9092,
+      "description": "TISSUES AND DEHYDRATED CORNEAS"
+    },
+    {
+      "code": 9092,
+      "description": "HUMAN EYES"
+    },
+    {
+      "code": 9099,
+      "description": "HUMAN REMAINS - CREMATED"
+    },
+    {
+      "code": 9102,
+      "description": "GIFT PARCELS (CONTAINING FOOD/ CLOTHING)"
+    },
+    {
+      "code": 9104,
+      "description": "GIFT PARCELS (CONTAINING FOOD/ CLOTHING/ SHOES/ MEDICINES/ COSMETICS/ TOILET ARTICLES)"
+    },
+    {
+      "code": 9105,
+      "description": "GIFT SHIPMENTS (CONTAINING FOOD/ MEDICAL SUPPLIES)"
+    },
+    {
+      "code": 9106,
+      "description": "BEVERAGES (FOR CONSUMPTION OR USE IN A HOUSEHOLD/ NOT FOR RESALE)"
+    },
+    {
+      "code": 9106,
+      "description": "FOODSTUFFS"
+    },
+    {
+      "code": 9200,
+      "description": "SPORTING GOODS"
+    },
+    {
+      "code": 9200,
+      "description": "ATHLETIC EQUIPMENT"
+    },
+    {
+      "code": 9202,
+      "description": "SPORTING GOODS"
+    },
+    {
+      "code": 9202,
+      "description": "ATHLETIC GOODS"
+    },
+    {
+      "code": 9202,
+      "description": "GAMES"
+    },
+    {
+      "code": 9202,
+      "description": "TOYS"
+    },
+    {
+      "code": 9204,
+      "description": "WOODEN TOYS"
+    },
+    {
+      "code": 9205,
+      "description": "SPORTING GOODS EXCLUDING WEARING APPAREL"
+    },
+    {
+      "code": 9205,
+      "description": "ATHLETIC GOODS"
+    },
+    {
+      "code": 9205,
+      "description": "GAMES"
+    },
+    {
+      "code": 9205,
+      "description": "TOYS"
+    },
+    {
+      "code": 9206,
+      "description": "OUTBOARD MOTORS"
+    },
+    {
+      "code": 9206,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 9206,
+      "description": "CLOCKS"
+    },
+    {
+      "code": 9206,
+      "description": "HUNTING GUNS -EXCLUDING WATCHES"
+    },
+    {
+      "code": 9206,
+      "description": "SPORTING GOODS -INCLUDING SPORTING GUNS"
+    },
+    {
+      "code": 9206,
+      "description": "ATHLETIC GOODS"
+    },
+    {
+      "code": 9206,
+      "description": "GAMES"
+    },
+    {
+      "code": 9206,
+      "description": "TOYS"
+    },
+    {
+      "code": 9207,
+      "description": "GAMES - INCLUDING PACKAGING MATERIAL WHEN SHIPPED WITH THE MAIN ARTICLE -"
+    },
+    {
+      "code": 9207,
+      "description": "TOYS"
+    },
+    {
+      "code": 9208,
+      "description": "RIDING EQUIPMENT"
+    },
+    {
+      "code": 9208,
+      "description": "SADDLES"
+    },
+    {
+      "code": 9213,
+      "description": "BASEBALLS"
+    },
+    {
+      "code": 9215,
+      "description": "SCALE MODELS (SHIPS)"
+    },
+    {
+      "code": 9229,
+      "description": "SKATEBOARDS (INCLUDING HELMETS/ PROTECTIVE PADS)"
+    },
+    {
+      "code": 9241,
+      "description": "FISHING EQUIPMENT (INCLUDING ACCESSORIES)"
+    },
+    {
+      "code": 9274,
+      "description": "SKI BINDINGS"
+    },
+    {
+      "code": 9274,
+      "description": "SKIPOLES"
+    },
+    {
+      "code": 9274,
+      "description": "SKIS"
+    },
+    {
+      "code": 9300,
+      "description": "AMMUNITION"
+    },
+    {
+      "code": 9300,
+      "description": "FIREARMS"
+    },
+    {
+      "code": 9311,
+      "description": "AMMUNITION FOR SPORTING GUNS"
+    },
+    {
+      "code": 9400,
+      "description": "OFFICE SUPPLIES (EXCLUDING MACHINERY)"
+    },
+    {
+      "code": 9470,
+      "description": "PENCILS"
+    },
+    {
+      "code": 9470,
+      "description": "PENS"
+    },
+    {
+      "code": 9471,
+      "description": "'PENCILS (INCLUDING STANDS/ HOLDERS/ CASES)"
+    },
+    {
+      "code": 9471,
+      "description": "PENS"
+    },
+    {
+      "code": 9473,
+      "description": "PENCILS (INCLUDING DISPLAY MATERIAL)"
+    },
+    {
+      "code": 9473,
+      "description": "PENS"
+    },
+    {
+      "code": 9500,
+      "description": "ENGRAVINGS"
+    },
+    {
+      "code": 9500,
+      "description": "ETCHINGS"
+    },
+    {
+      "code": 9500,
+      "description": "PAINTINGS"
+    },
+    {
+      "code": 9501,
+      "description": "WORKS OF ARTS, HANDICRAFT, PERSONAL EFFECT"
+    },
+    {
+      "code": 9503,
+      "description": "HANDICRAFT PRODUCTS (MADE OF TEXTILES/ METAL/ WOOD/ CORK/ STRAW/ WICKER/ LEATHER/ CLAY/ CERAMIC/ STONE/ GLASS EXCLUDING GARMENTS/ CARPETS/ SPORTING GOODS/ SURGICAL INSTRUMENTS/ DIAMONDS/ PRECIOUS STONES)"
+    },
+    {
+      "code": 9505,
+      "description": "SOUVENIRS (INCLUDING LEATHER GOODS/ SILVERWARE/ WOOD MANUFACTURES/ COPPER MANUFACTURES/ BONE ARTICLES/ HORN ARTICLES/EXCLUDING IVORY ARTICLES)"
+    },
+    {
+      "code": 9506,
+      "description": "HORN ARTICLES"
+    },
+    {
+      "code": 9506,
+      "description": "BONE ARTICLES"
+    },
+    {
+      "code": 9506,
+      "description": "CURIOS (CARVED/WOODEN)"
+    },
+    {
+      "code": 9508,
+      "description": "SOUVENIRS (INCLUDING LEATHER GOODS/ MANUFACTURES MADE OF WOOD/ COPPER/ IVORY/ BONE ARTICLES/ HORN ARTICLES)"
+    },
+    {
+      "code": 9509,
+      "description": "HANDICRAFTS (MADE OF BRASS/ COPPER/ IRON/ WOOD/ CLAY/ HANDLOOM TEXTILES)"
+    },
+    {
+      "code": 9511,
+      "description": "HORN ARTICLES EXCLUDING IVORY ARTICLES"
+    },
+    {
+      "code": 9511,
+      "description": "BONE ARTICLES"
+    },
+    {
+      "code": 9511,
+      "description": "CURIOS (CARVED/WOODEN)"
+    },
+    {
+      "code": 9512,
+      "description": "PRECIOUS STONES"
+    },
+    {
+      "code": 9512,
+      "description": "DIAMONDS"
+    },
+    {
+      "code": 9512,
+      "description": "HANDICRAFTS (MADE OF BRASS/ COPPER/ IRON/ WOOD/ STONE/ BAMBOO/ WICKER/ PAPER/ PAPER MACHE/ LEATHER/CLAY/ LAC/ HANDLOOM TEXTILES) EXCLUDING WEARING APPAREL"
+    },
+    {
+      "code": 9513,
+      "description": "HANDICRAFT PRODUCTS (MADE OF TEXTILES/ METAL/ WOOD/CORK/ STRAW/ WICKER/ LEATHER/ CLAY/ CERAMIC/ STONE/GLASS EXCLUDING DIAMONDS/ PRECIOUS STONES"
+    },
+    {
+      "code": 9515,
+      "description": "HANDICRAFTS (MADE OF BRASS/ COPPER/ IRON/ WOOD/ BAMBOO/ WICKER/ PAPER/ PAPER MACHE/ LEATHER/ CLAY/ LAC/ HANDLOOM TEXTILES/ FEATHERS/EXCLUDING WEARING APPAREL)"
+    },
+    {
+      "code": 9516,
+      "description": "HANDICRAFT PRODUCTS (MADE OF TEXTILES/ METAL/ WOOD/STRAW/ LEATHER/ CLAY/ WICKER/ ONYX/ MOTHER-OF- PEARL/ GLASS)"
+    },
+    {
+      "code": 9517,
+      "description": "HANDICRAFT PRODUCTS (MADE OF METAL/ WOOD/ STRAW/ LEATHER/ EARTH/ ONYX/ MOTHER-OF-PEARL/ GLASS)"
+    },
+    {
+      "code": 9520,
+      "description": "HANDICRAFTS (MADE OF SISAL FIBRE/ BANANA FIBRE/ BAMBOO/ LEATHER/ PAPER/ STONE/ CLAY)"
+    },
+    {
+      "code": 9522,
+      "description": "HANDICRAFT PRODUCTS (MADE OF TEXTILES/ METAL/ WOOD/CORK/ STRAW/ WICKER/ LEATHER/ CLAY/ CERAMIC/ STONE/GLASS ARTICLES/EXCLUDING WEARING APPAREL)"
+    },
+    {
+      "code": 9524,
+      "description": "CAR"
+    },
+    {
+      "code": 9524,
+      "description": "LEATHER ARTICLES"
+    },
+    {
+      "code": 9524,
+      "description": "LEATHER"
+    },
+    {
+      "code": 9524,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 9524,
+      "description": "TEXTILE ARTICLES"
+    },
+    {
+      "code": 9524,
+      "description": "IMITATION JEWELRY EXCLUDING TEXTILES"
+    },
+    {
+      "code": 9524,
+      "description": "INCENSE"
+    },
+    {
+      "code": 9524,
+      "description": "HANDICRAFTS (MADE OF METAL/ WOOD/ CORK/ STRAW/ BAMBOO/ WICKER/ CLAY/ CERAMIC/ STONE/ GLASS/ HORN/ BONE/ IVORY/ PAPER/ PAPER MACHE/ LAC/ ONYX)"
+    },
+    {
+      "code": 9525,
+      "description": "PRECIOUS STONES"
+    },
+    {
+      "code": 9525,
+      "description": "DIAMONDS"
+    },
+    {
+      "code": 9525,
+      "description": "MUSICAL INSTRUMENTS"
+    },
+    {
+      "code": 9525,
+      "description": "DURRIES"
+    },
+    {
+      "code": 9525,
+      "description": "RUGS"
+    },
+    {
+      "code": 9525,
+      "description": "IMITATION JEWELRY EXCLUDING CARPETS"
+    },
+    {
+      "code": 9525,
+      "description": "INCENSE"
+    },
+    {
+      "code": 9525,
+      "description": "HANDICRAFTS (MADE OF METAL/ WOOD/ CORK/ STRAW/ BAMBOO/ WICKER/ CLAY/ CERAMIC/ STONE/ GLASS/ HORN/ BONE/ PAPER/ PAPER MACHE/ LAC)"
+    },
+    {
+      "code": 9526,
+      "description": "BUCKLES"
+    },
+    {
+      "code": 9526,
+      "description": "BUTTONS"
+    },
+    {
+      "code": 9527,
+      "description": "HANDICRAFTS"
+    },
+    {
+      "code": 9529,
+      "description": "HANDBAG FRAMES"
+    },
+    {
+      "code": 9529,
+      "description": "HANDLES"
+    },
+    {
+      "code": 9529,
+      "description": "BUCKLES"
+    },
+    {
+      "code": 9529,
+      "description": "ZIPPERS"
+    },
+    {
+      "code": 9529,
+      "description": "FASTENERS"
+    },
+    {
+      "code": 9533,
+      "description": "'CAKE DECORATIONS (MADE OF SUGAR/ PLASTIC)"
+    },
+    {
+      "code": 9540,
+      "description": "BRUSHES"
+    },
+    {
+      "code": 9550,
+      "description": "LILIN CAIR"
+    },
+    {
+      "code": 9552,
+      "description": "HANDBAGS"
+    },
+    {
+      "code": 9553,
+      "description": "PLASTIC -"
+    },
+    {
+      "code": 9553,
+      "description": "CLOTH"
+    },
+    {
+      "code": 9553,
+      "description": "SCHOOL BAGSBASKETS - MADE OF LEATHER"
+    },
+    {
+      "code": 9553,
+      "description": "BRIEF-CASES"
+    },
+    {
+      "code": 9553,
+      "description": "WALLETS"
+    },
+    {
+      "code": 9553,
+      "description": "HANDBAGS"
+    },
+    {
+      "code": 9553,
+      "description": "PURSES"
+    },
+    {
+      "code": 9557,
+      "description": "WALLETS - INCLUDING ACCESSORIES/ OTHER THAN LEATHER -"
+    },
+    {
+      "code": 9557,
+      "description": "PURSES"
+    },
+    {
+      "code": 9557,
+      "description": "HANDBAGS"
+    },
+    {
+      "code": 9558,
+      "description": "WALLETS"
+    },
+    {
+      "code": 9558,
+      "description": "PURSES"
+    },
+    {
+      "code": 9558,
+      "description": "HANDBAGS"
+    },
+    {
+      "code": 9558,
+      "description": "ATTACHE CASES"
+    },
+    {
+      "code": 9558,
+      "description": "BRIEFCASES"
+    },
+    {
+      "code": 9558,
+      "description": "OVERNIGHT BAGS"
+    },
+    {
+      "code": 9558,
+      "description": "SUITCASES"
+    },
+    {
+      "code": 9560,
+      "description": "VESTMENTS"
+    },
+    {
+      "code": 9560,
+      "description": "RELIGIOUS ARTICLES (EXCLUDING PRINTED MATTER) PICTURES"
+    },
+    {
+      "code": 9576,
+      "description": "DISPLAY EQUIPMENT - NOT FOR RESALE -"
+    },
+    {
+      "code": 9576,
+      "description": "ADVERTISING ARTICLES"
+    },
+    {
+      "code": 9601,
+      "description": "CIGARETTES"
+    },
+    {
+      "code": 9601,
+      "description": "CIGARS"
+    },
+    {
+      "code": 9601,
+      "description": "TOBACCO"
+    },
+    {
+      "code": 9602,
+      "description": "PIPE FILTERS"
+    },
+    {
+      "code": 9602,
+      "description": "CIRAGETTE FILTERS"
+    },
+    {
+      "code": 9602,
+      "description": "CIGAR FILTERS"
+    },
+    {
+      "code": 9602,
+      "description": "PIPE REAMERS"
+    },
+    {
+      "code": 9602,
+      "description": "PIPE RACKS"
+    },
+    {
+      "code": 9602,
+      "description": "PIPE CASES"
+    },
+    {
+      "code": 9602,
+      "description": "CIGARETTE CASES"
+    },
+    {
+      "code": 9602,
+      "description": "CIGAR CASES"
+    },
+    {
+      "code": 9602,
+      "description": "PIPE CLEANERS"
+    },
+    {
+      "code": 9602,
+      "description": "TOBACCO POUCHES"
+    },
+    {
+      "code": 9602,
+      "description": "ASHTRAYS"
+    },
+    {
+      "code": 9602,
+      "description": "LIGHTERS"
+    },
+    {
+      "code": 9602,
+      "description": "CIGARETTE HOLDERS"
+    },
+    {
+      "code": 9602,
+      "description": "CIGAR HOLDERS"
+    },
+    {
+      "code": 9602,
+      "description": "HUMIDORS"
+    },
+    {
+      "code": 9602,
+      "description": "PIPES"
+    },
+    {
+      "code": 9602,
+      "description": "CIGARETTES"
+    },
+    {
+      "code": 9602,
+      "description": "CIGARS"
+    },
+    {
+      "code": 9602,
+      "description": "TOBACCO"
+    },
+    {
+      "code": 9613,
+      "description": "INDIAN BEEDIES"
+    },
+    {
+      "code": 9615,
+      "description": "PIPES (SMOKING)"
+    },
+    {
+      "code": 9623,
+      "description": "ACCESSORIES"
+    },
+    {
+      "code": 9623,
+      "description": "CONVENTION AND EXHIBITION ITEMS - INCLUDING SUPPLIES"
+    },
+    {
+      "code": 9625,
+      "description": "LIGHTERS"
+    },
+    {
+      "code": 9660,
+      "description": "FOR POULTRY FARMS -"
+    },
+    {
+      "code": 9660,
+      "description": "BROODING BATTERIES - DISASSEMBLED"
+    },
+    {
+      "code": 9660,
+      "description": "FATTENING BATTERIES"
+    },
+    {
+      "code": 9660,
+      "description": "PARTS FOR LAYING BATTERIES"
+    },
+    {
+      "code": 9660,
+      "description": "CHICKEN CRATES"
+    },
+    {
+      "code": 9660,
+      "description": "EGG GRADERS"
+    },
+    {
+      "code": 9660,
+      "description": "EGG TRAYS"
+    },
+    {
+      "code": 9660,
+      "description": "WATERERS"
+    },
+    {
+      "code": 9660,
+      "description": "FEEDERS"
+    },
+    {
+      "code": 9700,
+      "description": "BPKB MOBIL, VEHICLE (CAR) SERTIFICATE"
+    },
+    {
+      "code": 9701,
+      "description": "FOODSTUFFS, SPICES, AND BEVERAGES"
+    },
+    {
+      "code": 9702,
+      "description": "FLOWERS"
+    },
+    {
+      "code": 9702,
+      "description": "PLANTS"
+    },
+    {
+      "code": 9702,
+      "description": "SEEDS"
+    },
+    {
+      "code": 9702,
+      "description": "BULBS"
+    },
+    {
+      "code": 9702,
+      "description": "NURSERY STOCK"
+    },
+    {
+      "code": 9702,
+      "description": "FLORAL STOCK"
+    },
+    {
+      "code": 9703,
+      "description": "LEATHER MANUFACTURES"
+    },
+    {
+      "code": 9703,
+      "description": "LEATHER"
+    },
+    {
+      "code": 9703,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 9703,
+      "description": "TEXTILES"
+    },
+    {
+      "code": 9703,
+      "description": "FIBRES"
+    },
+    {
+      "code": 9703,
+      "description": "THREAD"
+    },
+    {
+      "code": 9703,
+      "description": "YARN"
+    },
+    {
+      "code": 9704,
+      "description": "MOTORSHIP MACHINE PARTS"
+    },
+    {
+      "code": 9704,
+      "description": "MACHINES EXCLUDING STEAMSHIP MACHINERY PARTS"
+    },
+    {
+      "code": 9704,
+      "description": "SURFACE VEHICLES (INCLUDING ACCESSORIES)"
+    },
+    {
+      "code": 9705,
+      "description": "SUPPLIES -"
+    },
+    {
+      "code": 9705,
+      "description": "-INCLUDING ACCESSORIES"
+    },
+    {
+      "code": 9705,
+      "description": "OFFICE MACHINERY"
+    },
+    {
+      "code": 9705,
+      "description": "DATA PROCESSING EQUIPMENT"
+    },
+    {
+      "code": 9706,
+      "description": "WIRE"
+    },
+    {
+      "code": 9706,
+      "description": "PHONOGRAPH RECORDS"
+    },
+    {
+      "code": 9706,
+      "description": "CASSETTES"
+    },
+    {
+      "code": 9706,
+      "description": "TAPES"
+    },
+    {
+      "code": 9706,
+      "description": "ELECTRIC APPLIANCES"
+    },
+    {
+      "code": 9706,
+      "description": "ELECTRIC EQUIPMENT"
+    },
+    {
+      "code": 9707,
+      "description": "CUTLERY"
+    },
+    {
+      "code": 9707,
+      "description": "TOOLS (INCLUDING RAZOR BLADES)"
+    },
+    {
+      "code": 9708,
+      "description": "ACCESSORIES -"
+    },
+    {
+      "code": 9708,
+      "description": "SUPPLIES"
+    },
+    {
+      "code": 9708,
+      "description": "PROJECTIONINSTRUMENTS - INCLUDING APPARATUS"
+    },
+    {
+      "code": 9708,
+      "description": "PHOTOGRAPHIC INSTRUMENTS"
+    },
+    {
+      "code": 9708,
+      "description": "OPTICAL GOODS"
+    },
+    {
+      "code": 9709,
+      "description": "TOILET ARTICLES"
+    },
+    {
+      "code": 9709,
+      "description": "RUBBER -INCLUDING PLASTIC ARTICLES"
+    },
+    {
+      "code": 9709,
+      "description": "RESINS"
+    },
+    {
+      "code": 9709,
+      "description": "ESSENTIAL OILS"
+    },
+    {
+      "code": 9709,
+      "description": "PHARMACEUTICALS"
+    },
+    {
+      "code": 9709,
+      "description": "COSMETICS"
+    },
+    {
+      "code": 9709,
+      "description": "DRUGS"
+    },
+    {
+      "code": 9709,
+      "description": "CHEMICAL PRODUCTS"
+    },
+    {
+      "code": 9709,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 9710,
+      "description": "SENSITIZED PAPER -"
+    },
+    {
+      "code": 9710,
+      "description": "PAPER - INCLUDING PHOTOGRAPHIC"
+    },
+    {
+      "code": 9710,
+      "description": "PRINTED MATTER"
+    },
+    {
+      "code": 9711,
+      "description": "CLOCKS"
+    },
+    {
+      "code": 9711,
+      "description": "WATCHES"
+    },
+    {
+      "code": 9711,
+      "description": "LABORATORY EQUIPMENT ( INCLUDING SUPPLIES)"
+    },
+    {
+      "code": 9711,
+      "description": "PRECISION INSTRUMENTS"
+    },
+    {
+      "code": 9711,
+      "description": "SCIENTIFIC INSTRUMENTS"
+    },
+    {
+      "code": 9712,
+      "description": "SPORTING GOODS"
+    },
+    {
+      "code": 9712,
+      "description": "GAMES"
+    },
+    {
+      "code": 9712,
+      "description": "TOYS"
+    },
+    {
+      "code": 9713,
+      "description": "MUSICAL INSTRUMENTS"
+    },
+    {
+      "code": 9714,
+      "description": "GLASSWARE"
+    },
+    {
+      "code": 9714,
+      "description": "PORCELAIN"
+    },
+    {
+      "code": 9714,
+      "description": "CRYSTALWARE"
+    },
+    {
+      "code": 9714,
+      "description": "STONEWARE"
+    },
+    {
+      "code": 9714,
+      "description": "EARTHENWARE"
+    },
+    {
+      "code": 9714,
+      "description": "CHINAWARE"
+    },
+    {
+      "code": 9714,
+      "description": "POTTERY"
+    },
+    {
+      "code": 9714,
+      "description": "CERAMICS"
+    },
+    {
+      "code": 9715,
+      "description": "CUTLERY"
+    },
+    {
+      "code": 9715,
+      "description": "TOOLS"
+    },
+    {
+      "code": 9715,
+      "description": "MACHINERY"
+    },
+    {
+      "code": 9715,
+      "description": "SURFACE VEHICLES (INCLUDING ACCESSORIES)"
+    },
+    {
+      "code": 9716,
+      "description": "HOUSEHOLD GOODS - NOT FOR RESALE"
+    },
+    {
+      "code": 9716,
+      "description": "PERSONAL EFFECTS"
+    },
+    {
+      "code": 9717,
+      "description": "STABILATORS"
+    },
+    {
+      "code": 9717,
+      "description": "STABILIZERS"
+    },
+    {
+      "code": 9717,
+      "description": "AIRCRAFT TAIL ASSEMBLIES"
+    },
+    {
+      "code": 9717,
+      "description": "WINGS"
+    },
+    {
+      "code": 9717,
+      "description": "AIRCRAFT PARTS EXCLUDING FUSELAGES"
+    },
+    {
+      "code": 9717,
+      "description": "AIRCRAFT ENGINES"
+    },
+    {
+      "code": 9718,
+      "description": "PRECIOUS STONES"
+    },
+    {
+      "code": 9718,
+      "description": "ORNAMENTS EXCLUDING DIAMONDS"
+    },
+    {
+      "code": 9718,
+      "description": "NOVELTIES"
+    },
+    {
+      "code": 9718,
+      "description": "IMITATION JEWELRY"
+    },
+    {
+      "code": 9718,
+      "description": "CRYSTALWARE ARTICLES"
+    },
+    {
+      "code": 9718,
+      "description": "HANDICRAFT PRODUCTS (MADE OF TEXTILES/ METAL/ WOOD/CORK/ STRAW/ WICKER/ LEATHER/ CLAY/ CERAMIC/ STONE/GLASS/ EARTHENWARE/ POTTERY)"
+    },
+    {
+      "code": 9719,
+      "description": "NEWSREEL"
+    },
+    {
+      "code": 9719,
+      "description": "CLOCKS"
+    },
+    {
+      "code": 9719,
+      "description": "PROJECTION EQUIPMENT EXCLUDING WATCHES"
+    },
+    {
+      "code": 9719,
+      "description": "PHOTOGRAPHIC EQUIPMENT (INCLUDING SUPPLIES)"
+    },
+    {
+      "code": 9719,
+      "description": "SPECTACLES"
+    },
+    {
+      "code": 9719,
+      "description": "OPTICAL INSTRUMENTS"
+    },
+    {
+      "code": 9719,
+      "description": "INDUSTRIAL RADIO OR TELEVISIONBROADCASTING USE -"
+    },
+    {
+      "code": 9719,
+      "description": "EQUIPMENT - DESIGNED FOR SCIENTIFIC SURGICAL LABORATORY"
+    },
+    {
+      "code": 9719,
+      "description": "INSTRUMENTS"
+    },
+    {
+      "code": 9720,
+      "description": "FISH FOOD"
+    },
+    {
+      "code": 9720,
+      "description": "WEED"
+    },
+    {
+      "code": 9720,
+      "description": "CORAL"
+    },
+    {
+      "code": 9720,
+      "description": "FISH (INEDIBLE)"
+    },
+    {
+      "code": 9721,
+      "description": "PAPER PRODUCTS"
+    },
+    {
+      "code": 9721,
+      "description": "PAPER"
+    },
+    {
+      "code": 9722,
+      "description": "PLATINUM ALLOYS -"
+    },
+    {
+      "code": 9722,
+      "description": "PLATINUM"
+    },
+    {
+      "code": 9722,
+      "description": "SILVER"
+    },
+    {
+      "code": 9722,
+      "description": "MINERALS - EXCLUDING GOLD"
+    },
+    {
+      "code": 9722,
+      "description": "METALS"
+    },
+    {
+      "code": 9723,
+      "description": "WOOD PRODUCTS"
+    },
+    {
+      "code": 9723,
+      "description": "WOOD"
+    },
+    {
+      "code": 9723,
+      "description": "PLASTIC ARTICLES"
+    },
+    {
+      "code": 9724,
+      "description": "AIRCRAFT PARTS (INCLUDING ACCESSORIES)"
+    },
+    {
+      "code": 9725,
+      "description": "MOTORSHIP MACHINE PARTS"
+    },
+    {
+      "code": 9725,
+      "description": "CUTLERY EXCLUDING STEAMSHIP MACHINERY PARTS"
+    },
+    {
+      "code": 9725,
+      "description": "TOOLS"
+    },
+    {
+      "code": 9725,
+      "description": "MACHINERY"
+    },
+    {
+      "code": 9725,
+      "description": "SURFACE VEHICLES (INCLUDING ACCESSORIES)"
+    },
+    {
+      "code": 9726,
+      "description": "WIRE"
+    },
+    {
+      "code": 9726,
+      "description": "PHONOGRAPH RECORDS"
+    },
+    {
+      "code": 9726,
+      "description": "CASSETTES"
+    },
+    {
+      "code": 9726,
+      "description": "TAPES"
+    },
+    {
+      "code": 9726,
+      "description": "ELECTRIC APPLIANCES"
+    },
+    {
+      "code": 9726,
+      "description": "ELECTRIC EQUIPMENT"
+    },
+    {
+      "code": 9726,
+      "description": "SUPPLIES-"
+    },
+    {
+      "code": 9726,
+      "description": "OFFICE MACHINERY -INCLUDING ACCESSORIES"
+    },
+    {
+      "code": 9726,
+      "description": "DATA PROCESSING EQUIPMENT"
+    },
+    {
+      "code": 9727,
+      "description": "CLOCKS"
+    },
+    {
+      "code": 9727,
+      "description": "WATCHES"
+    },
+    {
+      "code": 9727,
+      "description": "LABORATORY EQUIPMENT (INCLUDING SUPPLIES)"
+    },
+    {
+      "code": 9727,
+      "description": "PRECISION INSTRUMENTS"
+    },
+    {
+      "code": 9727,
+      "description": "SCIENTIFIC INSTRUMENTS"
+    },
+    {
+      "code": 9727,
+      "description": "SUPPLIES -"
+    },
+    {
+      "code": 9727,
+      "description": "PHOTOGRAPHIC EQUIPMENT -INCLUDING ACCESSORIES"
+    },
+    {
+      "code": 9727,
+      "description": "OPTICAL EQUIPMENT"
+    },
+    {
+      "code": 9728,
+      "description": "SENSITIZED PAPER -EXCLUDING NEWSPAPERS"
+    },
+    {
+      "code": 9728,
+      "description": "PAPER - INCLUDING PHOTOGRAPHIC"
+    },
+    {
+      "code": 9728,
+      "description": "PRINTED MATTER"
+    },
+    {
+      "code": 9730,
+      "description": "CATS"
+    },
+    {
+      "code": 9730,
+      "description": "DOGS"
+    },
+    {
+      "code": 9732,
+      "description": "OPTICAL GOODS - INCLUD"
+    },
+    {
+      "code": 9732,
+      "description": "PRECISION INSTRUMENTS"
+    },
+    {
+      "code": 9732,
+      "description": "PAPER"
+    },
+    {
+      "code": 9732,
+      "description": "PRINTED MATTER"
+    },
+    {
+      "code": 9732,
+      "description": "PLASTIC"
+    },
+    {
+      "code": 9732,
+      "description": "TOILET ARTICLES"
+    },
+    {
+      "code": 9732,
+      "description": "COSMETICS"
+    },
+    {
+      "code": 9732,
+      "description": "MEDICINES"
+    },
+    {
+      "code": 9732,
+      "description": "PHARMACEUTICALS"
+    },
+    {
+      "code": 9732,
+      "description": "DRUGS"
+    },
+    {
+      "code": 9732,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 9732,
+      "description": "ELECTRIC EQUIPMENT"
+    },
+    {
+      "code": 9732,
+      "description": "CUTLERY"
+    },
+    {
+      "code": 9732,
+      "description": "MACHINERY TOOLS"
+    },
+    {
+      "code": 9732,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 9732,
+      "description": "TEXTILES"
+    },
+    {
+      "code": 9732,
+      "description": "BEVERAGES"
+    },
+    {
+      "code": 9732,
+      "description": "SPICES"
+    },
+    {
+      "code": 9732,
+      "description": "FOODSTUFFS"
+    },
+    {
+      "code": 9733,
+      "description": "SUPPLIES -"
+    },
+    {
+      "code": 9733,
+      "description": "PLASTIC - INCLUDING ACCESSORIES"
+    },
+    {
+      "code": 9733,
+      "description": "TOILET ARTICLES"
+    },
+    {
+      "code": 9733,
+      "description": "MEDICINES"
+    },
+    {
+      "code": 9733,
+      "description": "COSMETICS"
+    },
+    {
+      "code": 9733,
+      "description": "PHARMACEUTICALS"
+    },
+    {
+      "code": 9733,
+      "description": "DRUGS"
+    },
+    {
+      "code": 9733,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 9733,
+      "description": "SURFACE VEHICLES"
+    },
+    {
+      "code": 9733,
+      "description": "ELECTRIC EQUIPMENT"
+    },
+    {
+      "code": 9733,
+      "description": "CUTLERY"
+    },
+    {
+      "code": 9733,
+      "description": "TOOLS"
+    },
+    {
+      "code": 9733,
+      "description": "MACHINERY"
+    },
+    {
+      "code": 9733,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 9733,
+      "description": "TEXTILES"
+    },
+    {
+      "code": 9734,
+      "description": "SKINS"
+    },
+    {
+      "code": 9734,
+      "description": "PELTS"
+    },
+    {
+      "code": 9734,
+      "description": "HIDES"
+    },
+    {
+      "code": 9734,
+      "description": "LEATHER MANUFACTURES EXCLUDING FURS"
+    },
+    {
+      "code": 9734,
+      "description": "LEATHER"
+    },
+    {
+      "code": 9734,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 9734,
+      "description": "TEXTILES"
+    },
+    {
+      "code": 9734,
+      "description": "FIBRES"
+    },
+    {
+      "code": 9734,
+      "description": "THREAD"
+    },
+    {
+      "code": 9734,
+      "description": "YARN"
+    },
+    {
+      "code": 9735,
+      "description": "NON-FER"
+    },
+    {
+      "code": 9735,
+      "description": "MINERALS"
+    },
+    {
+      "code": 9735,
+      "description": "ORES"
+    },
+    {
+      "code": 9735,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 9735,
+      "description": "TEXTILES"
+    },
+    {
+      "code": 9735,
+      "description": "WOOD MANUFACTURES"
+    },
+    {
+      "code": 9735,
+      "description": "ESSENTIAL OILS"
+    },
+    {
+      "code": 9735,
+      "description": "TUBERS"
+    },
+    {
+      "code": 9735,
+      "description": "BULBS"
+    },
+    {
+      "code": 9735,
+      "description": "SEEDS"
+    },
+    {
+      "code": 9735,
+      "description": "PLANTS"
+    },
+    {
+      "code": 9735,
+      "description": "FLOWERS"
+    },
+    {
+      "code": 9735,
+      "description": "LEATHER MANUFACTURES"
+    },
+    {
+      "code": 9735,
+      "description": "LEATHER"
+    },
+    {
+      "code": 9735,
+      "description": "SKINS"
+    },
+    {
+      "code": 9735,
+      "description": "PELTS"
+    },
+    {
+      "code": 9735,
+      "description": "HIDES"
+    },
+    {
+      "code": 9735,
+      "description": "FURS"
+    },
+    {
+      "code": 9735,
+      "description": "HATCHING EGGS"
+    },
+    {
+      "code": 9735,
+      "description": "TOBACCO PRODUCTS"
+    },
+    {
+      "code": 9735,
+      "description": "TOBACCO"
+    },
+    {
+      "code": 9735,
+      "description": "BEVERAGES"
+    },
+    {
+      "code": 9735,
+      "description": "SPICES"
+    },
+    {
+      "code": 9735,
+      "description": "FOODSTUFFS"
+    },
+    {
+      "code": 9736,
+      "description": "TOILET ARTICLES"
+    },
+    {
+      "code": 9736,
+      "description": "RUBBER EXCLUDING PLASTIC ARTICLES"
+    },
+    {
+      "code": 9736,
+      "description": "RESINS"
+    },
+    {
+      "code": 9736,
+      "description": "ESSENTIAL OILS"
+    },
+    {
+      "code": 9736,
+      "description": "PHARMACEUTICALS"
+    },
+    {
+      "code": 9736,
+      "description": "COSMETICS"
+    },
+    {
+      "code": 9736,
+      "description": "DRUGS"
+    },
+    {
+      "code": 9736,
+      "description": "CHEMICAL PRODUCTS"
+    },
+    {
+      "code": 9736,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 9737,
+      "description": "PRINTED MATTER"
+    },
+    {
+      "code": 9738,
+      "description": "PRINTED MATTER (EXCLUDING NEWSPAPERS)"
+    },
+    {
+      "code": 9740,
+      "description": "BPKB MOTOR/ VEHICLE (MOTORBIKE) SERTIFICATE"
+    },
+    {
+      "code": 9741,
+      "description": "PIGS"
+    },
+    {
+      "code": 9742,
+      "description": "ARTICLES WHICH CONTAIN ONE OR MORE OF THE ARTICLES LISTED IN RESOLUTION 594"
+    },
+    {
+      "code": 9742,
+      "description": "CLOCKS"
+    },
+    {
+      "code": 9742,
+      "description": "WATCHES"
+    },
+    {
+      "code": 9742,
+      "description": "TEXTILE ARTICLES"
+    },
+    {
+      "code": 9742,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 9742,
+      "description": "PERSONAL ORNAMENTS EXCLUDING CLOTH"
+    },
+    {
+      "code": 9742,
+      "description": "FANCY NOVELTIES"
+    },
+    {
+      "code": 9742,
+      "description": "IMITATION JEWELRY"
+    },
+    {
+      "code": 9743,
+      "description": "BUILDING MATERIAL"
+    },
+    {
+      "code": 9743,
+      "description": "CONSTRUCTION EQUIPMENT"
+    },
+    {
+      "code": 9744,
+      "description": "STATIONERY/OFFICE SUPPLIES"
+    },
+    {
+      "code": 9745,
+      "description": "LONG DIMENSION ITEM"
+    },
+    {
+      "code": 9746,
+      "description": "KEEP COOL ITEM"
+    },
+    {
+      "code": 9750,
+      "description": "COSMETICS"
+    },
+    {
+      "code": 9750,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 9750,
+      "description": "CHINAWARE"
+    },
+    {
+      "code": 9750,
+      "description": "CELLULOSE"
+    },
+    {
+      "code": 9750,
+      "description": "CABLE"
+    },
+    {
+      "code": 9750,
+      "description": "BUTTONS"
+    },
+    {
+      "code": 9750,
+      "description": "BUCKLES"
+    },
+    {
+      "code": 9750,
+      "description": "BRUSHES"
+    },
+    {
+      "code": 9750,
+      "description": "BOATS"
+    },
+    {
+      "code": 9750,
+      "description": "BLINDS"
+    },
+    {
+      "code": 9750,
+      "description": "BAMBOO ARTICLES"
+    },
+    {
+      "code": 9750,
+      "description": "AUTOMOBILE PARTS"
+    },
+    {
+      "code": 9750,
+      "description": "ATHLETIC GOODS"
+    },
+    {
+      "code": 9750,
+      "description": "ASBESTOS PRODUCTS"
+    },
+    {
+      "code": 9750,
+      "description": "AIRCRAFT PARTS"
+    },
+    {
+      "code": 9750,
+      "description": "ADVERTISING MATERIAL ( FOR STORE OR WINDOW)"
+    },
+    {
+      "code": 9750,
+      "description": "ADHESIVE ARTICLES"
+    },
+    {
+      "code": 9750,
+      "description": "ABRASIVES"
+    },
+    {
+      "code": 9751,
+      "description": "ELECTRIC APPLIANCES (AIR- CONDITIONERS/BLANKETS/ BLENDERS/ COFFEE POTS/ TEA POTS/ HOT-WATER POTS/ PERCOLATORS/ GRINDERS/ SHARPENERS/ CLOCKS/ MIXERS/ ROASTERS/"
+    },
+    {
+      "code": 9751,
+      "description": "PHONOGRAPHS"
+    },
+    {
+      "code": 9751,
+      "description": "TELEVISIONS"
+    },
+    {
+      "code": 9751,
+      "description": "RADIOS"
+    },
+    {
+      "code": 9751,
+      "description": "FALSE EYELASHES"
+    },
+    {
+      "code": 9751,
+      "description": "SWITCHES"
+    },
+    {
+      "code": 9751,
+      "description": "WIGS"
+    },
+    {
+      "code": 9751,
+      "description": "TOUPEES"
+    },
+    {
+      "code": 9751,
+      "description": "HAIR PRODUCTS"
+    },
+    {
+      "code": 9751,
+      "description": "HAIR"
+    },
+    {
+      "code": 9752,
+      "description": "TEXTILES FIBRES AND MANUFACTURES. METALS AND MANUFACTURES. MACHINERY VEHICLES AND ELECTRICAL EQUIPMENT. NON-METALLIC MINERALS AND MANUFACTURES. CHEMICALS AND RELATED PRODUCTS. PAPER REED RUBBER AND WOOD MANUFACTURES. SCIENTIFIC PROFESSIONAL AND PRECISION"
+    },
+    {
+      "code": 9760,
+      "description": "STNK MOBIL/ VEHICLE (CAR) LISENCE"
+    },
+    {
+      "code": 9761,
+      "description": "STNK MOTOR/ VEHICLE (MOTORBIKE) LISENCE"
+    },
+    {
+      "code": 9762,
+      "description": "IJAZAH,AKTA/ CERTIFICATE, BIRTH CERTIFICATE"
+    },
+    {
+      "code": 9763,
+      "description": "PASSPORT/VISA"
+    },
+    {
+      "code": 9764,
+      "description": "SERTIFIKAT TANAH, BANGUNAN/ CERTIFICATES"
+    },
+    {
+      "code": 9765,
+      "description": "FINANCIAL/LEGALIZED DOCUMENT, IMPORTANT DOCUMENT"
+    },
+    {
+      "code": 9796,
+      "description": "CHINAWARE"
+    },
+    {
+      "code": 9796,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 9796,
+      "description": "CELLULOSE"
+    },
+    {
+      "code": 9796,
+      "description": "CABLE"
+    },
+    {
+      "code": 9796,
+      "description": "BUTTONS"
+    },
+    {
+      "code": 9796,
+      "description": "BUCKLES"
+    },
+    {
+      "code": 9796,
+      "description": "BRUSHES"
+    },
+    {
+      "code": 9796,
+      "description": "BOATS"
+    },
+    {
+      "code": 9796,
+      "description": "BLINDS"
+    },
+    {
+      "code": 9796,
+      "description": "BIOLOGICALS"
+    },
+    {
+      "code": 9796,
+      "description": "BEVERAGES"
+    },
+    {
+      "code": 9796,
+      "description": "GOODS BAMBOO ARTICLES"
+    },
+    {
+      "code": 9796,
+      "description": "ATHLETIC"
+    },
+    {
+      "code": 9796,
+      "description": "ASBESTOS PRODUCTS"
+    },
+    {
+      "code": 9796,
+      "description": "SMALL ARMS"
+    },
+    {
+      "code": 9796,
+      "description": "AMMUNITION"
+    },
+    {
+      "code": 9796,
+      "description": "ADVERTISING MATERIAL AIRCRAFT"
+    },
+    {
+      "code": 9796,
+      "description": "ADHESIVE ARTICLES"
+    },
+    {
+      "code": 9796,
+      "description": "ADHESIVES"
+    },
+    {
+      "code": 9796,
+      "description": "ABRASIVES"
+    },
+    {
+      "code": 9797,
+      "description": "CELLU"
+    },
+    {
+      "code": 9797,
+      "description": "CABLE"
+    },
+    {
+      "code": 9797,
+      "description": "BUTTONS"
+    },
+    {
+      "code": 9797,
+      "description": "BUCKLES"
+    },
+    {
+      "code": 9797,
+      "description": "BRUSHES"
+    },
+    {
+      "code": 9797,
+      "description": "BOATS"
+    },
+    {
+      "code": 9797,
+      "description": "BLINDS"
+    },
+    {
+      "code": 9797,
+      "description": "BIOLOGICALS"
+    },
+    {
+      "code": 9797,
+      "description": "BEVERAGES"
+    },
+    {
+      "code": 9797,
+      "description": "BAMBOO ARTICLES"
+    },
+    {
+      "code": 9797,
+      "description": "AUTOMOBILES"
+    },
+    {
+      "code": 9797,
+      "description": "ATHLETIC GOODS"
+    },
+    {
+      "code": 9797,
+      "description": "ASBESTOS PRODUCTS"
+    },
+    {
+      "code": 9797,
+      "description": "OILS (ANIMAL)"
+    },
+    {
+      "code": 9797,
+      "description": "SMALL ARMS"
+    },
+    {
+      "code": 9797,
+      "description": "AMMUNITION"
+    },
+    {
+      "code": 9797,
+      "description": "AIRCRAFT"
+    },
+    {
+      "code": 9797,
+      "description": "ADVERTISING MATERIAL"
+    },
+    {
+      "code": 9797,
+      "description": "ADHESIVE ARTICLES"
+    },
+    {
+      "code": 9797,
+      "description": "ADHESIVES"
+    },
+    {
+      "code": 9797,
+      "description": "ABRASIVES"
+    },
+    {
+      "code": 9798,
+      "description": "COS"
+    },
+    {
+      "code": 9798,
+      "description": "CHINAWARE"
+    },
+    {
+      "code": 9798,
+      "description": "CHEMICALS"
+    },
+    {
+      "code": 9798,
+      "description": "CELLULOSE"
+    },
+    {
+      "code": 9798,
+      "description": "CABLE"
+    },
+    {
+      "code": 9798,
+      "description": "BUTTONS"
+    },
+    {
+      "code": 9798,
+      "description": "BUCKLES"
+    },
+    {
+      "code": 9798,
+      "description": "BRUSHES"
+    },
+    {
+      "code": 9798,
+      "description": "BOATS"
+    },
+    {
+      "code": 9798,
+      "description": "BLINDS"
+    },
+    {
+      "code": 9798,
+      "description": "BEVERAGES"
+    },
+    {
+      "code": 9798,
+      "description": "BAMBOO ARTICLES"
+    },
+    {
+      "code": 9798,
+      "description": "AUTOMOBILES"
+    },
+    {
+      "code": 9798,
+      "description": "ATHLETIC GOODS"
+    },
+    {
+      "code": 9798,
+      "description": "ASBESTOS PRODUCTS"
+    },
+    {
+      "code": 9798,
+      "description": "OILS (ANIMAL)"
+    },
+    {
+      "code": 9798,
+      "description": "AIRCRAFT PARTS"
+    },
+    {
+      "code": 9798,
+      "description": "ADVERTISING MATERIAL"
+    },
+    {
+      "code": 9798,
+      "description": "ADHESIVE ARTICLES"
+    },
+    {
+      "code": 9798,
+      "description": "ADHESIVES"
+    },
+    {
+      "code": 9798,
+      "description": "ABRASIVES"
+    },
+    {
+      "code": 9799,
+      "description": "EARTHENWA"
+    },
+    {
+      "code": 9799,
+      "description": "CHINAWARE"
+    },
+    {
+      "code": 9799,
+      "description": "CELLULOSE ACETATE"
+    },
+    {
+      "code": 9799,
+      "description": "CANDY"
+    },
+    {
+      "code": 9799,
+      "description": "CABLE"
+    },
+    {
+      "code": 9799,
+      "description": "BRUSHES"
+    },
+    {
+      "code": 9799,
+      "description": "BOATS"
+    },
+    {
+      "code": 9799,
+      "description": "BIOLOGICALS"
+    },
+    {
+      "code": 9799,
+      "description": "AUTOMOBILE PARTS"
+    },
+    {
+      "code": 9799,
+      "description": "ATHLETIC GOODS"
+    },
+    {
+      "code": 9799,
+      "description": "ASBESTOS PRODUCTS"
+    },
+    {
+      "code": 9799,
+      "description": "SMALL ARMS"
+    },
+    {
+      "code": 9799,
+      "description": "AMMUNITION"
+    },
+    {
+      "code": 9799,
+      "description": "AIRCRAFT PARTS"
+    },
+    {
+      "code": 9799,
+      "description": "AIRCRAFT (MODELS)"
+    },
+    {
+      "code": 9799,
+      "description": "ADVERTISING MATTER"
+    },
+    {
+      "code": 9799,
+      "description": "ADHESIVE ARTICLES"
+    },
+    {
+      "code": 9799,
+      "description": "ADHESIVES"
+    },
+    {
+      "code": 9799,
+      "description": "ABRASIVES"
+    },
+    {
+      "code": 9910,
+      "description": "FURNITURE"
+    },
+    {
+      "code": 9911,
+      "description": "FURNITURE (EXCLUDING PAINTINGS/ ENGRAVINGS/ OBJECTS OF ART)"
+    },
+    {
+      "code": 9930,
+      "description": "INTERMEDIATE FUEL PRODUCTS"
+    },
+    {
+      "code": 9930,
+      "description": "FUEL RAW MATERIALS"
+    },
+    {
+      "code": 9930,
+      "description": "FUEL"
+    },
+    {
+      "code": 9930,
+      "description": "'NUCLEAR REACTOR PARTS (INCLUDING HEAT EXCHANGERS/ CONTROL RODS/ INSTRUMENTATION PUMPS/ VALVES/ REMOTE HANDLING GEAR)"
+    },
+    {
+      "code": 9935,
+      "description": "FUEL RAW MATERIAL CONTAINERS - EMPTY -"
+    },
+    {
+      "code": 9935,
+      "description": "NUCLEAR REACTOR FUEL CONTAINERS"
+    },
+    {
+      "code": 9940,
+      "description": "GOVERNMENT POST EXCHANGE MATERIAL"
+    },
+    {
+      "code": 9942,
+      "description": "GOVERNMENT OWNED STORES ( INCLUDING SUPPLIES )"
+    },
+    {
+      "code": 9945,
+      "description": "DIPLOMATIC CARGO"
+    },
+    {
+      "code": 9947,
+      "description": "DIPLOMATIC POUCHES"
+    },
+    {
+      "code": 9960,
+      "description": "ITS SUBSIDIARIES AND ASSOCIATE COMPANIES"
+    },
+    {
+      "code": 9960,
+      "description": "SHIPMENTS OF ICI"
+    },
+    {
+      "code": 9971,
+      "description": "HOSPITAL SUPPLIES (CLOTHING/ DRESSINGS/ MEDICINES/ PHARMACEUTICALS/ MEDICAL TOOLS/ LABORATORY EQUIPMENT)"
+    },
+    {
+      "code": 9972,
+      "description": "SUPPLIES AND ACCESSORIES"
+    },
+    {
+      "code": 9972,
+      "description": "OIL RESEARCH AND DRILLING EQUIPMENT"
+    },
+    {
+      "code": 9973,
+      "description": "FITTINGS"
+    },
+    {
+      "code": 9973,
+      "description": "FIXTURES"
+    },
+    {
+      "code": 9973,
+      "description": "BUILDING TOOLS"
+    },
+    {
+      "code": 9973,
+      "description": "BUILDING MATERIAL"
+    },
+    {
+      "code": 9974,
+      "description": "EXPEDITION MATERIAL"
+    },
+    {
+      "code": 9981,
+      "description": "CONSULS OR OTHER OFFICIAL HEADS OF MISSIONS OR AGENCIES OF FOREIGN GOVERNMENTS"
+    },
+    {
+      "code": 9981,
+      "description": "LEGATIONS"
+    },
+    {
+      "code": 9981,
+      "description": "GOODS CONSIGNED TO AMBASSADORS"
+    },
+    {
+      "code": 9984,
+      "description": "KITCHEN EQUIPMENT - USED -EXCLUDING PERSONAL EFFECTS"
+    },
+    {
+      "code": 9984,
+      "description": "HOUSEHOLD FURNITURE"
+    },
+    {
+      "code": 9986,
+      "description": "PERSONAL EFFECTS (NOT FOR RESALE)"
+    },
+    {
+      "code": 9986,
+      "description": "UNACCOMPANIED BAGGAGE"
+    },
+    {
+      "code": 9989,
+      "description": "NOT FOR RESALE"
+    },
+    {
+      "code": 9989,
+      "description": "DISPLAY MATERIALS - FOR EXPO USE ONLY"
+    },
+    {
+      "code": 9989,
+      "description": "NURSERY STOCKS"
+    },
+    {
+      "code": 9989,
+      "description": "FLORAL STOCKS"
+    },
+    {
+      "code": 9989,
+      "description": "SEEDS"
+    },
+    {
+      "code": 9989,
+      "description": "BULBS"
+    },
+    {
+      "code": 9989,
+      "description": "FLOWERS"
+    },
+    {
+      "code": 9989,
+      "description": "PLANTS"
+    },
+    {
+      "code": 9991,
+      "description": "DISPLAY MATERIAL - FOR EXHIBITIONS OR TRADE FAIRS -"
+    },
+    {
+      "code": 9991,
+      "description": "BUILDING MATERIAL"
+    },
+    {
+      "code": 9993,
+      "description": "NOT FOR RESALE/WHEN IN MIXED SHIPMENTS WITH THE COMMODITIES NAMED IN A: ABOVE -"
+    },
+    {
+      "code": 9993,
+      "description": "ARTICLES WORN BY AN INDIVIDUAL - USED"
+    },
+    {
+      "code": 9993,
+      "description": "TOILET ARTICLES"
+    },
+    {
+      "code": 9993,
+      "description": "COSMETICS"
+    },
+    {
+      "code": 9993,
+      "description": "A: HOUSEHOLD GOODS (USED/NOT FOR RESALE) B: WEARING APPAREL"
+    },
+    {
+      "code": 9994,
+      "description": "NOT FOR RESALE/WHEN IN MIXED SHI"
+    },
+    {
+      "code": 9994,
+      "description": "ARTICLES WORN BY AN INDIVIDUAL - USED"
+    },
+    {
+      "code": 9994,
+      "description": "TOILET ARTICLES"
+    },
+    {
+      "code": 9994,
+      "description": "COSMETICS"
+    },
+    {
+      "code": 9994,
+      "description": "PERSONAL EFFECTS - OF AN INDIVIDUAL OR A FAMILY MAKING A CHANGE OF RESIDENCE -A: HOUSEHOLD GOODS (USED/NOT FOR RESALE) B: WEARING APPAREL"
+    },
+    {
+      "code": 9994,
+      "description": "HOUSEHOLD GOODS"
+    },
+    {
+      "code": 9995,
+      "description": "ARTICLES USED BY AN INDIVIDUAL - NOT FOR RESALE -"
+    },
+    {
+      "code": 9995,
+      "description": "TOILET ARTICLES"
+    },
+    {
+      "code": 9995,
+      "description": "COSMETICS"
+    },
+    {
+      "code": 9995,
+      "description": "WEARING APPAREL"
+    },
+    {
+      "code": 9996,
+      "description": "USED"
+    },
+    {
+      "code": 9996,
+      "description": "HOUSEHOLD GOODS AND PERSONAL EFFECTS"
+    },
+    {
+      "code": 9998,
+      "description": "'PERSONAL EFFECTS - OF AN INDIVIDUAL OR FAMILY/NOT FOR RESALE"
+    },
+    {
+      "code": 9998,
+      "description": "HOUSEHOLD GOODS"
+    },
+    {
+      "code": 9999,
+      "description": "SMALL ARMS; APPAREL"
+    },
+    {
+      "code": 9999,
+      "description": "MODELS AND PARTS THEREOF; AIRCRAFT PARTS; AMMUNITION"
+    },
+    {
+      "code": 9999,
+      "description": "STORE OR WINDOW; AIRCRAFT"
+    },
+    {
+      "code": 9999,
+      "description": "GUMMED OR ADHESIVE TAPE; ADVERTISING MATTER"
+    },
+    {
+      "code": 9999,
+      "description": "PASTE"
+    },
+    {
+      "code": 9999,
+      "description": "NAMELY GLUE"
+    },
+    {
+      "code": 9999,
+      "description": "NAMELY GRINDING WHEELS AND POLISHING DISCS; ADHESIVES AND ADHESIVE ARTICLES"
+    },
+    {
+      "code": 9999,
+      "description": "ABRASIVES"
+    },
+    {
+      "code": 10000,
+      "description": "OTHER"
+    },    
+    {
+      "code": 10002,
+      "description": "COURIER"
+    },
+    {
+      "code": 10003,
+      "description": "CONSOL"
+    },
+    {
+      "code": 10125,
+      "description": "OVERWEIGHT SHIPMENT 70-99 KG/PC"
+    },
+    {
+      "code": 10135,
+      "description": "OVERWEIGHT SHIPMENT WITH 100-149KG/PC"
+    },
+    {
+      "code": 19945,
+      "description": "MAIL 01 (MORE THAN 30KG /PC)"
+    },
+    {
+      "code": 19946,
+      "description": "MAIL"
+    }
+  ]

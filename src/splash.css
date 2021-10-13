@@ -1,0 +1,35 @@
+.splash-body {
+    font-family: 'Roboto Condensed', sans-serif;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.splash-content{
+    border: white 5px solid;
+    z-index: 99;
+    background-color: #ffffffb8;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.splash-content h2{
+    padding:20px;
+}
+
+.splash-container {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background: url(/assets/imgs/splash2.jpg) green center no-repeat;
+    background-size: cover;
+    filter: blur(3px);
+}
